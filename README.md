@@ -1,43 +1,43 @@
-# Berean Standard Bible (BSB)
+# Markdown Bibles
 
-A complete, locally-stored copy of the **Berean Standard Bible** — a free, open-source English translation of the Holy Bible.
+A collection of complete Bible translations in **Markdown format** — freely available for OpenClaw, Hermes, and other AI agent platforms.
 
-## About This Project
+## Available Translations
 
-This repository contains the full text of the BSB in Markdown format, making it easy to:
-- Reference Scripture offline
-- Search across the entire Bible instantly
-- Use with AI assistants (like OpenClaw/Hermes) for Bible study and lookup
-- Embed in personal study tools and curriculum
+### 📖 BSB — Berean Standard Bible
+- **License:** CC BY-SA 4.0
+- **Source:** https://berean.bible/
+- **Folder:** [bsb/](bsb/)
 
-## Translation Info
+A free, open-source English translation. Known for accuracy and readability.
 
-- **Translation:** Berean Standard Bible (BSB)
-- **Publisher:** BSB Publishing / Lockman Foundation
-- **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Website:** https://berean.bible/
+---
 
-## Files
+## Why Markdown?
 
-- `bsb.md` — The complete Bible (66 books, 1,189 chapters, ~31,000 verses)
-- `LICENSE` — Full license text (CC BY-SA 4.0)
-- `README.md` — This file
+- Instantly searchable across the entire Bible
+- Works offline with AI assistants
+- Easy to embed in study tools, curriculum, and presentations
+- Human-readable source — no app or API needed
 
-## How to Use with OpenClaw/Hermes
+## How to Use
 
-Place `bsb.md` in your agent's workspace (e.g., `~/.openclaw/workspace/bibles/bsb.md`) and ask your assistant questions like:
+Place any translation folder in your agent's workspace:
 
+```
+~/.openclaw/workspace/bibles/bsb/bsb.md
+```
+
+Then ask your assistant questions like:
 - "What does BSB say about faith?"
 - "Read Genesis 1:1-5 from BSB"
-- "Find all verses about grace in BSB"
+- "Find all verses about grace"
 
-## Attribution
+## Adding More Translations
 
-> The Berean Standard Bible (BSB) is a free, open-source English translation of the Holy Bible.
-> Copyright © 2022 by Lockman Foundation. Used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-> https://berean.bible/
+More Bible translations (KJV, WEB, etc.) will be added as subfolders over time. All translations use open or public domain licenses.
 
 ## Related
 
-- [OpenClaw](https://github.com/openclaw/openclaw) — The agent platform this was created for
-- [Hermes](https://github.com/niclasolofsson/hermes) — Another agent platform compatible with this format
+- [OpenClaw](https://github.com/openclaw/openclaw) — Agent platform this was created for
+- [Hermes](https://github.com/niclasolofsson/hermes) — Compatible with this format
