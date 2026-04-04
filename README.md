@@ -18,6 +18,13 @@ A free, open-source English translation. Known for accuracy and readability.
 
 A modern, easy-to-read translation ideal for devotional study and devotions.
 
+### 📖 ESV — English Standard Version
+- **License:** Copyright 2001 by Crossway. Used by permission. For personal use only.
+- **Source:** https://www.esv.org
+- **Folder:** [esv/](esv/)
+
+A word-for-word translation known for literary excellence and theological precision. Ideal for detailed Bible study and expository preaching.
+
 ---
 
 ## Why Markdown?
@@ -34,12 +41,14 @@ Place any translation folder in your agent workspace:
 ```
 ~/.openclaw/workspace/bibles/bsb/bsb.md
 ~/.openclaw/workspace/bibles/nlt/nlt.md
+~/.openclaw/workspace/bibles/esv/esv.md
 ```
 
 Then ask your assistant questions like:
 - "What does BSB say about faith?"
 - "Read Genesis 1:1-5 from NLT"
-- "Find all verses about grace"
+- "Find all verses about grace in ESV"
+- "Compare how different translations render Romans 3:23"
 
 ## Adding More Translations
 
