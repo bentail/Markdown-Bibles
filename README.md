@@ -22,7 +22,7 @@ A free, open-source English translation. Known for accuracy and readability.
 
 ## How to Use
 
-Place any translation folder in your agent's workspace:
+Place any translation folder in your agent workspace:
 
 ```
 ~/.openclaw/workspace/bibles/bsb/bsb.md
@@ -40,4 +40,4 @@ More Bible translations (KJV, WEB, etc.) will be added as subfolders over time. 
 ## Related
 
 - [OpenClaw](https://github.com/openclaw/openclaw) — Agent platform this was created for
-- [Hermes](https://github.com/niclasolofsson/hermes) — Compatible with this format
+- [Hermes](https://github.com/NousResearch/hermes-agent) — Compatible with this format
