@@ -18,12 +18,12 @@ source: https://berean.bible/
 
 **v3** And God said, "Let there be light," and there was light.
 **v4** And God saw that the light was good, and He separated the light from the darkness.
-**v5** God called the light "day," and the darkness He called "night."And there was evening, and there was morning—the first day. 
+**v5** God called the light "day," and the darkness He called "night." And there was evening, and there was morning—the first day. 
 #### The Second Day
 
 **v6** And God said, "Let there be an expanse between the waters, to separate the waters from the waters."
 **v7** So God made the expanse and separated the waters beneath it from the waters above. And it was so.
-**v8** God called the expanse "sky."And there was evening, and there was morning—the second day.
+**v8** God called the expanse "sky." And there was evening, and there was morning—the second day.
 #### The Third Day
 
 **v9** And God said, "Let the waters under the sky be gathered into one place, so that the dry land may appear." And it was so.
@@ -409,7 +409,7 @@ source: https://berean.bible/
 **v23** Then Shem and Japheth took a garment and placed it across their shoulders, and walking backward, they covered their father's nakedness. Their faces were turned away so that they did not see their father's nakedness.
 
 **v24** When Noah awoke from his drunkenness and learned what his youngest son had done to him,
-**v25** he said,"Cursed be Canaan!A servant of servantsshall he be to his brothers."
+**v25** he said," Cursed be Canaan!A servant of servantsshall he be to his brothers."
 #### Shem's Blessing and Noah's Death
 
 **v26** He also declared:"Blessed be the LORD, the God of Shem!May Canaan be the servant of Shem.
@@ -627,7 +627,7 @@ source: https://berean.bible/
 
 **v18** Then Melchizedek king of Salem brought out bread and wine—since he was priest of God Most High —
 **v19** and he blessed Abram and said:"Blessed be Abram by God Most High,Creator of heaven and earth,
-**v20** and blessed be God Most High,who has delivered your enemies into your hand."Then Abram gave Melchizedek a tenth of everything.
+**v20** and blessed be God Most High,who has delivered your enemies into your hand." Then Abram gave Melchizedek a tenth of everything.
 
 **v21** The king of Sodom said to Abram, "Give me the people, but take the goods for yourself."
 
@@ -674,7 +674,7 @@ source: https://berean.bible/
 
 #### Hagar and Ishmael
 **v1** Now Abram's wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar.
-**v2** So Sarai said to Abram, "Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her."And Abram listened to the voice of Sarai.
+**v2** So Sarai said to Abram, "Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her." And Abram listened to the voice of Sarai.
 **v3** So after he had lived in Canaan for ten years, his wife Sarai took her Egyptian maidservant Hagar and gave her to Abram to be his wife.
 **v4** And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress. 
 
@@ -758,9 +758,9 @@ source: https://berean.bible/
 **v8** Then Abraham brought curds and milk and the calf that had been prepared, and he set them before the men and stood by them under the tree as they ate.
 #### Sarah Laughs at the Promise
 
-**v9** "Where is your wife Sarah?" they asked."There, in the tent," he replied.
+**v9** "Where is your wife Sarah?" they asked." There, in the tent," he replied.
 
-**v10** Then the LORD said, "I will surely return to you at this time next year, and your wife Sarah will have a son!"Now Sarah was behind him, listening at the entrance to the tent.
+**v10** Then the LORD said, "I will surely return to you at this time next year, and your wife Sarah will have a son!" Now Sarah was behind him, listening at the entrance to the tent.
 **v11** And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing.
 **v12** So she laughed to herself, saying, "After I am worn out and my master is old, will I now have this pleasure?"
 
@@ -788,15 +788,15 @@ source: https://berean.bible/
 **v26** So the LORD replied, "If I find fifty righteous ones within the city of Sodom, on their account I will spare the whole place."
 
 **v27** Then Abraham answered, "Now that I have ventured to speak to the Lord—though I am but dust and ashes—
-**v28** suppose the fifty righteous ones lack five. Will You destroy the whole city for the lack of five?"He replied, "If I find forty-five there, I will not destroy it."
+**v28** suppose the fifty righteous ones lack five. Will You destroy the whole city for the lack of five?" He replied, "If I find forty-five there, I will not destroy it."
 
-**v29** Once again Abraham spoke to the LORD, "Suppose forty are found there?"He answered, "On account of the forty, I will not do it."
+**v29** Once again Abraham spoke to the LORD, "Suppose forty are found there?" He answered, "On account of the forty, I will not do it."
 
-**v30** Then Abraham said, "May the Lord not be angry, but let me speak further. Suppose thirty are found there?"He replied, "If I find thirty there, I will not do it."
+**v30** Then Abraham said, "May the Lord not be angry, but let me speak further. Suppose thirty are found there?" He replied, "If I find thirty there, I will not do it."
 
-**v31** And Abraham said, "Now that I have ventured to speak to the Lord, suppose twenty are found there?"He answered, "On account of the twenty, I will not destroy it."
+**v31** And Abraham said, "Now that I have ventured to speak to the Lord, suppose twenty are found there?" He answered, "On account of the twenty, I will not destroy it."
 
-**v32** Finally, Abraham said, "May the Lord not be angry, but let me speak once more. Suppose ten are found there?"And He answered, "On account of the ten, I will not destroy it."
+**v32** Finally, Abraham said, "May the Lord not be angry, but let me speak once more. Suppose ten are found there?" And He answered, "On account of the ten, I will not destroy it."
 
 **v33** When the LORD had finished speaking with Abraham, He departed, and Abraham returned home.
 
@@ -965,7 +965,7 @@ source: https://berean.bible/
 
 **v6** Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together.
 
-**v7** Then Isaac said to his father Abraham, "My father!""Here I am, my son," he replied."The fire and the wood are here," said Isaac, "but where is the lamb for the burnt offering?"
+**v7** Then Isaac said to his father Abraham, "My father!""Here I am, my son," he replied." The fire and the wood are here," said Isaac, "but where is the lamb for the burnt offering?"
 
 **v8** Abraham answered, "God Himself will provide the lamb for the burnt offering, my son." And the two walked on together.
 
@@ -1079,7 +1079,7 @@ source: https://berean.bible/
 **v31** "Come, you who are blessed by the LORD," said Laban. "Why are you standing out here? I have prepared the house and a place for the camels."
 **v32** So the man came to the house, and the camels were unloaded. Straw and feed were brought to the camels, and water to wash his feet and the feet of his companions.
 
-**v33** Then a meal was set before the man, but he said, "I will not eat until I have told you what I came to say."So Laban said, "Please speak."
+**v33** Then a meal was set before the man, but he said, "I will not eat until I have told you what I came to say." So Laban said, "Please speak."
 
 **v34** "I am Abraham's servant," he replied.
 **v35** "The LORD has greatly blessed my master, and he has become rich. He has given him sheep and cattle, silver and gold, menservants and maidservants, camels and donkeys.
@@ -1122,7 +1122,7 @@ source: https://berean.bible/
 **v58** They called Rebekah and asked her, "Will you go with this man?""I will go," she replied.
 
 **v59** So they sent their sister Rebekah on her way, along with her nurse and Abraham's servant and his men.
-**v60** And they blessed Rebekah and said to her,"Our sister, may you become the motherof thousands upon thousands.May your offspring possessthe gates of their enemies."
+**v60** And they blessed Rebekah and said to her," Our sister, may you become the motherof thousands upon thousands.May your offspring possessthe gates of their enemies."
 
 **v61** Then Rebekah and her servant girls got ready, mounted the camels, and followed the man. So the servant took Rebekah and left.
 #### Isaac Marries Rebekah
@@ -1211,7 +1211,7 @@ source: https://berean.bible/
 **v7** But when the men of that place asked about his wife, he said, "She is my sister." For he was afraid to say, "She is my wife," since he thought to himself, "The men of this place will kill me on account of Rebekah, because she is so beautiful."
 
 **v8** When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah.
-**v9** Abimelech sent for Isaac and said, "So she is really your wife! How could you say, 'She is my sister'?"Isaac replied, "Because I thought I might die on account of her."
+**v9** Abimelech sent for Isaac and said, "So she is really your wife! How could you say, 'She is my sister'?" Isaac replied, "Because I thought I might die on account of her."
 
 **v10** "What is this you have done to us?" asked Abimelech. "One of the people could easily have slept with your wife, and you would have brought guilt upon us."
 **v11** So Abimelech warned all the people, saying, "Whoever harms this man or his wife will surely be put to death."
@@ -1295,9 +1295,9 @@ source: https://berean.bible/
 **v22** So Jacob came close to his father Isaac, who touched him and said, "The voice is the voice of Jacob, but the hands are the hands of Esau."
 **v23** Isaac did not recognize him, because his hands were hairy like those of his brother Esau; so he blessed him.
 
-**v24** Again he asked, "Are you really my son Esau?"And he replied, "I am."
+**v24** Again he asked, "Are you really my son Esau?" And he replied, "I am."
 
-**v25** "Serve me," said Isaac, "and let me eat some of my son's game, so that I may bless you."Jacob brought it to him, and he ate; then he brought him wine, and he drank.
+**v25** "Serve me," said Isaac, "and let me eat some of my son's game, so that I may bless you." Jacob brought it to him, and he ate; then he brought him wine, and he drank.
 
 **v26** Then his father Isaac said to him, "Please come near and kiss me, my son."
 
@@ -1381,9 +1381,9 @@ source: https://berean.bible/
 
 **v4** "My brothers," Jacob asked the shepherds, "where are you from?""We are from Haran," they answered.
 
-**v5** "Do you know Laban the grandson of Nahor?" Jacob asked."We know him," they replied.
+**v5** "Do you know Laban the grandson of Nahor?" Jacob asked." We know him," they replied.
 
-**v6** "Is he well?" Jacob inquired."Yes," they answered, "and here comes his daughter Rachel with his sheep."
+**v6** "Is he well?" Jacob inquired." Yes," they answered, "and here comes his daughter Rachel with his sheep."
 
 **v7** "Look," said Jacob, "it is still broad daylight; it is not yet time to gather the livestock. Water the sheep and take them back to pasture."
 
@@ -1397,7 +1397,7 @@ source: https://berean.bible/
 **v13** When Laban heard the news about his sister's son Jacob, he ran out to meet him. He embraced him and kissed him and brought him to his home, where Jacob told him all that had happened.
 #### Jacob Marries Leah and Rachel
 
-**v14** Then Laban declared, "You are indeed my own flesh and blood."After Jacob had stayed with him a month,
+**v14** Then Laban declared, "You are indeed my own flesh and blood." After Jacob had stayed with him a month,
 **v15** Laban said to him, "Just because you are my relative, should you work for nothing? Tell me what your wages should be."
 
 **v16** Now Laban had two daughters; the older was named Leah, and the younger was named Rachel.
@@ -1487,7 +1487,7 @@ source: https://berean.bible/
 **v29** Then Jacob answered, "You know how I have served you and how your livestock have thrived under my care.
 **v30** Indeed, you had very little before my arrival, but now your wealth has increased many times over. The LORD has blessed you wherever I set foot. But now, when may I also provide for my own household?"
 
-**v31** "What can I give you?" Laban asked."You do not need to give me anything," Jacob replied. "If you do this one thing for me, I will keep on shepherding and keeping your flocks.
+**v31** "What can I give you?" Laban asked." You do not need to give me anything," Jacob replied. "If you do this one thing for me, I will keep on shepherding and keeping your flocks.
 **v32** Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb, and every spotted or speckled goat. These will be my wages.
 **v33** So my honesty will testify for me when you come to check on my wages in the future. If I have any goats that are not speckled or spotted, or any lambs that are not dark-colored, they will be considered stolen."
 
@@ -1577,13 +1577,13 @@ source: https://berean.bible/
 **v46** and he said to his relatives, "Gather some stones." So they took stones and made a mound, and there by the mound they ate.
 **v47** Laban called it Jegar-sahadutha, and Jacob called it Galeed. 
 
-**v48** Then Laban declared, "This mound is a witness between you and me this day."Therefore the place was called Galeed.
+**v48** Then Laban declared, "This mound is a witness between you and me this day." Therefore the place was called Galeed.
 **v49** It was also called Mizpah, because Laban said, "May the LORD keep watch between you and me when we are absent from each other.
 **v50** If you mistreat my daughters or take other wives, although no one is with us, remember that God is a witness between you and me."
 
 **v51** Laban also said to Jacob, "Here is the mound, and here is the pillar I have set up between you and me.
 **v52** This mound is a witness, and this pillar is a witness, that I will not go past this mound to harm you, and you will not go past this mound and pillar to harm me.
-**v53** May the God of Abraham and the God of Nahor, the God of their father, judge between us."So Jacob swore by the Fear of his father Isaac.
+**v53** May the God of Abraham and the God of Nahor, the God of their father, judge between us." So Jacob swore by the Fear of his father Isaac.
 
 **v54** Then Jacob offered a sacrifice on the mountain and invited his relatives to eat a meal. And after they had eaten, they spent the night on the mountain.
 **v55** Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home.
@@ -1627,13 +1627,13 @@ source: https://berean.bible/
 
 **v24** So Jacob was left all alone, and there a man wrestled with him until daybreak.
 **v25** When the man saw that he could not overpower Jacob, he struck the socket of Jacob's hip and dislocated it as they wrestled.
-**v26** Then the man said, "Let me go, for it is daybreak."But Jacob replied, "I will not let you go unless you bless me."
+**v26** Then the man said, "Let me go, for it is daybreak." But Jacob replied, "I will not let you go unless you bless me."
 
-**v27** "What is your name?" the man asked."Jacob," he replied.
+**v27** "What is your name?" the man asked." Jacob," he replied.
 
 **v28** Then the man said, "Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed."
 
-**v29** And Jacob requested, "Please tell me your name."But he replied, "Why do you ask my name?" Then he blessed Jacob there.
+**v29** And Jacob requested, "Please tell me your name." But he replied, "Why do you ask my name?" Then he blessed Jacob there.
 
 **v30** So Jacob named the place Peniel, saying, "Indeed, I have seen God face to face, and yet my life was spared."
 
@@ -1649,11 +1649,11 @@ source: https://berean.bible/
 
 **v4** Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.
 
-**v5** When Esau looked up and saw the women and children, he asked, "Who are these with you?"Jacob answered, "These are the children God has graciously given your servant."
+**v5** When Esau looked up and saw the women and children, he asked, "Who are these with you?" Jacob answered, "These are the children God has graciously given your servant."
 **v6** Then the maidservants and their children approached and bowed down.
 **v7** Leah and her children also approached and bowed down, and then Joseph and Rachel approached and bowed down.
 
-**v8** "What do you mean by sending this whole company to meet me?" asked Esau."To find favor in your sight, my lord," Jacob answered.
+**v8** "What do you mean by sending this whole company to meet me?" asked Esau." To find favor in your sight, my lord," Jacob answered.
 
 **v9** "I already have plenty, my brother," Esau replied. "Keep what belongs to you."
 
@@ -1879,7 +1879,7 @@ source: https://berean.bible/
 **v12** Some time later, Joseph's brothers had gone to pasture their father's flocks near Shechem.
 **v13** Israel said to him, "Are not your brothers pasturing the flocks at Shechem? Get ready; I am sending you to them.""I am ready," Joseph replied.
 
-**v14** Then Israel told him, "Go now and see how your brothers and the flocks are faring, and bring word back to me."So he sent him off from the Valley of Hebron. And when Joseph arrived in Shechem,
+**v14** Then Israel told him, "Go now and see how your brothers and the flocks are faring, and bring word back to me." So he sent him off from the Valley of Hebron. And when Joseph arrived in Shechem,
 **v15** a man found him wandering in the field and asked, "What are you looking for?"
 
 **v16** "I am looking for my brothers," Joseph replied. "Can you please tell me where they are pasturing their flocks?"
@@ -2009,7 +2009,7 @@ source: https://berean.bible/
 **v6** When Joseph came to them in the morning, he saw that they were distraught.
 **v7** So he asked the officials of Pharaoh who were in custody with him in his master's house, "Why are your faces so downcast today?"
 
-**v8** "We both had dreams," they replied, "but there is no one to interpret them."Then Joseph said to them, "Don't interpretations belong to God? Tell me your dreams."
+**v8** "We both had dreams," they replied, "but there is no one to interpret them." Then Joseph said to them, "Don't interpretations belong to God? Tell me your dreams."
 
 **v9** So the chief cupbearer told Joseph his dream: "In my dream there was a vine before me,
 **v10** and on the vine were three branches. As it budded, its blossoms opened and its clusters ripened into grapes.
@@ -2131,7 +2131,7 @@ source: https://berean.bible/
 **v5** So the sons of Israel were among those who came to buy grain, since the famine had also spread to the land of Canaan.
 
 **v6** Now Joseph was the ruler of the land; he was the one who sold grain to all its people. So when his brothers arrived, they bowed down before him with their faces to the ground.
-**v7** And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. "Where have you come from?" he asked."From the land of Canaan," they replied. "We are here to buy food."
+**v7** And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. "Where have you come from?" he asked." From the land of Canaan," they replied. "We are here to buy food."
 
 **v8** Although Joseph recognized his brothers, they did not recognize him.
 **v9** Joseph remembered his dreams about them and said, "You are spies! You have come to see if our land is vulnerable."
@@ -2150,7 +2150,7 @@ source: https://berean.bible/
 **v17** So Joseph imprisoned them for three days,
 **v18** and on the third day he said to them, "I fear God. So do this and you will live:
 **v19** If you are honest, leave one of your brothers in custody while the rest of you go and take back grain to relieve the hunger of your households.
-**v20** Then bring your youngest brother to me so that your words can be verified, that you may not die."And to this they consented.
+**v20** Then bring your youngest brother to me so that your words can be verified, that you may not die." And to this they consented.
 
 **v21** Then they said to one another, "Surely we are being punished because of our brother. We saw his anguish when he pleaded with us, but we would not listen. That is why this distress has come upon us."
 
@@ -2164,7 +2164,7 @@ source: https://berean.bible/
 **v26** and they loaded the grain on their donkeys and departed.
 
 **v27** At the place where they lodged for the night, one of them opened his sack to get feed for his donkey, and he saw his silver in the mouth of the sack.
-**v28** "My silver has been returned!" he said to his brothers. "It is here in my sack."Their hearts sank, and trembling, they turned to one another and said, "What is this that God has done to us?"
+**v28** "My silver has been returned!" he said to his brothers. "It is here in my sack." Their hearts sank, and trembling, they turned to one another and said, "What is this that God has done to us?"
 
 **v29** When they reached their father Jacob in the land of Canaan, they described to him all that had happened to them:
 **v30** "The man who is lord of the land spoke harshly to us and accused us of spying on the country.
@@ -2242,7 +2242,7 @@ source: https://berean.bible/
 
 #### Benjamin and the Silver Cup
 **v1** Then Joseph instructed his steward: "Fill the men's sacks with as much food as they can carry, and put each one's silver in the mouth of his sack.
-**v2** Put my cup, the silver one, in the mouth of the youngest one's sack, along with the silver for his grain."So the steward did as Joseph had instructed.
+**v2** Put my cup, the silver one, in the mouth of the youngest one's sack, along with the silver for his grain." So the steward did as Joseph had instructed.
 
 **v3** At daybreak, the men were sent on their way with their donkeys.
 **v4** They had not gone far from the city when Joseph told his steward, "Pursue the men at once, and when you overtake them, ask, 'Why have you repaid good with evil? 
@@ -2300,12 +2300,12 @@ source: https://berean.bible/
 ### Chapter 45
 
 #### Joseph Reveals His Identity
-**v1** Then Joseph could no longer control himself before all his attendants, and he cried out, "Send everyone away from me!"So none of them were with Joseph when he made himself known to his brothers.
+**v1** Then Joseph could no longer control himself before all his attendants, and he cried out, "Send everyone away from me!" So none of them were with Joseph when he made himself known to his brothers.
 **v2** But he wept so loudly that the Egyptians heard him, and Pharaoh's household soon heard of it.
 
-**v3** Joseph said to his brothers, "I am Joseph! Is my father still alive?"But they were unable to answer him, because they were terrified in his presence.
+**v3** Joseph said to his brothers, "I am Joseph! Is my father still alive?" But they were unable to answer him, because they were terrified in his presence.
 
-**v4** Then Joseph said to his brothers, "Please come near me." And they did so."I am Joseph, your brother," he said, "the one you sold into Egypt!
+**v4** Then Joseph said to his brothers, "Please come near me." And they did so." I am Joseph, your brother," he said, "the one you sold into Egypt!
 **v5** And now, do not be distressed or angry with yourselves that you sold me into this place, because it was to save lives that God sent me before you.
 **v6** For the famine has covered the land these two years, and there will be five more years without plowing or harvesting.
 **v7** God sent me before you to preserve you as a remnant on the earth and to save your lives by a great deliverance. 
@@ -2338,7 +2338,7 @@ source: https://berean.bible/
 #### The Revival of Jacob
 
 **v25** So the brothers went up out of Egypt and came to their father Jacob in the land of Canaan.
-**v26** "Joseph is still alive," they said, "and he is ruler over all the land of Egypt!"But Jacob was stunned, for he did not believe them.
+**v26** "Joseph is still alive," they said, "and he is ruler over all the land of Egypt!" But Jacob was stunned, for he did not believe them.
 **v27** However, when they relayed all that Joseph had told them, and when he saw the wagons that Joseph had sent to carry him back, the spirit of their father Jacob was revived.
 
 **v28** "Enough!" declared Israel. "My son Joseph is still alive! I will go to see him before I die."
@@ -2347,7 +2347,7 @@ source: https://berean.bible/
 
 #### Jacob's Journey to Egypt
 **v1** So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac.
-**v2** And that night God spoke to Israel in a vision: "Jacob, Jacob!" He said."Here I am," replied Jacob.
+**v2** And that night God spoke to Israel in a vision: "Jacob, Jacob!" He said." Here I am," replied Jacob.
 
 **v3** "I am God," He said, "the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there.
 **v4** I will go down with you to Egypt, and I will surely bring you back. And Joseph's own hands will close your eyes."
@@ -2420,7 +2420,7 @@ source: https://berean.bible/
 
 **v2** And he chose five of his brothers and presented them before Pharaoh.
 
-**v3** "What is your occupation?" Pharaoh asked Joseph's brothers."Your servants are shepherds," they replied, "both we and our fathers."
+**v3** "What is your occupation?" Pharaoh asked Joseph's brothers." Your servants are shepherds," they replied, "both we and our fathers."
 
 **v4** Then they said to Pharaoh, "We have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen."
 
@@ -2464,7 +2464,7 @@ source: https://berean.bible/
 **v28** And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years.
 
 **v29** When the time drew near for Israel to die, he called his son Joseph and said to him, "If I have found favor in your eyes, put your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt,
-**v30** but when I lie down with my fathers, carry me out of Egypt and bury me with them."Joseph answered, "I will do as you have requested."
+**v30** but when I lie down with my fathers, carry me out of Egypt and bury me with them." Joseph answered, "I will do as you have requested."
 
 **v31** "Swear to me," Jacob said.So Joseph swore to him, and Israel bowed in worship at the head of his bed. 
 
@@ -2484,7 +2484,7 @@ source: https://berean.bible/
 
 **v8** When Israel saw the sons of Joseph, he asked, "Who are these?"
 
-**v9** Joseph said to his father, "They are the sons God has given me in this place."So Jacob said, "Please bring them to me, that I may bless them."
+**v9** Joseph said to his father, "They are the sons God has given me in this place." So Jacob said, "Please bring them to me, that I may bless them."
 
 **v10** Now Israel's eyesight was poor because of old age; he could hardly see. Joseph brought his sons to him, and his father kissed them and embraced them.
 
@@ -2591,7 +2591,7 @@ source: https://berean.bible/
 **v15** When Joseph's brothers saw that their father was dead, they said, "What if Joseph bears a grudge? Then he will surely repay us for all the evil that we did to him."
 
 **v16** So they sent word to Joseph, saying, "Before he died, your father commanded,
-**v17** 'This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.' So now, Joseph, please forgive the transgression of the servants of the God of your father."When their message came to him, Joseph wept.
+**v17** 'This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.' So now, Joseph, please forgive the transgression of the servants of the God of your father." When their message came to him, Joseph wept.
 **v18** His brothers also came to him, bowed down before him, and said, "We are your slaves!"
 
 **v19** But Joseph replied, "Do not be afraid. Am I in the place of God?
@@ -2949,7 +2949,7 @@ source: https://berean.bible/
 
 **v9** Moses said to Pharaoh, "You may have the honor over me. When shall I pray for you and your officials and your people that the frogs (except for those in the Nile) may be taken away from you and your houses?"
 
-**v10** "Tomorrow," Pharaoh answered."May it be as you say," Moses replied, "so that you may know that there is no one like the LORD our God.
+**v10** "Tomorrow," Pharaoh answered." May it be as you say," Moses replied, "so that you may know that there is no one like the LORD our God.
 **v11** The frogs will depart from you and your houses and your officials and your people; they will remain only in the Nile."
 
 **v12** After Moses and Aaron had left Pharaoh, Moses cried out to the LORD for help with the frogs that He had brought against Pharaoh.
@@ -3109,7 +3109,7 @@ source: https://berean.bible/
 **v5** and every firstborn son in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne, to the firstborn of the servant girl behind the hand mill, as well as the firstborn of all the cattle.
 **v6** Then a great cry will go out over all the land of Egypt. Such an outcry has never been heard before and will never be heard again.
 **v7** But among all the Israelites, not even a dog will snarl at man or beast.' Then you will know that the LORD makes a distinction between Egypt and Israel.
-**v8** And all these officials of yours will come and bow before me, saying, 'Go, you and all the people who follow you!' After that, I will depart."And hot with anger, Moses left Pharaoh's presence.
+**v8** And all these officials of yours will come and bow before me, saying, 'Go, you and all the people who follow you!' After that, I will depart." And hot with anger, Moses left Pharaoh's presence.
 
 **v9** The LORD said to Moses, "Pharaoh will not listen to you, so that My wonders may be multiplied in the land of Egypt."
 
@@ -3242,7 +3242,7 @@ source: https://berean.bible/
 **v2** "Tell the Israelites to turn back and encamp before Pi-hahiroth, between Migdol and the sea. You are to encamp by the sea, directly opposite Baal-zephon.
 
 **v3** For Pharaoh will say of the Israelites, 'They are wandering the land in confusion; the wilderness has boxed them in.'
-**v4** And I will harden Pharaoh's heart so that he will pursue them. But I will gain honor by means of Pharaoh and all his army, and the Egyptians will know that I am the LORD."So this is what the Israelites did.
+**v4** And I will harden Pharaoh's heart so that he will pursue them. But I will gain honor by means of Pharaoh and all his army, and the Egyptians will know that I am the LORD." So this is what the Israelites did.
 
 **v5** When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, "What have we done? We have released Israel from serving us."
 
@@ -3397,7 +3397,7 @@ source: https://berean.bible/
 **v4** Then Moses cried out to the LORD, "What should I do with these people? A little more and they will stone me!"
 
 **v5** And the LORD said to Moses, "Walk on ahead of the people and take some of the elders of Israel with you. Take along in your hand the staff with which you struck the Nile, and go.
-**v6** Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink."So Moses did this in the sight of the elders of Israel.
+**v6** Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink." So Moses did this in the sight of the elders of Israel.
 **v7** He named the place Massah and Meribah because the Israelites quarreled, and because they tested the LORD, saying, "Is the LORD among us or not?"
 #### The Defeat of the Amalekites
 
@@ -3474,9 +3474,9 @@ source: https://berean.bible/
 **v6** And unto Me you shall be a kingdom of priests and a holy nation.' These are the words that you are to speak to the Israelites."
 
 **v7** So Moses went back and summoned the elders of the people and set before them all these words that the LORD had commanded him.
-**v8** And all the people answered together, "We will do everything that the LORD has spoken."So Moses brought their words back to the LORD.
+**v8** And all the people answered together, "We will do everything that the LORD has spoken." So Moses brought their words back to the LORD.
 
-**v9** The LORD said to Moses, "Behold, I will come to you in a dense cloud, so that the people will hear when I speak with you, and they will always put their trust in you."And Moses relayed to the LORD what the people had said.
+**v9** The LORD said to Moses, "Behold, I will come to you in a dense cloud, so that the people will hear when I speak with you, and they will always put their trust in you." And Moses relayed to the LORD what the people had said.
 
 **v10** Then the LORD said to Moses, "Go to the people and consecrate them today and tomorrow. They must wash their clothes
 **v11** and be prepared by the third day, for on the third day the LORD will come down on Mount Sinai in the sight of all the people.
@@ -4193,7 +4193,7 @@ source: https://berean.bible/
 **v24** So I said to them, 'Whoever has gold, let him take it off,' and they gave it to me. And when I threw it into the fire, out came this calf!"
 
 **v25** Moses saw that the people were out of control, for Aaron had let them run wild and become a laughingstock to their enemies.
-**v26** So Moses stood at the entrance to the camp and said, "Whoever is for the LORD, come to me."And all the Levites gathered around him.
+**v26** So Moses stood at the entrance to the camp and said, "Whoever is for the LORD, come to me." And all the Levites gathered around him.
 
 **v27** He told them, "This is what the LORD, the God of Israel, says: 'Each of you men is to fasten his sword to his side, go back and forth through the camp from gate to gate, and slay his brother, his friend, and his neighbor.'"
 
@@ -5036,7 +5036,7 @@ source: https://berean.bible/
 **v5** So they came forward and carried them, still in their tunics, outside the camp, as Moses had directed.
 
 **v6** Then Moses said to Aaron and his sons Eleazar and Ithamar, "Do not let your hair become disheveled and do not tear your garments, or else you will die, and the LORD will be angry with the whole congregation. But your brothers, the whole house of Israel, may mourn on account of the fire that the LORD has ignited.
-**v7** You shall not go outside the entrance to the Tent of Meeting, or you will die, for the LORD's anointing oil is on you."So they did as Moses instructed.
+**v7** You shall not go outside the entrance to the Tent of Meeting, or you will die, for the LORD's anointing oil is on you." So they did as Moses instructed.
 #### Restrictions for Priests
 
 **v8** Then the LORD said to Aaron,
@@ -5424,7 +5424,7 @@ source: https://berean.bible/
 
 **v32** The priest who is anointed and ordained to succeed his father as high priest shall make atonement. He will put on the sacred linen garments
 **v33** and make atonement for the Most Holy Place, the Tent of Meeting, and the altar, and for the priests and all the people of the assembly.
-**v34** This is to be a permanent statute for you, to make atonement once a year for the Israelites because of all their sins."And all this was done as the LORD had commanded Moses.
+**v34** This is to be a permanent statute for you, to make atonement once a year for the Israelites because of all their sins." And all this was done as the LORD had commanded Moses.
 
 ### Chapter 17
 
@@ -6680,7 +6680,7 @@ source: https://berean.bible/
 **v33** So they set out on a three-day journey from the mountain of the LORD, with the ark of the covenant of the LORD traveling ahead of them for those three days to seek a resting place for them.
 **v34** And the cloud of the LORD was over them by day when they set out from the camp.
 
-**v35** Whenever the ark set out, Moses would say,"Rise up, O LORD!May Your enemies be scattered;may those who hate You flee before You."
+**v35** Whenever the ark set out, Moses would say," Rise up, O LORD!May Your enemies be scattered;may those who hate You flee before You."
 
 **v36** And when it came to rest, he would say:"Return, O LORD,to the countless thousands of Israel."
 
@@ -7223,7 +7223,7 @@ source: https://berean.bible/
 
 **v16** From there they went on to Beer, the well where the LORD said to Moses, "Gather the people so that I may give them water."
 **v17** Then Israel sang this song:"Spring up, O well,all of you sing to it!
-**v18** The princes dug the well;the nobles of the people hollowed it outwith their sceptersand with their staffs."From the wilderness the Israelites went on to Mattanah,
+**v18** The princes dug the well;the nobles of the people hollowed it outwith their sceptersand with their staffs." From the wilderness the Israelites went on to Mattanah,
 **v19** and from Mattanah to Nahaliel, and from Nahaliel to Bamoth,
 **v20** and from Bamoth to the valley in Moab where the top of Pisgah overlooks the wasteland. 
 #### The Defeat of Sihon
@@ -7258,8 +7258,8 @@ source: https://berean.bible/
 
 **v2** Now Balak son of Zippor saw all that Israel had done to the Amorites,
 **v3** and Moab was terrified of the people because they were numerous. Indeed, Moab dreaded the Israelites.
-**v4** So the Moabites said to the elders of Midian, "This horde will devour everything around us, as an ox licks up the grass of the field."Since Balak son of Zippor was king of Moab at that time,
-**v5** he sent messengers to summon Balaam son of Beor at Pethor, which is by the Euphrates in the land of his people."Behold, a people has come out of Egypt," said Balak. "They cover the face of the land and have settled next to me.
+**v4** So the Moabites said to the elders of Midian, "This horde will devour everything around us, as an ox licks up the grass of the field." Since Balak son of Zippor was king of Moab at that time,
+**v5** he sent messengers to summon Balaam son of Beor at Pethor, which is by the Euphrates in the land of his people." Behold, a people has come out of Egypt," said Balak. "They cover the face of the land and have settled next to me.
 **v6** So please come now and put a curse on this people, because they are too mighty for me. Perhaps I may be able to defeat them and drive them out of the land; for I know that those you bless are blessed, and those you curse are cursed."
 
 **v7** The elders of Moab and Midian departed with the fees for divination in hand. They came to Balaam and relayed to him the words of Balak.
@@ -7330,7 +7330,7 @@ source: https://berean.bible/
 
 **v2** So Balak did as Balaam had instructed, and Balak and Balaam offered a bull and a ram on each altar.
 
-**v3** "Stay here by your burnt offering while I am gone," Balaam said to Balak. "Perhaps the LORD will meet with me. And whatever He reveals to me, I will tell you."So Balaam went off to a barren height,
+**v3** "Stay here by your burnt offering while I am gone," Balaam said to Balak. "Perhaps the LORD will meet with me. And whatever He reveals to me, I will tell you." So Balaam went off to a barren height,
 **v4** and God met with him. "I have set up seven altars," Balaam said, "and on each altar I have offered a bull and a ram."
 
 **v5** Then the LORD put a message in Balaam's mouth, saying, "Return to Balak and give him this message."
@@ -7355,7 +7355,7 @@ source: https://berean.bible/
 
 **v16** And the LORD met with Balaam and put a message in his mouth, saying, "Return to Balak and speak what I tell you."
 
-**v17** So he returned to Balak, who was standing there by his burnt offering with the princes of Moab."What did the LORD say?" Balak asked.
+**v17** So he returned to Balak, who was standing there by his burnt offering with the princes of Moab." What did the LORD say?" Balak asked.
 
 **v18** Then Balaam lifted up an oracle, saying:"Arise, O Balak, and listen;give ear to me, O son of Zippor.
 **v19** God is not a man, that He should lie,or a son of man, that He should change His mind.Does He speak and not act?Does He promise and not fulfill?
@@ -7399,7 +7399,7 @@ source: https://berean.bible/
 **v14** Now I am going back to my people, but come, let me warn you what this people will do to your people in the days to come."
 #### Balaam's Fourth Oracle
 
-**v15** Then Balaam lifted up an oracle, saying,"This is the prophecy of Balaam son of Beor,the prophecy of a man whose eyes are open,
+**v15** Then Balaam lifted up an oracle, saying," This is the prophecy of Balaam son of Beor,the prophecy of a man whose eyes are open,
 **v16** the prophecy of one who hears the words of God,who has knowledge from the Most High,who sees a vision from the Almighty,who bows down with eyes wide open:
 **v17** I see him, but not now;I behold him, but not near.A star will come forth from Jacob,and a scepter will arise from Israel.He will crush the skulls of Moaband strike down all the sons of Sheth.
 **v18** Edom will become a possession,as will Seir, his enemy;but Israel will perform with valor.
@@ -7451,7 +7451,7 @@ source: https://berean.bible/
 **v2** "Take a census of the whole congregation of Israel by the houses of their fathers—all those twenty years of age or older who can serve in the army of Israel."
 
 **v3** So on the plains of Moab by the Jordan, across from Jericho, Moses and Eleazar the priest issued the instruction,
-**v4** "Take a census of the men twenty years of age or older, as the LORD has commanded Moses."And these were the Israelites who came out of the land of Egypt:
+**v4** "Take a census of the men twenty years of age or older, as the LORD has commanded Moses." And these were the Israelites who came out of the land of Egypt:
 #### The Tribe of Reuben
 
 **v5** Reuben was the firstborn of Israel. These were the descendants of Reuben:The Hanochite clan from Hanoch,the Palluite clan from Pallu,
@@ -8227,7 +8227,7 @@ source: https://berean.bible/
 **v11** Like the Anakites, they were also regarded as Rephaim, though the Moabites called them Emites.
 **v12** The Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land that the LORD gave them as their possession.)
 
-**v13** "Now arise and cross over the Brook of Zered."So we crossed over the Brook of Zered.
+**v13** "Now arise and cross over the Brook of Zered." So we crossed over the Brook of Zered.
 
 **v14** The time we spent traveling from Kadesh-barnea until we crossed over the Brook of Zered was thirty-eight years, until that entire generation of fighting men had perished from the camp, as the LORD had sworn to them.
 **v15** Indeed, the LORD's hand was against them, to eliminate them from the camp, until they had all perished.
@@ -8589,7 +8589,7 @@ source: https://berean.bible/
 **v21** And I took that sinful thing, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust, and I cast it into the stream that came down from the mountain.
 
 **v22** You continued to provoke the LORD at Taberah, at Massah, and at Kibroth-hattaavah. 
-**v23** And when the LORD sent you out from Kadesh-barnea, He said, "Go up and possess the land that I have given you."But you rebelled against the command of the LORD your God. You neither believed Him nor obeyed Him.
+**v23** And when the LORD sent you out from Kadesh-barnea, He said, "Go up and possess the land that I have given you." But you rebelled against the command of the LORD your God. You neither believed Him nor obeyed Him.
 **v24** You have been rebelling against the LORD since the day I came to know you.
 **v25** So I fell down before the LORD for forty days and forty nights, because the LORD had said He would destroy you.
 
@@ -9041,7 +9041,7 @@ source: https://berean.bible/
 **v5** And the priests, the sons of Levi, shall come forward, for the LORD your God has chosen them to serve Him and pronounce blessings in His name and to give a ruling in every dispute and case of assault.
 **v6** Then all the elders of the city nearest the victim shall wash their hands by the stream over the heifer whose neck has been broken,
 **v7** and they shall declare, "Our hands did not shed this blood, nor did our eyes see it.
-**v8** Accept this atonement, O LORD, for Your people Israel whom You have redeemed, and do not hold the shedding of innocent blood against them."And the bloodshed will be atoned for.
+**v8** Accept this atonement, O LORD, for Your people Israel whom You have redeemed, and do not hold the shedding of innocent blood against them." And the bloodshed will be atoned for.
 **v9** So you shall purge from among you the guilt of shedding innocent blood, since you have done what is right in the eyes of the LORD.
 #### Marrying a Captive Woman
 
@@ -9251,7 +9251,7 @@ source: https://berean.bible/
 **v7** So we called out to the LORD, the God of our fathers; and the LORD heard our voice and saw our affliction, toil, and oppression.
 **v8** Then the LORD brought us out of Egypt with a mighty hand and an outstretched arm, with great terror, signs, and wonders.
 **v9** And He brought us to this place and gave us this land, a land flowing with milk and honey.
-**v10** And now, behold, I have brought the firstfruits of the land that You, O LORD, have given me."Then you are to place the basket before the LORD your God and bow down before Him.
+**v10** And now, behold, I have brought the firstfruits of the land that You, O LORD, have given me." Then you are to place the basket before the LORD your God and bow down before Him.
 **v11** So you shall rejoice—you, the Levite, and the foreigner dwelling among you—in all the good things the LORD your God has given to you and your household.
 
 **v12** When you have finished laying aside a tenth of all your produce in the third year, the year of the tithe, you are to give it to the Levite, the foreigner, the fatherless, and the widow, that they may eat and be filled within your gates.
@@ -9526,7 +9526,7 @@ source: https://berean.bible/
 **v13** Then their children who do not know the law will listen and learn to fear the LORD your God, as long as you live in the land that you are crossing the Jordan to possess."
 #### God Commissions Joshua
 
-**v14** Then the LORD said to Moses, "Behold, the time of your death is near. Call Joshua and present yourselves at the Tent of Meeting, so that I may commission him."So Moses and Joshua went and presented themselves at the Tent of Meeting.
+**v14** Then the LORD said to Moses, "Behold, the time of your death is near. Call Joshua and present yourselves at the Tent of Meeting, so that I may commission him." So Moses and Joshua went and presented themselves at the Tent of Meeting.
 **v15** Then the LORD appeared at the tent in a pillar of cloud, and the cloud stood over the entrance to the tent.
 
 **v16** And the LORD said to Moses, "You will soon rest with your fathers, and these people will rise up and prostitute themselves with the foreign gods of the land they are entering. They will forsake Me and break the covenant I have made with them.
@@ -9857,9 +9857,9 @@ source: https://berean.bible/
 
 **v13** Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in His hand. Joshua approached Him and asked, "Are You for us or for our enemies?"
 
-**v14** "Neither," He replied. "I have now come as Commander of the LORD's army."Then Joshua fell facedown in reverence and asked Him, "What does my Lord have to say to His servant?"
+**v14** "Neither," He replied. "I have now come as Commander of the LORD's army." Then Joshua fell facedown in reverence and asked Him, "What does my Lord have to say to His servant?"
 
-**v15** The Commander of the LORD's army replied, "Take off your sandals, for the place where you are standing is holy."And Joshua did so.
+**v15** The Commander of the LORD's army replied, "Take off your sandals, for the place where you are standing is holy." And Joshua did so.
 
 ### Chapter 6
 
@@ -10084,7 +10084,7 @@ source: https://berean.bible/
 **v22** Then Joshua said, "Open the mouth of the cave and bring those five kings out to me."
 **v23** So they brought the five kings out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon.
 
-**v24** When they had brought the kings to Joshua, he summoned all the men of Israel and said to the army commanders who had accompanied him, "Come here and put your feet on the necks of these kings."So the commanders came forward and put their feet on their necks.
+**v24** When they had brought the kings to Joshua, he summoned all the men of Israel and said to the army commanders who had accompanied him, "Come here and put your feet on the necks of these kings." So the commanders came forward and put their feet on their necks.
 
 **v25** "Do not be afraid or discouraged," Joshua said. "Be strong and courageous, for the LORD will do this to all the enemies you fight."
 
@@ -10319,7 +10319,7 @@ source: https://berean.bible/
 
 **v18** One day Acsah came to Othniel and urged him to ask her father for a field. When she got off her donkey, Caleb asked her, "What do you desire?"
 
-**v19** "Give me a blessing," she answered. "Since you have given me land in the Negev, give me springs of water as well."So Caleb gave her both the upper and lower springs.
+**v19** "Give me a blessing," she answered. "Since you have given me land in the Negev, give me springs of water as well." So Caleb gave her both the upper and lower springs.
 #### The Cities of Judah
 
 **v20** This is the inheritance of the clans of the tribe of Judah.
@@ -10400,7 +10400,7 @@ source: https://berean.bible/
 **v2** So this allotment was for the rest of the descendants of Manasseh—the clans of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the other male descendants of the clans of Manasseh son of Joseph.
 
 **v3** But Zelophehad son of Hepher (the son of Gilead, the son of Machir, the son of Manasseh) had no sons but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
-**v4** They approached Eleazar the priest, Joshua son of Nun, and the leaders, and said, "The LORD commanded Moses to give us an inheritance among our brothers."So Joshua gave them an inheritance among their father's brothers, in keeping with the command of the LORD.
+**v4** They approached Eleazar the priest, Joshua son of Nun, and the leaders, and said, "The LORD commanded Moses to give us an inheritance among our brothers." So Joshua gave them an inheritance among their father's brothers, in keeping with the command of the LORD.
 **v5** Thus ten shares fell to Manasseh, in addition to the land of Gilead and Bashan beyond the Jordan,
 **v6** because the daughters of Manasseh received an inheritance among his sons. And the land of Gilead belonged to the rest of the sons of Manasseh.
 
@@ -10802,7 +10802,7 @@ source: https://berean.bible/
 
 **v14** One day Acsah came to Othniel and urged him to ask her father for a field. When she got off her donkey, Caleb asked her, "What do you desire?"
 
-**v15** "Give me a blessing," she answered. "Since you have given me land in the Negev, give me springs of water as well."So Caleb gave her both the upper and lower springs.
+**v15** "Give me a blessing," she answered. "Since you have given me land in the Negev, give me springs of water as well." So Caleb gave her both the upper and lower springs.
 
 **v16** Now the descendants of Moses' father-in-law, the Kenite, went up with the men of Judah from the City of Palms to the Wilderness of Judah in the Negev near Arad. They went to live among the people.
 
@@ -10924,7 +10924,7 @@ source: https://berean.bible/
 **v26** Ehud, however, had escaped while the servants waited. He passed by the idols and escaped to Seirah.
 
 **v27** On arriving in Seirah, he blew the ram's horn throughout the hill country of Ephraim. The Israelites came down with him from the hills, and he became their leader.
-**v28** "Follow me," he told them, "for the LORD has delivered your enemies the Moabites into your hand."So they followed him down and seized the fords of the Jordan leading to Moab, and they did not allow anyone to cross over.
+**v28** "Follow me," he told them, "for the LORD has delivered your enemies the Moabites into your hand." So they followed him down and seized the fords of the Jordan leading to Moab, and they did not allow anyone to cross over.
 **v29** At that time they struck down about ten thousand Moabites, all robust and valiant men. Not one of them escaped.
 
 **v30** So Moab was subdued under the hand of Israel that day, and the land had rest for eighty years.
@@ -10955,7 +10955,7 @@ source: https://berean.bible/
 **v12** When Sisera was told that Barak son of Abinoam had gone up Mount Tabor,
 **v13** he summoned all nine hundred of his iron chariots and all the men with him, from Harosheth-hagoyim to the River Kishon.
 
-**v14** Then Deborah said to Barak, "Arise, for this is the day that the LORD has delivered Sisera into your hand. Has not the LORD gone before you?"So Barak came down from Mount Tabor with ten thousand men following him.
+**v14** Then Deborah said to Barak, "Arise, for this is the day that the LORD has delivered Sisera into your hand. Has not the LORD gone before you?" So Barak came down from Mount Tabor with ten thousand men following him.
 **v15** And in front of him the LORD routed with the sword Sisera, all his charioteers, and all his army. Sisera abandoned his chariot and fled on foot.
 
 **v16** Then Barak pursued the chariots and army as far as Harosheth-hagoyim, and the whole army of Sisera fell by the sword; not a single man was left.
@@ -11019,7 +11019,7 @@ source: https://berean.bible/
 **v29** Her wisest ladies answer;indeed she keeps telling herself,
 **v30** 'Are they not finding and dividing the spoil—a girl or two for each warrior,a plunder of dyed garments for Sisera,the spoil of embroidered garmentsfor the neck of the looter?'
 
-**v31** So may all Your enemies perish,O LORD!But may those who love Youshine like the sun at its brightest."And the land had rest for forty years.
+**v31** So may all Your enemies perish,O LORD!But may those who love Youshine like the sun at its brightest." And the land had rest for forty years.
 
 ### Chapter 6
 
@@ -11051,7 +11051,7 @@ source: https://berean.bible/
 **v16** "Surely I will be with you," the LORD replied, "and you will strike down all the Midianites as one man."
 
 **v17** Gideon answered, "If I have found favor in Your sight, give me a sign that it is You speaking with me.
-**v18** Please do not depart from this place until I return to You. Let me bring my offering and set it before You."And the LORD said, "I will stay until you return."
+**v18** Please do not depart from this place until I return to You. Let me bring my offering and set it before You." And the LORD said, "I will stay until you return."
 
 **v19** So Gideon went in and prepared a young goat and unleavened bread and an ephah of flour. He placed the meat in a basket and the broth in a pot and brought them out to present to Him under the oak.
 
@@ -11266,7 +11266,7 @@ source: https://berean.bible/
 
 **v35** Now Gaal son of Ebed went out and stood at the entrance of the city gate just as Abimelech and his men came out from their hiding places.
 
-**v36** When Gaal saw the people, he said to Zebul, "Look, people are coming down from the mountains!"But Zebul replied, "The shadows of the mountains look like men to you."
+**v36** When Gaal saw the people, he said to Zebul, "Look, people are coming down from the mountains!" But Zebul replied, "The shadows of the mountains look like men to you."
 
 **v37** Then Gaal spoke up again, "Look, people are coming down from the center of the land, and one company is coming by way of the Diviners' Oak. "
 
@@ -11412,8 +11412,8 @@ source: https://berean.bible/
 
 **v4** Jephthah then gathered all the men of Gilead and fought against Ephraim. And the men of Gilead struck them down because the Ephraimites had said, "You Gileadites are fugitives in Ephraim, living in the territories of Ephraim and Manasseh."
 
-**v5** The Gileadites captured the fords of the Jordan leading to Ephraim, and whenever a fugitive from Ephraim would say, "Let me cross over," the Gileadites would ask him, "Are you an Ephraimite?"If he answered, "No,"
-**v6** they told him, "Please say Shibboleth."If he said, "Sibboleth," because he could not pronounce it correctly, they seized him and killed him at the fords of the Jordan. So at that time 42,000 Ephraimites were killed.
+**v5** The Gileadites captured the fords of the Jordan leading to Ephraim, and whenever a fugitive from Ephraim would say, "Let me cross over," the Gileadites would ask him, "Are you an Ephraimite?" If he answered, "No,"
+**v6** they told him, "Please say Shibboleth." If he said, "Sibboleth," because he could not pronounce it correctly, they seized him and killed him at the fords of the Jordan. So at that time 42,000 Ephraimites were killed.
 
 **v7** Jephthah judged Israel six years, and when he died, he was buried in one of the cities of Gilead. 
 #### Ibzan, Elon, and Abdon
@@ -11479,7 +11479,7 @@ source: https://berean.bible/
 **v1** One day Samson went down to Timnah, where he saw a young Philistine woman.
 **v2** So he returned and told his father and mother, "I have seen a daughter of the Philistines in Timnah. Now get her for me as a wife."
 
-**v3** But his father and mother replied, "Can't you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?"But Samson told his father, "Get her for me, for she is pleasing to my eyes."
+**v3** But his father and mother replied, "Can't you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?" But Samson told his father, "Get her for me, for she is pleasing to my eyes."
 **v4** (Now his father and mother did not know this was from the LORD, who was seeking an occasion to move against the Philistines; for at that time the Philistines were ruling over Israel.)
 
 **v5** Then Samson went down to Timnah with his father and mother and came to the vineyards of Timnah. Suddenly a young lion came roaring at him,
@@ -11496,14 +11496,14 @@ source: https://berean.bible/
 **v12** "Let me tell you a riddle," Samson said to them. "If you can solve it for me within the seven days of the feast, I will give you thirty linen garments and thirty sets of clothes.
 **v13** But if you cannot solve it, you must give me thirty linen garments and thirty sets of clothes.""Tell us your riddle," they replied. "Let us hear it."
 
-**v14** So he said to them:"Out of the eater came something to eat,and out of the strong came something sweet."For three days they were unable to explain the riddle.
+**v14** So he said to them:"Out of the eater came something to eat,and out of the strong came something sweet." For three days they were unable to explain the riddle.
 **v15** So on the fourth day they said to Samson's wife, "Entice your husband to explain the riddle to us, or we will burn you and your father's household to death. Did you invite us here to rob us?"
 
 **v16** Then Samson's wife came to him, weeping, and said, "You hate me! You do not really love me! You have posed to my people a riddle, but have not explained it to me.""Look," he said, "I have not even explained it to my father or mother, so why should I explain it to you?"
 
 **v17** She wept the whole seven days of the feast, and finally on the seventh day, because she had pressed him so much, he told her the answer. And in turn she explained the riddle to her people.
 
-**v18** Before sunset on the seventh day, the men of the city said to Samson:"What is sweeter than honey?And what is stronger than a lion?"So he said to them:"If you had not plowed with my heifer,you would not have solved my riddle!"
+**v18** Before sunset on the seventh day, the men of the city said to Samson:"What is sweeter than honey?And what is stronger than a lion?" So he said to them:"If you had not plowed with my heifer,you would not have solved my riddle!"
 
 **v19** Then the Spirit of the LORD came mightily upon him, and he went down to Ashkelon, killed thirty of their men, took their apparel, and gave their clothes to those who had solved the riddle. And burning with anger, Samson returned to his father's house,
 **v20** and his wife was given to one of the men who had accompanied him.
@@ -11520,7 +11520,7 @@ source: https://berean.bible/
 **v4** Then Samson went out and caught three hundred foxes. And he took torches, turned the foxes tail-to-tail, and fastened a torch between each pair of tails.
 **v5** Then he lit the torches and released the foxes into the standing grain of the Philistines, burning up the piles of grain and the standing grain, as well as the vineyards and olive groves.
 
-**v6** "Who did this?" the Philistines demanded."It was Samson, the son-in-law of the Timnite," they were told. "For his wife was given to his companion."So the Philistines went up and burned her and her father to death.
+**v6** "Who did this?" the Philistines demanded." It was Samson, the son-in-law of the Timnite," they were told. "For his wife was given to his companion." So the Philistines went up and burned her and her father to death.
 
 **v7** And Samson told them, "Because you have done this, I will not rest until I have taken vengeance upon you."
 **v8** And he struck them ruthlessly with a great slaughter, and then went down and stayed in the cave at the rock of Etam.
@@ -11531,7 +11531,7 @@ source: https://berean.bible/
 
 **v11** In response, three thousand men of Judah went to the cave at the rock of Etam, and they asked Samson, "Do you not realize that the Philistines rule over us? What have you done to us?""I have done to them what they did to me," he replied.
 
-**v12** But they said to him, "We have come down to arrest you and hand you over to the Philistines."Samson replied, "Swear to me that you will not kill me yourselves."
+**v12** But they said to him, "We have come down to arrest you and hand you over to the Philistines." Samson replied, "Swear to me that you will not kill me yourselves."
 
 **v13** "No," they answered, "we will not kill you, but we will tie you up securely and hand you over to them." So they bound him with two new ropes and led him up from the rock.
 
@@ -11565,17 +11565,17 @@ source: https://berean.bible/
 **v7** Samson told her, "If they tie me up with seven fresh bowstrings that have not been dried, I will become as weak as any other man."
 
 **v8** So the lords of the Philistines brought her seven fresh bowstrings that had not been dried, and she tied him up with them.
-**v9** While the men were hidden in her room, she called out, "Samson, the Philistines are here!"But he snapped the bowstrings like a strand of yarn seared by a flame. So the source of his strength remained unknown.
+**v9** While the men were hidden in her room, she called out, "Samson, the Philistines are here!" But he snapped the bowstrings like a strand of yarn seared by a flame. So the source of his strength remained unknown.
 
 **v10** Then Delilah said to Samson, "You have mocked me and lied to me! Now please tell me how you can be tied up."
 
 **v11** He replied, "If they tie me up with new ropes that have never been used, I will become as weak as any other man."
 
-**v12** So Delilah took new ropes, tied him up with them, and called out, "Samson, the Philistines are here!"But while the men were hidden in her room, he snapped the ropes off his arms like they were threads.
+**v12** So Delilah took new ropes, tied him up with them, and called out, "Samson, the Philistines are here!" But while the men were hidden in her room, he snapped the ropes off his arms like they were threads.
 
-**v13** Then Delilah said to Samson, "You have mocked me and lied to me all along! Tell me how you can be tied up."He told her, "If you weave the seven braids of my head into the web of a loom and tighten it with a pin, I will become as weak as any other man. "
+**v13** Then Delilah said to Samson, "You have mocked me and lied to me all along! Tell me how you can be tied up." He told her, "If you weave the seven braids of my head into the web of a loom and tighten it with a pin, I will become as weak as any other man. "
 
-**v14** So while he slept, Delilah took the seven braids of his hair and wove them into the web. Then she tightened it with a pin and called to him, "Samson, the Philistines are here!"But he awoke from his sleep and pulled out the pin with the loom and the web.
+**v14** So while he slept, Delilah took the seven braids of his hair and wove them into the web. Then she tightened it with a pin and called to him, "Samson, the Philistines are here!" But he awoke from his sleep and pulled out the pin with the loom and the web.
 #### Delilah Learns the Secret
 
 **v15** "How can you say, 'I love you,'" she asked, "when your heart is not with me? This is the third time you have mocked me and failed to reveal to me the source of your great strength!"
@@ -11583,10 +11583,10 @@ source: https://berean.bible/
 **v16** Finally, after she had pressed him daily with her words and pleaded until he was sick to death,
 **v17** Samson told her all that was in his heart: "My hair has never been cut, because I have been a Nazirite to God from my mother's womb. If I am shaved, my strength will leave me, and I will become as weak as any other man."
 
-**v18** When Delilah realized that he had revealed to her all that was in his heart, she sent this message to the lords of the Philistines: "Come up once more, for he has revealed to me all that is in his heart."Then the lords of the Philistines came to her, bringing the money in their hands.
+**v18** When Delilah realized that he had revealed to her all that was in his heart, she sent this message to the lords of the Philistines: "Come up once more, for he has revealed to me all that is in his heart." Then the lords of the Philistines came to her, bringing the money in their hands.
 
 **v19** And having lulled him to sleep on her lap, she called a man to shave off the seven braids of his head. In this way she began to subdue him, and his strength left him.
-**v20** Then she called out, "Samson, the Philistines are here!"When Samson awoke from his sleep, he thought, "I will escape as I did before and shake myself free." But he did not know that the LORD had departed from him.
+**v20** Then she called out, "Samson, the Philistines are here!" When Samson awoke from his sleep, he thought, "I will escape as I did before and shake myself free." But he did not know that the LORD had departed from him.
 
 **v21** Then the Philistines seized him, gouged out his eyes, and brought him down to Gaza, where he was bound with bronze shackles and forced to grind grain in the prison.
 
@@ -11606,7 +11606,7 @@ source: https://berean.bible/
 **v28** Then Samson called out to the LORD: "O Lord GOD, please remember me. Strengthen me, O God, just once more, so that with one vengeful blow I may pay back the Philistines for my two eyes."
 
 **v29** And Samson reached out for the two central pillars supporting the temple. Bracing himself against them with his right hand on one pillar and his left hand on the other,
-**v30** Samson said, "Let me die with the Philistines."Then he pushed with all his might, and the temple fell on the lords and all the people in it. So in his death he killed more than he had killed in his life.
+**v30** Samson said, "Let me die with the Philistines." Then he pushed with all his might, and the temple fell on the lords and all the people in it. So in his death he killed more than he had killed in his life.
 
 **v31** Then Samson's brothers and his father's family came down, carried him back, and buried him between Zorah and Eshtaol in the tomb of his father Manoah. And he had judged Israel twenty years.
 
@@ -11614,7 +11614,7 @@ source: https://berean.bible/
 
 #### Micah's Idolatry
 **v1** Now a man named Micah from the hill country of Ephraim
-**v2** said to his mother, "The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it."Then his mother said, "Blessed be my son by the LORD!"
+**v2** said to his mother, "The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it." Then his mother said, "Blessed be my son by the LORD!"
 
 **v3** And when he had returned the eleven hundred shekels of silver to his mother, she said, "I wholly dedicate the silver to the LORD for my son's benefit, to make a graven image and a molten idol. Therefore I will now return it to you."
 
@@ -11626,9 +11626,9 @@ source: https://berean.bible/
 **v7** And there was a young Levite from Bethlehem in Judah who had been residing within the clan of Judah.
 **v8** This man left the city of Bethlehem in Judah to settle where he could find a place. And as he traveled, he came to Micah's house in the hill country of Ephraim.
 
-**v9** "Where are you from?" Micah asked him."I am a Levite from Bethlehem in Judah," he replied, "and I am on my way to settle wherever I can find a place."
+**v9** "Where are you from?" Micah asked him." I am a Levite from Bethlehem in Judah," he replied, "and I am on my way to settle wherever I can find a place."
 
-**v10** "Stay with me," Micah said to him, "and be my father and priest, and I will give you ten shekels of silver per year, a suit of clothes, and your provisions."So the Levite went in
+**v10** "Stay with me," Micah said to him, "and be my father and priest, and I will give you ten shekels of silver per year, a suit of clothes, and your provisions." So the Levite went in
 **v11** and agreed to stay with him, and the young man became like a son to Micah.
 
 **v12** Micah ordained the Levite, and the young man became his priest and lived in his house.
@@ -11755,7 +11755,7 @@ source: https://berean.bible/
 
 **v11** So all the men of Israel gathered as one man, united against the city.
 **v12** And the tribes of Israel sent men throughout the tribe of Benjamin, saying, "What is this wickedness that has occurred among you?
-**v13** Hand over the wicked men of Gibeah so we can put them to death and purge Israel of this evil."But the Benjamites refused to heed the voice of their fellow Israelites.
+**v13** Hand over the wicked men of Gibeah so we can put them to death and purge Israel of this evil." But the Benjamites refused to heed the voice of their fellow Israelites.
 **v14** And from their cities they came together at Gibeah to go out and fight against the Israelites.
 **v15** On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addition to the 700 select men of Gibeah.
 **v16** Among all these soldiers there were 700 select left-handers, each of whom could sling a stone at a hair without missing.
@@ -11771,14 +11771,14 @@ source: https://berean.bible/
 **v21** And the Benjamites came out of Gibeah and cut down 22,000 Israelites on the battlefield that day.
 
 **v22** But the Israelite army took courage and again took their battle positions in the same place where they had arrayed themselves on the first day.
-**v23** They went up and wept before the LORD until evening, inquiring of Him, "Should we again draw near for battle against our brothers the Benjamites?"And the LORD answered, "Go up against them."
+**v23** They went up and wept before the LORD until evening, inquiring of Him, "Should we again draw near for battle against our brothers the Benjamites?" And the LORD answered, "Go up against them."
 
 **v24** On the second day the Israelites advanced against the Benjamites.
 **v25** That same day the Benjamites came out against them from Gibeah and cut down another 18,000 Israelites, all of them armed with swords.
 
 **v26** Then the Israelites, all the people, went up to Bethel, where they sat weeping before the LORD. That day they fasted until evening and presented burnt offerings and peace offerings to the LORD.
 **v27** And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there,
-**v28** and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, "Should we again go out to battle against our brothers the Benjamites, or should we stop?"The LORD answered, "Fight, for tomorrow I will deliver them into your hand."
+**v28** and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, "Should we again go out to battle against our brothers the Benjamites, or should we stop?" The LORD answered, "Fight, for tomorrow I will deliver them into your hand."
 
 **v29** So Israel set up an ambush around Gibeah.
 **v30** On the third day the Israelites went up against the Benjamites and arrayed themselves against Gibeah as they had done before.
@@ -11836,7 +11836,7 @@ source: https://berean.bible/
 
 **v16** Then the elders of the congregation said, "What should we do about wives for those who remain, since the women of Benjamin have been destroyed?"
 **v17** They added, "There must be heirs for the survivors of Benjamin, so that a tribe of Israel will not be wiped out.
-**v18** But we cannot give them our daughters as wives."For the Israelites had sworn, "Cursed is he who gives a wife to a Benjamite."
+**v18** But we cannot give them our daughters as wives." For the Israelites had sworn, "Cursed is he who gives a wife to a Benjamite."
 
 **v19** "But look," they said, "there is a yearly feast to the LORD in Shiloh, which is north of Bethel east of the road that goes up from Bethel to Shechem, and south of Lebonah."
 
@@ -11866,7 +11866,7 @@ source: https://berean.bible/
 **v7** Accompanied by her two daughters-in-law, she left the place where she had been living and set out on the road leading back to the land of Judah.
 
 **v8** Then Naomi said to her two daughters-in-law, "Go back, each of you to your mother's home. May the LORD show you loving devotion, as you have shown to your dead and to me.
-**v9** May the LORD enable each of you to find rest in the home of your new husband."And she kissed them as they wept aloud
+**v9** May the LORD enable each of you to find rest in the home of your new husband." And she kissed them as they wept aloud
 **v10** and said, "Surely we will return with you to your people."
 
 **v11** But Naomi replied, "Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands?
@@ -11924,7 +11924,7 @@ source: https://berean.bible/
 **v17** So Ruth gathered grain in the field until evening. And when she beat out what she had gleaned, it was about an ephah of barley. 
 **v18** She picked up the grain and went into the town, where her mother-in-law saw what she had gleaned. And she brought out what she had saved from her meal and gave it to Naomi.
 
-**v19** Then her mother-in-law asked her, "Where did you glean today, and where did you work? Blessed be the man who noticed you."So she told her mother-in-law where she had worked. "The name of the man I worked with today is Boaz," she said.
+**v19** Then her mother-in-law asked her, "Where did you glean today, and where did you work? Blessed be the man who noticed you." So she told her mother-in-law where she had worked. "The name of the man I worked with today is Boaz," she said.
 
 **v20** Then Naomi said to her daughter-in-law, "May he be blessed by the LORD, who has not withdrawn His kindness from the living or the dead." Naomi continued, "The man is a close relative. He is one of our kinsman-redeemers. "
 
@@ -11949,7 +11949,7 @@ source: https://berean.bible/
 
 **v8** At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!
 
-**v9** "Who are you?" he asked."I am your servant Ruth," she replied. "Spread the corner of your garment over me, for you are a kinsman-redeemer. "
+**v9** "Who are you?" he asked." I am your servant Ruth," she replied. "Spread the corner of your garment over me, for you are a kinsman-redeemer. "
 
 **v10** Then Boaz said, "May the LORD bless you, my daughter. You have shown more kindness now than before, because you have not run after the younger men, whether rich or poor.
 **v11** And now do not be afraid, my daughter. I will do for you whatever you request, since all my fellow townspeople know that you are a woman of noble character.
@@ -11959,7 +11959,7 @@ source: https://berean.bible/
 **v14** So she lay down at his feet until morning, but she got up before anyone else could recognize her.Then Boaz said, "Do not let it be known that a woman came to the threshing floor."
 **v15** And he told her, "Bring the shawl you are wearing and hold it out." When she did so, he poured in six measures of barley and placed it on her. Then he went into the city.
 
-**v16** When Ruth returned to her mother-in-law, Naomi asked her, "How did it go, my daughter?"Then Ruth told her all that Boaz had done for her.
+**v16** When Ruth returned to her mother-in-law, Naomi asked her, "How did it go, my daughter?" Then Ruth told her all that Boaz had done for her.
 **v17** And she said, "He gave me these six measures of barley, for he said, 'Do not go back to your mother-in-law empty-handed.'"
 
 **v18** "Wait, my daughter," said Naomi, "until you find out how things go, for he will not rest unless he has resolved the matter today."
@@ -12055,7 +12055,7 @@ source: https://berean.bible/
 
 **v26** "Please, my lord," said Hannah, "as surely as you live, my lord, I am the woman who stood here beside you praying to the LORD.
 **v27** I prayed for this boy, and since the LORD has granted me what I asked of Him,
-**v28** I now dedicate the boy to the LORD. For as long as he lives, he is dedicated to the LORD."So they worshiped the LORD there.
+**v28** I now dedicate the boy to the LORD. For as long as he lives, he is dedicated to the LORD." So they worshiped the LORD there.
 
 ### Chapter 2
 
@@ -12098,7 +12098,7 @@ source: https://berean.bible/
 
 **v23** "Why are you doing these things?" Eli said to his sons. "I hear about your wicked deeds from all these people.
 **v24** No, my sons; it is not a good report I hear circulating among the LORD's people.
-**v25** If a man sins against another man, God can intercede for him; but if a man sins against the LORD, who can intercede for him?"But they would not listen to their father, since the LORD intended to put them to death.
+**v25** If a man sins against another man, God can intercede for him; but if a man sins against the LORD, who can intercede for him?" But they would not listen to their father, since the LORD intended to put them to death.
 
 **v26** And the boy Samuel continued to grow in stature and in favor with the LORD and with man.
 #### A Prophecy against the House of Eli
@@ -12130,15 +12130,15 @@ source: https://berean.bible/
 
 **v4** Then the LORD called to Samuel, and he answered, "Here I am."
 
-**v5** He ran to Eli and said, "Here I am, for you have called me.""I did not call," Eli replied. "Go back and lie down."So he went and lay down.
+**v5** He ran to Eli and said, "Here I am, for you have called me.""I did not call," Eli replied. "Go back and lie down." So he went and lay down.
 
-**v6** Once again the LORD called, "Samuel!"So Samuel got up, went to Eli, and said, "Here I am, for you have called me.""My son, I did not call," Eli replied. "Go back and lie down."
+**v6** Once again the LORD called, "Samuel!" So Samuel got up, went to Eli, and said, "Here I am, for you have called me.""My son, I did not call," Eli replied. "Go back and lie down."
 
 **v7** Now Samuel did not yet know the LORD, because the word of the LORD had not yet been revealed to him.
-**v8** Once again, for the third time, the LORD called to Samuel. He got up, went to Eli, and said, "Here I am, for you have called me."Then Eli realized that it was the LORD who was calling the boy.
+**v8** Once again, for the third time, the LORD called to Samuel. He got up, went to Eli, and said, "Here I am, for you have called me." Then Eli realized that it was the LORD who was calling the boy.
 **v9** "Go and lie down," he said to Samuel, "and if He calls you, say, 'Speak, LORD, for Your servant is listening.'"So Samuel went and lay down in his place.
 
-**v10** Then the LORD came and stood there, calling as before, "Samuel! Samuel!"And Samuel answered, "Speak, for Your servant is listening."
+**v10** Then the LORD came and stood there, calling as before, "Samuel! Samuel!" And Samuel answered, "Speak, for Your servant is listening."
 
 **v11** Then the LORD said to Samuel, "I am about to do something in Israel at which the ears of all who hear it will tingle.
 **v12** On that day I will carry out against Eli everything I have spoken about his house, from beginning to end.
@@ -12151,7 +12151,7 @@ source: https://berean.bible/
 
 **v17** "What was the message He gave you?" Eli asked. "Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you."
 
-**v18** So Samuel told him everything and did not hide a thing from him."He is the LORD," replied Eli. "Let Him do what is good in His eyes."
+**v18** So Samuel told him everything and did not hide a thing from him." He is the LORD," replied Eli. "Let Him do what is good in His eyes."
 
 **v19** And Samuel grew, and the LORD was with him, and He let none of Samuel's words fall to the ground.
 
@@ -12170,7 +12170,7 @@ source: https://berean.bible/
 
 **v5** When the ark of the covenant of the LORD entered the camp, all the Israelites raised such a great shout that the ground shook.
 
-**v6** On hearing the noise of the shout, the Philistines asked, "What is this loud shouting in the camp of the Hebrews?"And when they realized that the ark of the LORD had entered the camp,
+**v6** On hearing the noise of the shout, the Philistines asked, "What is this loud shouting in the camp of the Hebrews?" And when they realized that the ark of the LORD had entered the camp,
 **v7** the Philistines were afraid. "The gods have entered their camp!" they said. "Woe to us, for nothing like this has happened before.
 **v8** Woe to us! Who will deliver us from the hand of these mighty gods? These are the gods who struck the Egyptians with all kinds of plagues in the wilderness.
 **v9** Take courage and be men, O Philistines! Otherwise, you will serve the Hebrews just as they served you. Now be men and fight!"
@@ -12182,7 +12182,7 @@ source: https://berean.bible/
 **v12** That same day a Benjamite ran from the battle line all the way to Shiloh, with his clothes torn and dirt on his head.
 **v13** When he arrived, there was Eli, sitting on his chair beside the road and watching, because his heart trembled for the ark of God.When the man entered the city to give a report, the whole city cried out.
 
-**v14** Eli heard the outcry and asked, "Why this commotion?"So the man hurried over and reported to Eli.
+**v14** Eli heard the outcry and asked, "Why this commotion?" So the man hurried over and reported to Eli.
 **v15** Now Eli was ninety-eight years old, and his gaze was fixed because he could not see.
 
 **v16** "I have just come from the battle," the man said to Eli. "I fled from there today.""What happened, my son?" Eli asked.
@@ -12193,7 +12193,7 @@ source: https://berean.bible/
 
 **v19** Now Eli's daughter-in-law, the wife of Phinehas, was pregnant and about to give birth. When she heard the news of the capture of God's ark and the deaths of her father-in-law and her husband, she collapsed and gave birth, for her labor pains overtook her.
 
-**v20** As she was dying, the women attending to her said, "Do not be afraid, for you have given birth to a son!"But she did not respond or pay any heed.
+**v20** As she was dying, the women attending to her said, "Do not be afraid, for you have given birth to a son!" But she did not respond or pay any heed.
 **v21** And she named the boy Ichabod, saying, "The glory has departed from Israel," because the ark of God had been captured and her father-in-law and her husband had been killed.
 
 **v22** "The glory has departed from Israel," she said, "for the ark of God has been captured."
@@ -12218,7 +12218,7 @@ source: https://berean.bible/
 
 **v10** So they sent the ark of God to Ekron, but as it arrived, the Ekronites cried out, "They have brought us the ark of the God of Israel in order to kill us and our people!"
 
-**v11** Then the Ekronites called together all the rulers of the Philistines and said, "Send away the ark of the God of Israel. It must return to its place, so that it will not kill us and our people!"For a deadly confusion had pervaded the city; the hand of God was very heavy upon it.
+**v11** Then the Ekronites called together all the rulers of the Philistines and said, "Send away the ark of the God of Israel. It must return to its place, so that it will not kill us and our people!" For a deadly confusion had pervaded the city; the hand of God was very heavy upon it.
 **v12** Those who did not die were afflicted with tumors, and the outcry of the city went up to heaven.
 
 ### Chapter 6
@@ -12229,7 +12229,7 @@ source: https://berean.bible/
 
 **v3** They replied, "If you return the ark of the God of Israel, do not send it away empty, but by all means return it to Him with a guilt offering. Then you will be healed, and you will understand why His hand has not been lifted from you."
 
-**v4** "What guilt offering should we send back to Him?" asked the Philistines."Five gold tumors and five gold rats," they said, "according to the number of rulers of the Philistines, since the same plague has struck both you and your rulers.
+**v4** "What guilt offering should we send back to Him?" asked the Philistines." Five gold tumors and five gold rats," they said, "according to the number of rulers of the Philistines, since the same plague has struck both you and your rulers.
 **v5** Make images of your tumors and of the rats that are ravaging the land. Give glory to the God of Israel, and perhaps He will lift His hand from you and your gods and your land.
 
 **v6** Why harden your hearts as the Egyptians and Pharaoh hardened theirs? When He afflicted them, did they not send the people out so they could go on their way?
@@ -12328,7 +12328,7 @@ source: https://berean.bible/
 
 **v21** Samuel listened to all the words of the people and repeated them in the hearing of the LORD.
 
-**v22** "Listen to their voice," the LORD said to Samuel. "Appoint a king for them."Then Samuel told the men of Israel, "Everyone must go back to his city."
+**v22** "Listen to their voice," the LORD said to Samuel. "Appoint a king for them." Then Samuel told the men of Israel, "Everyone must go back to his city."
 
 ### Chapter 9
 
@@ -12421,10 +12421,10 @@ source: https://berean.bible/
 
 **v20** Thus Samuel had all the tribes of Israel come forward, and the tribe of Benjamin was selected.
 **v21** Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected. Finally, Saul son of Kish was selected. But when they looked for him, they could not find him.
-**v22** So again they inquired of the LORD, "Has the man come here yet?"And the LORD replied, "Behold, he has hidden himself among the baggage."
+**v22** So again they inquired of the LORD, "Has the man come here yet?" And the LORD replied, "Behold, he has hidden himself among the baggage."
 
 **v23** So they ran and brought Saul, and when he stood among the people, he was a head taller than any of the others.
-**v24** Samuel said to all the people, "Do you see the one the LORD has chosen? There is no one like him among all the people."And all the people shouted, "Long live the king!"
+**v24** Samuel said to all the people, "Do you see the one the LORD has chosen? There is no one like him among all the people." And all the people shouted, "Long live the king!"
 
 **v25** Then Samuel explained to the people the rights of kingship. He wrote them on a scroll and laid it up before the LORD. And Samuel sent all the people away, each to his own home.
 
@@ -12446,7 +12446,7 @@ source: https://berean.bible/
 **v5** Just then Saul was returning from the field, behind his oxen. "What troubles the people?" asked Saul. "Why are they weeping?" And they relayed to him the words of the men from Jabesh.
 
 **v6** When Saul heard their words, the Spirit of God rushed upon him, and he burned with great anger.
-**v7** He took a pair of oxen, cut them into pieces, and sent them by messengers throughout the land of Israel, proclaiming, "This is what will be done to the oxen of anyone who does not march behind Saul and Samuel."Then the terror of the LORD fell upon the people, and they came out together as one man.
+**v7** He took a pair of oxen, cut them into pieces, and sent them by messengers throughout the land of Israel, proclaiming, "This is what will be done to the oxen of anyone who does not march behind Saul and Samuel." Then the terror of the LORD fell upon the people, and they came out together as one man.
 **v8** And when Saul numbered them at Bezek, there were 300,000 Israelites and 30,000 men of Judah.
 **v9** So they said to the messengers who had come, "Tell the men of Jabesh-gilead: 'Deliverance will be yours tomorrow by the time the sun is hot.'"And when the messengers relayed this to the men of Jabesh, they rejoiced.
 
@@ -12577,7 +12577,7 @@ source: https://berean.bible/
 **v15** Then panic struck the Philistines in the camp, in the field, and among all the people. Even those in the outposts and raiding parties trembled. Indeed, the earth quaked, and panic spread from God. 
 
 **v16** Now when Saul's watchmen at Gibeah in Benjamin looked and saw the troops melting away and scattering in every direction, 
-**v17** Saul said to the troops who were with him, "Call the roll and see who has left us."And when they had called the roll, they saw that Jonathan and his armor-bearer were not there.
+**v17** Saul said to the troops who were with him, "Call the roll and see who has left us." And when they had called the roll, they saw that Jonathan and his armor-bearer were not there.
 
 **v18** Then Saul said to Ahijah, "Bring the ark of God." (For at that time it was with the Israelites.)
 **v19** While Saul was talking to the priest, the commotion in the Philistine camp continued to increase. So Saul said to the priest, "Withdraw your hand."
@@ -12610,10 +12610,10 @@ source: https://berean.bible/
 **v36** And Saul said, "Let us go down after the Philistines by night and plunder them until dawn, leaving no man alive!""Do what seems good to you," the troops replied.But the priest said, "We must consult God here."
 #### The People Save Jonathan
 
-**v37** So Saul inquired of God, "Shall I go down after the Philistines? Will You give them into the hand of Israel?"But God did not answer him that day.
+**v37** So Saul inquired of God, "Shall I go down after the Philistines? Will You give them into the hand of Israel?" But God did not answer him that day.
 
 **v38** Therefore Saul said, "Come here, all you leaders of the troops, and let us investigate how this sin has occurred today.
-**v39** As surely as the LORD who saves Israel lives, even if it is my son Jonathan, he must die!"But not one of the troops said a word.
+**v39** As surely as the LORD who saves Israel lives, even if it is my son Jonathan, he must die!" But not one of the troops said a word.
 
 **v40** Then Saul said to all Israel, "You stand on one side, and I and my son Jonathan will stand on the other side.""Do what seems good to you," the troops replied.
 
@@ -12625,7 +12625,7 @@ source: https://berean.bible/
 
 **v44** And Saul declared, "May God punish me, and ever so severely, if you, Jonathan, do not surely die!"
 
-**v45** But the people said to Saul, "Must Jonathan die—he who accomplished such a great deliverance for Israel? Never! As surely as the LORD lives, not a hair of his head will fall to the ground, for with God's help he has accomplished this today."So the people rescued Jonathan, and he did not die.
+**v45** But the people said to Saul, "Must Jonathan die—he who accomplished such a great deliverance for Israel? Never! As surely as the LORD lives, not a hair of his head will fall to the ground, for with God's help he has accomplished this today." So the people rescued Jonathan, and he did not die.
 **v46** Then Saul gave up his pursuit of the Philistines, and the Philistines returned to their own land.
 #### Saul's Victories
 
@@ -12647,7 +12647,7 @@ source: https://berean.bible/
 
 **v4** So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.
 **v5** Saul came to the city of Amalek and lay in wait in the valley.
-**v6** And he warned the Kenites, "Since you showed kindness to all the Israelites when they came up out of Egypt, go on and get away from the Amalekites. Otherwise I will sweep you away with them."So the Kenites moved away from the Amalekites.
+**v6** And he warned the Kenites, "Since you showed kindness to all the Israelites when they came up out of Egypt, go on and get away from the Amalekites. Otherwise I will sweep you away with them." So the Kenites moved away from the Amalekites.
 
 **v7** Then Saul struck down the Amalekites all the way from Havilah to Shur, which is east of Egypt.
 **v8** He captured Agag king of Amalek alive, but devoted all the others to destruction with the sword.
@@ -12656,7 +12656,7 @@ source: https://berean.bible/
 #### Samuel Denounces Saul
 
 **v10** Then the word of the LORD came to Samuel, saying,
-**v11** "I regret that I have made Saul king, for he has turned away from following Me and has not carried out My instructions."And Samuel was distressed and cried out to the LORD all that night.
+**v11** "I regret that I have made Saul king, for he has turned away from following Me and has not carried out My instructions." And Samuel was distressed and cried out to the LORD all that night.
 
 **v12** Early in the morning Samuel got up to confront Saul, but he was told, "Saul has gone to Carmel, and behold, he has set up a monument for himself and has turned and gone down to Gilgal."
 
@@ -12692,9 +12692,9 @@ source: https://berean.bible/
 
 **v31** So Samuel went back with Saul, and Saul worshiped the LORD.
 
-**v32** Then Samuel said, "Bring me Agag king of the Amalekites."Agag came to him cheerfully, for he thought, "Surely the bitterness of death is past."
+**v32** Then Samuel said, "Bring me Agag king of the Amalekites." Agag came to him cheerfully, for he thought, "Surely the bitterness of death is past."
 
-**v33** But Samuel declared:"As your sword has made women childless,so your mother will be childless among women."And Samuel hacked Agag to pieces before the LORD at Gilgal.
+**v33** But Samuel declared:"As your sword has made women childless,so your mother will be childless among women." And Samuel hacked Agag to pieces before the LORD at Gilgal.
 
 **v34** Then Samuel went to Ramah, but Saul went up to his home in Gibeah of Saul.
 **v35** And to the day of his death, Samuel never again visited Saul. Samuel mourned for Saul, and the LORD regretted that He had made Saul king over Israel.
@@ -12704,12 +12704,12 @@ source: https://berean.bible/
 #### Samuel Anoints David
 **v1** Now the LORD said to Samuel, "How long are you going to mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have selected from his sons a king for Myself."
 
-**v2** "How can I go?" Samuel asked. "Saul will hear of it and kill me!"The LORD answered, "Take a heifer with you and say, 'I have come to sacrifice to the LORD.'
+**v2** "How can I go?" Samuel asked. "Saul will hear of it and kill me!" The LORD answered, "Take a heifer with you and say, 'I have come to sacrifice to the LORD.'
 **v3** Then invite Jesse to the sacrifice, and I will show you what you are to do. You are to anoint for Me the one I indicate."
 
 **v4** So Samuel did what the LORD had said and went to Bethlehem. When the elders of the town met him, they trembled and asked, "Do you come in peace?"
 
-**v5** "In peace," he replied. "I have come to sacrifice to the LORD. Consecrate yourselves and come with me to the sacrifice."Then he consecrated Jesse and his sons and invited them to the sacrifice.
+**v5** "In peace," he replied. "I have come to sacrifice to the LORD. Consecrate yourselves and come with me to the sacrifice." Then he consecrated Jesse and his sons and invited them to the sacrifice.
 **v6** When they arrived, Samuel saw Eliab and said, "Surely here before the LORD is His anointed."
 
 **v7** But the LORD said to Samuel, "Do not consider his appearance or height, for I have rejected him; the LORD does not see as man does. For man sees the outward appearance, but the LORD sees the heart."
@@ -12808,7 +12808,7 @@ source: https://berean.bible/
 #### David Slays Goliath
 
 **v38** Then Saul clothed David in his own tunic, put a bronze helmet on his head, and dressed him in armor.
-**v39** David strapped his sword over the tunic and tried to walk, but he was not accustomed to them."I cannot walk in these," David said to Saul. "I am not accustomed to them." So David took them off.
+**v39** David strapped his sword over the tunic and tried to walk, but he was not accustomed to them." I cannot walk in these," David said to Saul. "I am not accustomed to them." So David took them off.
 **v40** And David took his staff in his hand, selected five smooth stones from the brook, and put them in the pouch of his shepherd's bag. And with his sling in hand, he approached the Philistine.
 
 **v41** Now the Philistine came closer and closer to David, with his shield-bearer before him.
@@ -12836,7 +12836,7 @@ source: https://berean.bible/
 
 **v57** So when David returned from killing the Philistine, still holding his head in his hand, Abner took him and brought him before Saul.
 
-**v58** "Whose son are you, young man?" asked Saul."I am the son of your servant Jesse of Bethlehem," David replied.
+**v58** "Whose son are you, young man?" asked Saul." I am the son of your servant Jesse of Bethlehem," David replied.
 
 ### Chapter 18
 
@@ -12919,7 +12919,7 @@ source: https://berean.bible/
 **v15** But Saul sent the messengers back to see David and told them, "Bring him up to me in his bed so I can kill him."
 **v16** And when the messengers entered, there was the idol in the bed with the goat hair on its head.
 
-**v17** And Saul said to Michal, "Why did you deceive me like this? You sent my enemy away, and he has escaped!"Michal replied, "He said to me, 'Help me get away, or I will kill you!'"
+**v17** And Saul said to Michal, "Why did you deceive me like this? You sent my enemy away, and he has escaped!" Michal replied, "He said to me, 'Help me get away, or I will kill you!'"
 
 **v18** So David ran away and escaped. And he went to Samuel at Ramah and told him all that Saul had done to him. Then he and Samuel went to Naioth and stayed there.
 
@@ -12954,7 +12954,7 @@ source: https://berean.bible/
 
 **v10** Then David asked Jonathan, "Who will tell me if your father answers you harshly?"
 
-**v11** "Come," he replied, "let us go out to the field."So the two of them went out into the field,
+**v11** "Come," he replied, "let us go out to the field." So the two of them went out into the field,
 **v12** and Jonathan said, "By the LORD, the God of Israel, I will sound out my father by this time tomorrow or the next day. If he is favorable toward you, will I not send for you and tell you?
 **v13** But if my father intends to bring evil on you, then may the LORD punish me, and ever so severely, if I do not tell you and send you on your way in safety. May the LORD be with you, just as He has been with my father.
 **v14** And as long as I live, treat me with the LORD's loving devotion, that I may not die,
@@ -13020,7 +13020,7 @@ source: https://berean.bible/
 
 **v8** Then David asked Ahimelech, "Is there not a spear or sword on hand here? For I have brought neither my sword nor my weapons with me, because the king's mission was urgent."
 
-**v9** The priest replied, "The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want, you may take it. For there is no other but this one here."And David said, "There is none like it; give it to me."
+**v9** The priest replied, "The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want, you may take it. For there is no other but this one here." And David said, "There is none like it; give it to me."
 
 **v10** That day David fled from Saul and went to Achish king of Gath.
 **v11** But the servants of Achish said to him, "Is this not David, the king of the land? Did they not sing about him in their dances, saying:'Saul has slain his thousands,and David his tens of thousands'?"
@@ -13051,7 +13051,7 @@ source: https://berean.bible/
 **v10** Ahimelech inquired of the LORD for him and gave him provisions. He also gave him the sword of Goliath the Philistine."
 
 **v11** Then the king sent messengers to summon Ahimelech the priest, the son of Ahitub, and his father's whole family, who were priests at Nob. And all of them came to the king.
-**v12** "Listen now, son of Ahitub," said Saul."Here I am, my lord," he replied.
+**v12** "Listen now, son of Ahitub," said Saul." Here I am, my lord," he replied.
 
 **v13** And Saul asked him, "Why have you and the son of Jesse conspired against me? You gave him bread and a sword and inquired of God for him so that he could rise up against me to lie in wait, as he is doing today."
 
@@ -13060,9 +13060,9 @@ source: https://berean.bible/
 
 **v16** But the king replied, "You will surely die, Ahimelech, you and all your father's house!"
 
-**v17** Then the king ordered the guards at his side, "Turn and kill the priests of the LORD, because they too sided with David. For they knew he was fleeing, but they did not tell me."But the king's servants would not lift a hand to strike the priests of the LORD.
+**v17** Then the king ordered the guards at his side, "Turn and kill the priests of the LORD, because they too sided with David. For they knew he was fleeing, but they did not tell me." But the king's servants would not lift a hand to strike the priests of the LORD.
 
-**v18** So the king ordered Doeg, "You turn and strike down the priests!"And Doeg the Edomite turned and struck down the priests himself. On that day he killed eighty-five men who wore the linen ephod.
+**v18** So the king ordered Doeg, "You turn and strike down the priests!" And Doeg the Edomite turned and struck down the priests himself. On that day he killed eighty-five men who wore the linen ephod.
 **v19** He also put to the sword Nob, the city of the priests, with its men and women, children and infants, oxen, donkeys, and sheep.
 
 **v20** But one of the sons of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to David.
@@ -13076,7 +13076,7 @@ source: https://berean.bible/
 #### David Delivers Keilah
 **v1** Now it was reported to David, "Look, the Philistines are fighting against Keilah and looting the threshing floors."
 
-**v2** So David inquired of the LORD, "Should I go and attack these Philistines?"And the LORD said to David, "Go and attack the Philistines and save Keilah."
+**v2** So David inquired of the LORD, "Should I go and attack these Philistines?" And the LORD said to David, "Go and attack the Philistines and save Keilah."
 
 **v3** But David's men said to him, "Look, we are afraid here in Judah; how much more if we go to Keilah against the armies of the Philistines?"
 
@@ -13138,7 +13138,7 @@ source: https://berean.bible/
 
 **v7** With these words David restrained his men, and he did not let them rise up against Saul. Then Saul left the cave and went on his way.
 
-**v8** After that, David got up, went out of the cave, and called out to Saul, "My lord the king!"When Saul looked behind him, David bowed facedown in reverence
+**v8** After that, David got up, went out of the cave, and called out to Saul, "My lord the king!" When Saul looked behind him, David bowed facedown in reverence
 **v9** and said to Saul, "Why do you listen to the words of men who say, 'Look, David intends to harm you'?
 **v10** Behold, this day you have seen with your own eyes that the LORD delivered you into my hand in the cave. I was told to kill you, but I spared you and said, 'I will not lift my hand against my lord, since he is the LORD's anointed.'
 
@@ -13151,7 +13151,7 @@ source: https://berean.bible/
 **v15** May the LORD be our judge and decide between you and me. May He take notice and plead my case and deliver me from your hand."
 #### David's Oath to Saul
 
-**v16** When David had finished saying these things, Saul called back, "Is that your voice, David my son?"Then Saul wept aloud
+**v16** When David had finished saying these things, Saul called back, "Is that your voice, David my son?" Then Saul wept aloud
 **v17** and said to David, "You are more righteous than I, for you have rewarded me with good, though I have rewarded you with evil.
 **v18** And you have declared this day how you have treated me well, for when the LORD delivered me into your hand, you did not kill me.
 **v19** When a man finds his enemy, does he let him go away unharmed? May the LORD reward you with good for what you have done for me this day.
@@ -13225,7 +13225,7 @@ source: https://berean.bible/
 **v38** About ten days later, the LORD struck Nabal dead.
 #### David Marries Abigail
 
-**v39** On hearing that Nabal was dead, David said, "Blessed be the LORD, who has upheld my cause against the reproach of Nabal and has restrained His servant from evil. For the LORD has brought the wickedness of Nabal down upon his own head."Then David sent word to Abigail, asking her to become his wife.
+**v39** On hearing that Nabal was dead, David said, "Blessed be the LORD, who has upheld my cause against the reproach of Nabal and has restrained His servant from evil. For the LORD has brought the wickedness of Nabal down upon his own head." Then David sent word to Abigail, asking her to become his wife.
 **v40** When his servants came to Abigail at Carmel, they said, "David has sent us to take you as his wife."
 
 **v41** She arose, bowed facedown, and said, "Here is your servant, ready to serve and to wash the feet of my lord's servants."
@@ -13277,7 +13277,7 @@ source: https://berean.bible/
 **v23** May the LORD repay every man for his righteousness and faithfulness. For the LORD delivered you into my hand today, but I would not extend my hand against the LORD's anointed.
 **v24** As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble."
 
-**v25** Saul said to him, "May you be blessed, David my son. You will accomplish great things and will surely prevail."So David went on his way, and Saul returned home.
+**v25** Saul said to him, "May you be blessed, David my son. You will accomplish great things and will surely prevail." So David went on his way, and Saul returned home.
 ### Chapter 27
 
 #### David and the Philistines
@@ -13294,7 +13294,7 @@ source: https://berean.bible/
 
 **v8** Now David and his men went up and raided the Geshurites, the Girzites, and the Amalekites. (From ancient times these people had inhabited the land extending to Shur and Egypt.)
 **v9** Whenever David attacked a territory, he did not leave a man or woman alive, but he took the flocks and herds, the donkeys, camels, and clothing.Then he would return to Achish,
-**v10** who would ask him, "What have you raided today?"And David would reply, "The Negev of Judah," or "The Negev of Jerahmeel," or "The Negev of the Kenites."
+**v10** who would ask him, "What have you raided today?" And David would reply, "The Negev of Judah," or "The Negev of Jerahmeel," or "The Negev of the Kenites."
 
 **v11** David did not leave a man or woman alive to be brought to Gath, for he said, "Otherwise they will report us, saying, 'This is what David did.'" And this was David's custom the whole time he lived in Philistine territory.
 
@@ -13322,13 +13322,13 @@ source: https://berean.bible/
 
 **v10** Then Saul swore to her by the LORD: "As surely as the LORD lives, no punishment shall come upon you for this."
 
-**v11** "Whom shall I bring up for you?" the woman asked."Bring up Samuel," he replied.
+**v11** "Whom shall I bring up for you?" the woman asked." Bring up Samuel," he replied.
 
 **v12** But when the woman saw Samuel, she cried out in a loud voice and said to Saul, "Why have you deceived me? You are Saul!"
 
 **v13** "Do not be afraid," the king replied. "What do you see?""I see a god coming up out of the earth," the woman answered.
 
-**v14** "What does he look like?" asked Saul."An old man is coming up," she replied. "And he is wearing a robe."So Saul knew that it was Samuel, and he bowed facedown in reverence.
+**v14** "What does he look like?" asked Saul." An old man is coming up," she replied. "And he is wearing a robe." So Saul knew that it was Samuel, and he bowed facedown in reverence.
 
 **v15** Then Samuel said to Saul, "Why have you disturbed me by bringing me up?""I am deeply distressed," replied Saul. "The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called on you to tell me what to do."
 
@@ -13353,7 +13353,7 @@ source: https://berean.bible/
 **v1** Now the Philistines brought all their forces together at Aphek, while Israel camped by the spring in Jezreel.
 **v2** As the Philistine leaders marched out with their units of hundreds and thousands, David and his men marched behind them with Achish.
 
-**v3** Then the commanders of the Philistines asked, "What about these Hebrews?"Achish replied, "Is this not David, the servant of King Saul of Israel? He has been with me all these days, even years, and from the day he defected until today I have found no fault in him."
+**v3** Then the commanders of the Philistines asked, "What about these Hebrews?" Achish replied, "Is this not David, the servant of King Saul of Israel? He has been with me all these days, even years, and from the day he defected until today I have found no fault in him."
 
 **v4** But the commanders of the Philistines were angry with Achish and told him, "Send that man back and let him return to the place you assigned him. He must not go down with us into battle only to become our adversary during the war. What better way for him to regain the favor of his master than with the heads of our men?
 **v5** Is this not the David about whom they sing in their dances:'Saul has slain his thousands,and David his tens of thousands'?"
@@ -13380,7 +13380,7 @@ source: https://berean.bible/
 **v6** And David was greatly distressed because the people spoke of stoning him, because the soul of every man grieved for his sons and daughters. But David found strength in the LORD his God.
 #### David Destroys the Amalekites
 
-**v7** Then David said to Abiathar the priest, the son of Ahimelech, "Bring me the ephod."So Abiathar brought it to him,
+**v7** Then David said to Abiathar the priest, the son of Ahimelech, "Bring me the ephod." So Abiathar brought it to him,
 **v8** and David inquired of the LORD: "Should I pursue these raiders? Will I overtake them?""Pursue them," the LORD replied, "for you will surely overtake them and rescue the captives."
 
 **v9** So David and his six hundred men went to the Brook of Besor, where some stayed behind
@@ -13425,7 +13425,7 @@ source: https://berean.bible/
 **v2** The Philistines hotly pursued Saul and his sons, and they killed Saul's sons Jonathan, Abinadab, and Malchishua.
 **v3** When the battle intensified against Saul, the archers overtook him and wounded him critically.
 
-**v4** Then Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and run me through and torture me!"But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it.
+**v4** Then Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and run me through and torture me!" But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it.
 
 **v5** When his armor-bearer saw that Saul was dead, he too fell on his own sword and died with him.
 
@@ -13451,7 +13451,7 @@ source: https://berean.bible/
 **v1** After the death of Saul, David returned from the slaughter of the Amalekites and stayed in Ziklag two days.
 **v2** On the third day a man with torn clothes and dust on his head arrived from Saul's camp. When he came to David, he fell to the ground to pay him homage.
 
-**v3** "Where have you come from?" David asked."I have escaped from the Israelite camp," he replied.
+**v3** "Where have you come from?" David asked." I have escaped from the Israelite camp," he replied.
 
 **v4** "What was the outcome?" David asked. "Please tell me.""The troops fled from the battle," he replied. "Many of them fell and died. And Saul and his son Jonathan are also dead."
 
@@ -13529,7 +13529,7 @@ source: https://berean.bible/
 **v19** and he chased Abner, not turning to the right or to the left in his pursuit.
 **v20** And Abner glanced back and said, "Is that you, Asahel?""It is," Asahel replied.
 
-**v21** So Abner told him, "Turn to your right or to your left, seize one of the young men, and take his equipment for yourself."But Asahel would not stop chasing him.
+**v21** So Abner told him, "Turn to your right or to your left, seize one of the young men, and take his equipment for yourself." But Asahel would not stop chasing him.
 
 **v22** Once again, Abner warned Asahel, "Stop chasing me. Why should I strike you to the ground? How could I show my face to your brother Joab?"
 
@@ -13586,7 +13586,7 @@ source: https://berean.bible/
 **v19** Abner also spoke to the Benjamites. Then he went to Hebron to tell David all that seemed good to Israel and to the whole house of Benjamin.
 **v20** When Abner and twenty of his men came to David at Hebron, David held a feast for them.
 
-**v21** Then Abner said to David, "Let me go at once, and I will gather all Israel to my lord the king, that they may make a covenant with you, and that you may rule over all that your heart desires."So David dismissed Abner, and he went in peace.
+**v21** Then Abner said to David, "Let me go at once, and I will gather all Israel to my lord the king, that they may make a covenant with you, and that you may rule over all that your heart desires." So David dismissed Abner, and he went in peace.
 #### Joab Murders Abner
 
 **v22** Just then David's soldiers and Joab returned from a raid, bringing with them a great plunder. But Abner was not with David in Hebron, because David had sent him on his way in peace.
@@ -13609,7 +13609,7 @@ source: https://berean.bible/
 
 **v32** When they buried Abner in Hebron, the king wept aloud at Abner's tomb, and all the people wept.
 **v33** And the king sang this lament for Abner:"Should Abner diethe death of a fool?
-**v34** Your hands were not bound,your feet were not fettered.As a man falls before the wicked,so also you fell."And all the people wept over him even more.
+**v34** Your hands were not bound,your feet were not fettered.As a man falls before the wicked,so also you fell." And all the people wept over him even more.
 
 **v35** Then all the people came and urged David to eat something while it was still day, but David took an oath, saying, "May God punish me, and ever so severely, if I taste bread or anything else before the sun sets!"
 
@@ -13707,7 +13707,7 @@ source: https://berean.bible/
 **v11** Thus the ark of the LORD remained in the house of Obed-edom the Gittite for three months, and the LORD blessed him and all his household.
 #### The Ark Brought to Jerusalem
 
-**v12** Now it was reported to King David, "The LORD has blessed the house of Obed-edom and all that belongs to him, because of the ark of God."So David went and had the ark of God brought up from the house of Obed-edom into the City of David with rejoicing.
+**v12** Now it was reported to King David, "The LORD has blessed the house of Obed-edom and all that belongs to him, because of the ark of God." So David went and had the ark of God brought up from the house of Obed-edom into the City of David with rejoicing.
 **v13** When those carrying the ark of the LORD had advanced six paces, he sacrificed an ox and a fattened calf.
 
 **v14** And David, wearing a linen ephod, danced with all his might before the LORD,
@@ -13812,7 +13812,7 @@ source: https://berean.bible/
 
 **v2** And there was a servant of the house of Saul named Ziba. They summoned him to David, and the king inquired, "Are you Ziba?""I am your servant," he replied.
 
-**v3** So the king asked, "Is there anyone left of the house of Saul to whom I can show the kindness of God?"Ziba answered, "There is still Jonathan's son, who is lame in both feet."
+**v3** So the king asked, "Is there anyone left of the house of Saul to whom I can show the kindness of God?" Ziba answered, "There is still Jonathan's son, who is lame in both feet."
 
 **v4** "Where is he?" replied the king.And Ziba said, "Indeed, he is in Lo-debar at the house of Machir son of Ammiel."
 
@@ -13824,8 +13824,8 @@ source: https://berean.bible/
 **v8** Mephibosheth bowed down and said, "What is your servant, that you should show regard for a dead dog like me?"
 
 **v9** Then the king summoned Saul's servant Ziba and said to him, "I have given to your master's grandson all that belonged to Saul and to all his house.
-**v10** You and your sons and servants are to work the ground for him and bring in the harvest, so that your master's grandson may have food to eat. But Mephibosheth, your master's grandson, is always to eat at my table."Now Ziba had fifteen sons and twenty servants.
-**v11** And Ziba said to the king, "Your servant will do all that my lord the king has commanded."So Mephibosheth ate at David's table like one of the king's own sons.
+**v10** You and your sons and servants are to work the ground for him and bring in the harvest, so that your master's grandson may have food to eat. But Mephibosheth, your master's grandson, is always to eat at my table." Now Ziba had fifteen sons and twenty servants.
+**v11** And Ziba said to the king, "Your servant will do all that my lord the king has commanded." So Mephibosheth ate at David's table like one of the king's own sons.
 **v12** And Mephibosheth had a young son named Mica, and all who dwelt in the house of Ziba were servants of Mephibosheth.
 **v13** So Mephibosheth lived in Jerusalem, because he always ate at the king's table, and he was lame in both feet.
 
@@ -13833,7 +13833,7 @@ source: https://berean.bible/
 
 #### David's Messengers Disgraced
 **v1** Some time later, the king of the Ammonites died and was succeeded by his son Hanun.
-**v2** And David said, "I will show kindness to Hanun son of Nahash, just as his father showed kindness to me."So David sent some of his servants to console Hanun concerning his father. But when they arrived in the land of the Ammonites,
+**v2** And David said, "I will show kindness to Hanun son of Nahash, just as his father showed kindness to me." So David sent some of his servants to console Hanun concerning his father. But when they arrived in the land of the Ammonites,
 **v3** the princes of the Ammonites said to Hanun their lord, "Just because David has sent you comforters, do you really believe he is showing respect for your father? Has not David instead sent his servants to explore the city, spy it out, and overthrow it?"
 
 **v4** So Hanun took David's servants, shaved off half of each man's beard, cut off their garments at the hips, and sent them away.
@@ -13877,7 +13877,7 @@ source: https://berean.bible/
 **v6** At this, David sent orders to Joab: "Send me Uriah the Hittite." So Joab sent him to David.
 
 **v7** When Uriah came to him, David asked how Joab and the troops were doing and how the war was going.
-**v8** Then he said to Uriah, "Go down to your house and wash your feet."So Uriah left the palace, and a gift from the king followed him.
+**v8** Then he said to Uriah, "Go down to your house and wash your feet." So Uriah left the palace, and a gift from the king followed him.
 **v9** But Uriah slept at the door of the palace with all his master's servants; he did not go down to his house.
 
 **v10** And David was told, "Uriah did not go home.""Haven't you just arrived from a journey?" David asked Uriah. "Why didn't you go home?"
@@ -13971,7 +13971,7 @@ source: https://berean.bible/
 **v2** Amnon was sick with frustration over his sister Tamar, for she was a virgin, and it seemed implausible for him to do anything to her.
 
 **v3** Now Amnon had a friend named Jonadab, the son of David's brother Shimeah. Jonadab was a very shrewd man,
-**v4** and he asked Amnon, "Why are you, the son of the king, so depressed morning after morning? Won't you tell me?"Amnon replied, "I am in love with Tamar, my brother Absalom's sister."
+**v4** and he asked Amnon, "Why are you, the son of the king, so depressed morning after morning? Won't you tell me?" Amnon replied, "I am in love with Tamar, my brother Absalom's sister."
 
 **v5** Jonadab told him, "Lie down on your bed and pretend you are ill. When your father comes to see you, say to him, 'Please let my sister Tamar come and give me something to eat. Let her prepare it in my sight so I may watch her and eat it from her hand.'"
 
@@ -13982,7 +13982,7 @@ source: https://berean.bible/
 **v8** So Tamar went to the house of her brother Amnon, who was lying down. She took some dough, kneaded it, made cakes in his sight, and baked them.
 **v9** Then she brought the pan and set it down before him, but he refused to eat. "Send everyone away!" said Amnon. And everyone went out.
 
-**v10** Then Amnon said to Tamar, "Bring the food into the bedroom, so that I may eat it from your hand."Tamar took the cakes she had made and went to her brother Amnon's bedroom.
+**v10** Then Amnon said to Tamar, "Bring the food into the bedroom, so that I may eat it from your hand." Tamar took the cakes she had made and went to her brother Amnon's bedroom.
 **v11** And when she had brought them to him to eat, he took hold of her and said, "Come lie with me, my sister!"
 
 **v12** "No, my brother!" she cried. "Do not violate me, for such a thing should never be done in Israel. Do not do this disgraceful thing!
@@ -13992,13 +13992,13 @@ source: https://berean.bible/
 
 **v15** Then Amnon hated Tamar with such intensity that his hatred was greater than the love he previously had. "Get up!" he said to her. "Be gone!"
 
-**v16** "No," she replied, "sending me away is worse than this great wrong you have already done to me!"But he refused to listen to her.
+**v16** "No," she replied, "sending me away is worse than this great wrong you have already done to me!" But he refused to listen to her.
 **v17** Instead, he called to his attendant and said, "Throw this woman out and bolt the door behind her!"
 
 **v18** So Amnon's attendant threw her out and bolted the door behind her. Now Tamar was wearing a robe of many colors, because this is what the king's virgin daughters wore.
 **v19** And Tamar put ashes on her head and tore her robe. And putting her hand on her head, she went away crying aloud.
 
-**v20** Her brother Absalom said to her, "Has your brother Amnon been with you? Be quiet for now, my sister. He is your brother. Do not take this thing to heart."So Tamar lived as a desolate woman in the house of her brother Absalom.
+**v20** Her brother Absalom said to her, "Has your brother Amnon been with you? Be quiet for now, my sister. He is your brother. Do not take this thing to heart." So Tamar lived as a desolate woman in the house of her brother Absalom.
 
 **v21** When King David heard all this, he was furious. 
 **v22** And Absalom never said a word to Amnon, either good or bad, because he hated Amnon for violating his sister Tamar.
@@ -14045,7 +14045,7 @@ source: https://berean.bible/
 
 **v4** When the woman from Tekoa went to the king, she fell facedown in homage and said, "Help me, O king!"
 
-**v5** "What troubles you?" the king asked her."Indeed," she said, "I am a widow, for my husband is dead.
+**v5** "What troubles you?" the king asked her." Indeed," she said, "I am a widow, for my husband is dead.
 **v6** And your maidservant had two sons who were fighting in the field with no one to separate them, and one struck the other and killed him.
 **v7** Now the whole clan has risen up against your maidservant and said, 'Hand over the one who struck down his brother, that we may put him to death for the life of the brother whom he killed. Then we will cut off the heir as well!' So they would extinguish my one remaining ember by not preserving my husband's name or posterity on the earth."
 
@@ -14069,7 +14069,7 @@ source: https://berean.bible/
 
 **v18** Then the king said to the woman, "I am going to ask you something; do not conceal it from me!""Let my lord the king speak," she replied.
 
-**v19** So the king asked, "Is the hand of Joab behind all this?"The woman answered, "As surely as you live, my lord the king, no one can turn to the right or to the left from anything that my lord the king says. Yes, your servant Joab is the one who gave me orders; he told your maidservant exactly what to say.
+**v19** So the king asked, "Is the hand of Joab behind all this?" The woman answered, "As surely as you live, my lord the king, no one can turn to the right or to the left from anything that my lord the king says. Yes, your servant Joab is the one who gave me orders; he told your maidservant exactly what to say.
 **v20** Joab your servant has done this to bring about this change of affairs, but my lord has wisdom like the wisdom of the angel of God, to know everything that happens in the land."
 
 **v21** Then the king said to Joab, "I hereby grant this request. Go, bring back the young man Absalom."
@@ -14088,7 +14088,7 @@ source: https://berean.bible/
 **v28** Now Absalom lived in Jerusalem two years without seeing the face of the king.
 **v29** Then he sent for Joab to send him to the king, but Joab refused to come to him.So Absalom sent a second time, but Joab still would not come.
 
-**v30** Then Absalom said to his servants, "Look, Joab's field is next to mine, and he has barley there. Go and set it on fire!"And Absalom's servants set the field on fire. 
+**v30** Then Absalom said to his servants, "Look, Joab's field is next to mine, and he has barley there. Go and set it on fire!" And Absalom's servants set the field on fire. 
 
 **v31** Then Joab came to Absalom's house and demanded, "Why did your servants set my field on fire?"
 
@@ -14152,7 +14152,7 @@ source: https://berean.bible/
 
 **v30** But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went.
 
-**v31** Now someone told David: "Ahithophel is among the conspirators with Absalom."So David pleaded, "O LORD, please turn the counsel of Ahithophel into foolishness!"
+**v31** Now someone told David: "Ahithophel is among the conspirators with Absalom." So David pleaded, "O LORD, please turn the counsel of Ahithophel into foolishness!"
 
 **v32** When David came to the summit, where he used to worship God, Hushai the Archite was there to meet him with his robe torn and dust on his head.
 
@@ -14300,23 +14300,23 @@ source: https://berean.bible/
 
 **v22** Ahimaaz son of Zadok, however, persisted and said to Joab, "No matter what, please let me also run behind the Cushite!""My son," Joab replied, "why do you want to run, since you will not receive a reward?"
 
-**v23** "No matter what, I want to run!" he replied."Then run!" Joab told him.So Ahimaaz ran by way of the plain and outran the Cushite.
+**v23** "No matter what, I want to run!" he replied." Then run!" Joab told him.So Ahimaaz ran by way of the plain and outran the Cushite.
 
 **v24** Now David was sitting between the two gates when the watchman went up to the roof of the gateway by the wall, looked out, and saw a man running alone.
-**v25** So he called out and told the king."If he is alone," the king replied, "he bears good news."As the first runner drew near,
+**v25** So he called out and told the king." If he is alone," the king replied, "he bears good news." As the first runner drew near,
 **v26** the watchman saw another man running, and he called out to the gatekeeper, "Look! Another man is running alone!""This one also brings good news," said the king.
 
 **v27** The watchman said, "The first man appears to me to be running like Ahimaaz son of Zadok.""This is a good man," said the king. "He comes with good news."
 
 **v28** Then Ahimaaz called out to the king, "All is well!" And he bowed facedown before the king.He continued, "Blessed be the LORD your God! He has delivered up the men who raised their hands against my lord the king."
 
-**v29** The king asked, "Is the young man Absalom all right?"And Ahimaaz replied, "When Joab sent the king's servant and your servant, I saw a great tumult, but I do not know what it was."
+**v29** The king asked, "Is the young man Absalom all right?" And Ahimaaz replied, "When Joab sent the king's servant and your servant, I saw a great tumult, but I do not know what it was."
 
-**v30** "Move aside," said the king, "and stand here."So he stepped aside.
+**v30** "Move aside," said the king, "and stand here." So he stepped aside.
 
 **v31** Just then the Cushite came and said, "May my lord the king hear the good news: Today the LORD has avenged you of all who rose up against you!"
 
-**v32** The king asked the Cushite, "Is the young man Absalom all right?"And the Cushite replied, "May the enemies of my lord the king and all who rise up against you to harm you be like that young man."
+**v32** The king asked the Cushite, "Is the young man Absalom all right?" And the Cushite replied, "May the enemies of my lord the king and all who rise up against you to harm you be like that young man."
 
 **v33** The king was shaken and went up to the chamber over the gate and wept. And as he walked, he cried out, "O my son Absalom! My son, my son Absalom! If only I had died instead of you, O Absalom, my son, my son!"
 
@@ -14395,7 +14395,7 @@ source: https://berean.bible/
 
 **v42** And all the men of Judah replied to the men of Israel, "We did this because the king is our relative. Why does this anger you? Have we ever eaten at the king's expense or received anything for ourselves?"
 
-**v43** "We have ten shares in the king," answered the men of Israel, "so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?"But the men of Judah spoke more fiercely than the men of Israel.
+**v43** "We have ten shares in the king," answered the men of Israel, "so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?" But the men of Judah spoke more fiercely than the men of Israel.
 
 ### Chapter 20
 
@@ -14427,7 +14427,7 @@ source: https://berean.bible/
 **v15** And Joab's troops came and besieged Sheba in Abel-beth-maacah and built a siege ramp against the outer rampart of the city.As all the troops with Joab were battering the wall to topple it,
 **v16** a wise woman called out from the city, "Listen! Listen! Please tell Joab to come here so that I may speak with him."
 
-**v17** When he had come near to her, the woman asked, "Are you Joab?""I am," he replied."Listen to the words of your servant," she said."I am listening," he answered.
+**v17** When he had come near to her, the woman asked, "Are you Joab?""I am," he replied." Listen to the words of your servant," she said." I am listening," he answered.
 
 **v18** Then the woman said, "Long ago they used to say, 'Seek counsel at Abel,' and that is how disputes were settled.
 **v19** I am among the peaceable and faithful in Israel, but you are trying to destroy a city that is a mother in Israel. Why would you swallow up the LORD's inheritance?"
@@ -14661,12 +14661,12 @@ source: https://berean.bible/
 **v19** So David went up at the word of Gad, just as the LORD had commanded.
 
 **v20** When Araunah looked out and saw the king and his servants coming toward him, he went out and bowed facedown before the king.
-**v21** "Why has my lord the king come to his servant?" Araunah said."To buy your threshing floor," David replied, "that I may build an altar to the LORD, so that the plague upon the people may be halted."
+**v21** "Why has my lord the king come to his servant?" Araunah said." To buy your threshing floor," David replied, "that I may build an altar to the LORD, so that the plague upon the people may be halted."
 
 **v22** Araunah said to David, "May my lord the king take whatever seems good to him and offer it up. Here are the oxen for a burnt offering and the threshing sledges and ox yokes for the wood.
 **v23** O king, Araunah gives all these to the king." He also said to the king, "May the LORD your God accept you."
 
-**v24** "No," replied the king, "I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing."So David bought the threshing floor and the oxen for fifty shekels of silver. 
+**v24** "No," replied the king, "I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing." So David bought the threshing floor and the oxen for fifty shekels of silver. 
 **v25** And there he built an altar to the LORD and offered burnt offerings and peace offerings.Then the LORD answered the prayers on behalf of the land, and the plague upon Israel was halted.
 
 ## 1 Kings
@@ -14812,9 +14812,9 @@ source: https://berean.bible/
 
 **v28** When the news reached Joab, who had conspired with Adonijah but not with Absalom, he fled to the tent of the LORD and took hold of the horns of the altar.
 
-**v29** It was reported to King Solomon: "Joab has fled to the tent of the LORD and is now beside the altar."So Solomon sent Benaiah son of Jehoiada, saying, "Go, strike him down!"
+**v29** It was reported to King Solomon: "Joab has fled to the tent of the LORD and is now beside the altar." So Solomon sent Benaiah son of Jehoiada, saying, "Go, strike him down!"
 
-**v30** And Benaiah entered the tent of the LORD and said to Joab, "The king says, 'Come out!'"But Joab replied, "No, I will die here."So Benaiah relayed the message to the king, saying, "This is how Joab answered me."
+**v30** And Benaiah entered the tent of the LORD and said to Joab, "The king says, 'Come out!'"But Joab replied, "No, I will die here." So Benaiah relayed the message to the king, saying, "This is how Joab answered me."
 
 **v31** And the king replied, "Do just as he says. Strike him down and bury him, and so remove from me and from the house of my father the innocent blood that Joab shed.
 **v32** The LORD will bring his bloodshed back upon his own head, for without the knowledge of my father David he struck down two men more righteous and better than he when he put to the sword Abner son of Ner, commander of Israel's army, and Amasa son of Jether, commander of Judah's army.
@@ -14879,14 +14879,14 @@ source: https://berean.bible/
 **v20** So she got up in the middle of the night and took my son from my side while I was asleep. She laid him in her bosom and put her dead son at my bosom.
 **v21** The next morning, when I got up to nurse my son, I discovered he was dead. But when I examined him, I realized that he was not the son I had borne."
 
-**v22** "No," said the other woman, "the living one is my son and the dead one is your son."But the first woman insisted, "No, the dead one is yours and the living one is mine." So they argued before the king.
+**v22** "No," said the other woman, "the living one is my son and the dead one is your son." But the first woman insisted, "No, the dead one is yours and the living one is mine." So they argued before the king.
 
 **v23** Then the king replied, "This woman says, 'My son is alive and yours is dead,' but that woman says, 'No, your son is dead and mine is alive.'"
 
 **v24** The king continued, "Bring me a sword." So they brought him a sword,
 **v25** and the king declared, "Cut the living child in two and give half to one and half to the other."
 
-**v26** Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. "Please, my lord," she said, "give her the living baby. Do not kill him!"But the other woman said, "He will be neither mine nor yours. Cut him in two!"
+**v26** Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. "Please, my lord," she said, "give her the living baby. Do not kill him!" But the other woman said, "He will be neither mine nor yours. Cut him in two!"
 
 **v27** Then the king gave his ruling: "Give the living baby to the first woman. By no means should you kill him; she is his mother."
 
@@ -15445,7 +15445,7 @@ source: https://berean.bible/
 **v15** So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.
 #### The Kingdom Divided
 
-**v16** When all Israel saw that the king had refused to listen to them, they answered the king:"What portion do we have in David,and what inheritance in the son of Jesse?To your tents, O Israel!Look now to your own house, O David!"So the Israelites went home,
+**v16** When all Israel saw that the king had refused to listen to them, they answered the king:"What portion do we have in David,and what inheritance in the son of Jesse?To your tents, O Israel!Look now to your own house, O David!" So the Israelites went home,
 **v17** but Rehoboam still reigned over the Israelites living in the cities of Judah.
 
 **v18** Then King Rehoboam sent out Adoram, who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.
@@ -15487,7 +15487,7 @@ source: https://berean.bible/
 **v4** Now when King Jeroboam, who was at the altar in Bethel, heard the word that the man of God had cried out against it, he stretched out his hand and said, "Seize him!" But the hand he stretched out toward him withered, so that he could not pull it back.
 **v5** And the altar was split apart, and the ashes poured out, according to the sign that the man of God had given by the word of the LORD.
 
-**v6** Then the king responded to the man of God, "Intercede with the LORD your God and pray for me that my hand may be restored."So the man of God interceded with the LORD, and the king's hand was restored to him as it was before.
+**v6** Then the king responded to the man of God, "Intercede with the LORD your God and pray for me that my hand may be restored." So the man of God interceded with the LORD, and the king's hand was restored to him as it was before.
 
 **v7** Then the king said to the man of God, "Come home with me and refresh yourself, and I will give you a reward."
 
@@ -15500,7 +15500,7 @@ source: https://berean.bible/
 **v11** Now a certain old prophet was living in Bethel, and his sons came and told him all the deeds that the man of God had done that day in Bethel. They also told their father the words that the man had spoken to the king.
 
 **v12** "Which way did he go?" their father asked.And his sons showed him the way taken by the man of God, who had come from Judah.
-**v13** So the prophet said to his sons, "Saddle the donkey for me."Then they saddled the donkey for him, and he mounted it
+**v13** So the prophet said to his sons, "Saddle the donkey for me." Then they saddled the donkey for him, and he mounted it
 **v14** and went after the man of God. He found him sitting under an oak tree and asked, "Are you the man of God who came from Judah?""I am," he replied.
 
 **v15** So the prophet said to the man of God, "Come home with me and eat some bread."
@@ -15740,7 +15740,7 @@ source: https://berean.bible/
 **v17** Later, the son of the woman who owned the house became ill, and his sickness grew worse and worse, until no breath remained in him.
 **v18** "O man of God," said the woman to Elijah, "what have you done to me? Have you come to remind me of my iniquity and cause the death of my son?"
 
-**v19** But Elijah said to her, "Give me your son."So he took him from her arms, carried him to the upper room where he was staying, and laid him on his own bed.
+**v19** But Elijah said to her, "Give me your son." So he took him from her arms, carried him to the upper room where he was staying, and laid him on his own bed.
 **v20** Then he cried out to the LORD, "O LORD my God, have You also brought tragedy on this widow who has opened her home to me, by causing her son to die?"
 **v21** Then he stretched himself out over the child three times and cried out to the LORD, "O LORD my God, please let this boy's life return to him!"
 
@@ -15784,15 +15784,15 @@ source: https://berean.bible/
 **v19** Now summon all Israel to meet me on Mount Carmel, along with the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah who eat at Jezebel's table."
 
 **v20** So Ahab summoned all the Israelites and assembled the prophets on Mount Carmel.
-**v21** Then Elijah approached all the people and said, "How long will you waver between two opinions? If the LORD is God, follow Him. But if Baal is God, follow him."But the people did not answer a word.
+**v21** Then Elijah approached all the people and said, "How long will you waver between two opinions? If the LORD is God, follow Him. But if Baal is God, follow him." But the people did not answer a word.
 
 **v22** Then Elijah said to the people, "I am the only remaining prophet of the LORD, but Baal has four hundred and fifty prophets.
 **v23** Get two bulls for us. Let the prophets of Baal choose one bull for themselves, cut it into pieces, and place it on the wood but not light the fire. And I will prepare the other bull and place it on the wood but not light the fire.
-**v24** Then you may call on the name of your god, and I will call on the name of the LORD. The God who answers by fire, He is God."And all the people answered, "What you say is good."
+**v24** Then you may call on the name of your god, and I will call on the name of the LORD. The God who answers by fire, He is God." And all the people answered, "What you say is good."
 
 **v25** Then Elijah said to the prophets of Baal, "Since you are so numerous, choose for yourselves one bull and prepare it first. Then call on the name of your god, but do not light the fire."
 
-**v26** And they took the bull that was given them, prepared it, and called on the name of Baal from morning until noon, shouting, "O Baal, answer us!"But there was no sound, and no one answered as they leaped around the altar they had made.
+**v26** And they took the bull that was given them, prepared it, and called on the name of Baal from morning until noon, shouting, "O Baal, answer us!" But there was no sound, and no one answered as they leaped around the altar they had made.
 
 **v27** At noon Elijah began to taunt them, saying, "Shout louder, for he is a god! Perhaps he is deep in thought, or occupied, or on a journey. Perhaps he is sleeping and must be awakened!"
 
@@ -15806,7 +15806,7 @@ source: https://berean.bible/
 **v32** And with the stones, Elijah built an altar in the name of the LORD. Then he dug a trench around the altar large enough to hold two seahs of seed. 
 
 **v33** Next, he arranged the wood, cut up the bull, placed it on the wood,
-**v34** and said, "Fill four waterpots and pour the water on the offering and on the wood.""Do it a second time," he said, and they did it a second time."Do it a third time," he said, and they did it a third time.
+**v34** and said, "Fill four waterpots and pour the water on the offering and on the wood.""Do it a second time," he said, and they did it a second time." Do it a third time," he said, and they did it a third time.
 
 **v35** So the water ran down around the altar and even filled the trench.
 #### Elijah's Prayer
@@ -15824,9 +15824,9 @@ source: https://berean.bible/
 **v41** And Elijah said to Ahab, "Go up, eat and drink, for there is the sound of a heavy rain."
 
 **v42** So Ahab went up to eat and drink. But Elijah climbed to the summit of Carmel, bent down on the ground, and put his face between his knees.
-**v43** "Go and look toward the sea," he said to his servant.So the servant went and looked, and he said, "There is nothing there."Seven times Elijah said, "Go back."
+**v43** "Go and look toward the sea," he said to his servant.So the servant went and looked, and he said, "There is nothing there." Seven times Elijah said, "Go back."
 
-**v44** On the seventh time the servant reported, "There is a cloud as small as a man's hand rising from the sea."And Elijah replied, "Go and tell Ahab, 'Prepare your chariot and go down before the rain stops you.'"
+**v44** On the seventh time the servant reported, "There is a cloud as small as a man's hand rising from the sea." And Elijah replied, "Go and tell Ahab, 'Prepare your chariot and go down before the rain stops you.'"
 
 **v45** Meanwhile, the sky grew dark with clouds and wind, and a heavy rain began to fall. So Ahab rode away and went to Jezreel.
 
@@ -15854,7 +15854,7 @@ source: https://berean.bible/
 
 **v10** "I have been very zealous for the LORD, the God of Hosts," he replied, "but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well."
 
-**v11** Then the LORD said, "Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by."And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind.After the wind there was an earthquake, but the LORD was not in the earthquake.
+**v11** Then the LORD said, "Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by." And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind.After the wind there was an earthquake, but the LORD was not in the earthquake.
 
 **v12** After the earthquake there was a fire, but the LORD was not in the fire.And after the fire came a still, small voice.
 **v13** When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, "What are you doing here, Elijah?"
@@ -15902,7 +15902,7 @@ source: https://berean.bible/
 
 **v13** Meanwhile a prophet approached Ahab king of Israel and declared, "This is what the LORD says: 'Do you see this entire great army? Behold, I will deliver it into your hand this very day, and you will know that I am the LORD.'"
 
-**v14** "By whom?" Ahab asked.And the prophet replied, "This is what the LORD says: 'By the young officers of the district governors.'""Who will start the battle?" asked Ahab."You will," answered the prophet.
+**v14** "By whom?" Ahab asked.And the prophet replied, "This is what the LORD says: 'By the young officers of the district governors.'""Who will start the battle?" asked Ahab." You will," answered the prophet.
 
 **v15** So Ahab assembled the young officers of the district governors, and there were 232 men. And after them, he assembled the rest of the Israelite troops, 7,000 in all.
 
@@ -15920,7 +15920,7 @@ source: https://berean.bible/
 
 **v23** Meanwhile, the servants of the king of Aram said to him, "Their gods are gods of the hills. That is why they prevailed over us. Instead, we should fight them on the plains; surely then we will prevail.
 **v24** So do this: Dismiss all the kings from their positions and replace them with other officers.
-**v25** And you must raise an army like the one you have lost—horse for horse and chariot for chariot—so we can fight the Israelites on the plain, where we will surely prevail."And the king approved their plan and acted accordingly.
+**v25** And you must raise an army like the one you have lost—horse for horse and chariot for chariot—so we can fight the Israelites on the plain, where we will surely prevail." And the king approved their plan and acted accordingly.
 #### Another War with Ben-hadad
 
 **v26** In the spring, Ben-hadad mobilized the Arameans and went up to Aphek to fight against Israel.
@@ -15942,15 +15942,15 @@ source: https://berean.bible/
 **v34** Ben-hadad said to him, "I will restore the cities my father took from your father; you may set up your own marketplaces in Damascus, as my father did in Samaria.""By this treaty I release you," Ahab replied. So he made a treaty with him and sent him away.
 #### A Prophet Reproves Ahab
 
-**v35** Meanwhile, by the word of the LORD, one of the sons of the prophets said to his companion, "Strike me, please!"But the man refused to strike him.
+**v35** Meanwhile, by the word of the LORD, one of the sons of the prophets said to his companion, "Strike me, please!" But the man refused to strike him.
 
-**v36** Then the prophet said to him, "Because you have not obeyed the voice of the LORD, as soon as you depart from me a lion will kill you."And when he left, a lion found him and killed him.
+**v36** Then the prophet said to him, "Because you have not obeyed the voice of the LORD, as soon as you depart from me a lion will kill you." And when he left, a lion found him and killed him.
 
-**v37** Then the prophet found another man and said, "Strike me, please!"So the man struck him and wounded him,
+**v37** Then the prophet found another man and said, "Strike me, please!" So the man struck him and wounded him,
 **v38** and the prophet went and waited on the road for the king, disguising himself with a bandage over his eyes.
 
 **v39** As the king passed by, he cried out to the king: "Your servant had marched out into the middle of the battle, when suddenly a man came over with a captive and told me, 'Guard this man! If he goes missing for any reason, your life will be exchanged for his life, or you will weigh out a talent of silver. '
-**v40** But while your servant was busy here and there, the man disappeared."And the king of Israel said to him, "So shall your judgment be; you have pronounced it on yourself."
+**v40** But while your servant was busy here and there, the man disappeared." And the king of Israel said to him, "So shall your judgment be; you have pronounced it on yourself."
 
 **v41** Then the prophet quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets.
 
@@ -15982,7 +15982,7 @@ source: https://berean.bible/
 **v11** So the elders and nobles who lived in Naboth's city did as Jezebel had instructed in the letters she had written to them.
 **v12** They proclaimed a fast and gave Naboth a seat of honor among the people.
 
-**v13** And the two scoundrels came in and sat opposite Naboth, and these men testified against him before the people, saying, "Naboth has cursed both God and the king!"So they took him outside the city and stoned him to death.
+**v13** And the two scoundrels came in and sat opposite Naboth, and these men testified against him before the people, saying, "Naboth has cursed both God and the king!" So they took him outside the city and stoned him to death.
 **v14** Then they sent word to Jezebel: "Naboth has been stoned to death."
 
 **v15** When Jezebel heard that Naboth had been stoned to death, she said to Ahab, "Get up and take possession of the vineyard of Naboth the Jezreelite, who refused to give it to you for silver. For Naboth is no longer alive, but dead."
@@ -15995,7 +15995,7 @@ source: https://berean.bible/
 
 **v19** Tell him that this is what the LORD says: 'Have you not murdered a man and seized his land?'Then tell him that this is also what the LORD says: 'In the place where the dogs licked up the blood of Naboth, there also the dogs will lick up your blood—yes, yours!'"
 
-**v20** When Elijah arrived, Ahab said to him, "So you have found me out, my enemy."He replied, "I have found you out because you have sold yourself to do evil in the sight of the LORD.
+**v20** When Elijah arrived, Ahab said to him, "So you have found me out, my enemy." He replied, "I have found you out because you have sold yourself to do evil in the sight of the LORD.
 **v21** This is what the LORD says: 'I will bring calamity on youand consume your descendants;I will cut off from Ahab every male in Israel,both slave and free.
 **v22** I will make your house like that of Jeroboam son of Nebatand like that of Baasha son of Ahijah,because you have provoked My angerand caused Israel to sin.'
 
@@ -16020,7 +16020,7 @@ source: https://berean.bible/
 **v2** However, in the third year, Jehoshaphat king of Judah went down to visit the king of Israel,
 **v3** who said to his servants, "Do you not know that Ramoth-gilead is ours, but we have failed to take it from the hand of the king of Aram?"
 
-**v4** So he asked Jehoshaphat, "Will you go with me to fight against Ramoth-gilead?"Jehoshaphat answered the king of Israel, "I am as you are, my people are your people, and my horses are your horses."
+**v4** So he asked Jehoshaphat, "Will you go with me to fight against Ramoth-gilead?" Jehoshaphat answered the king of Israel, "I am as you are, my people are your people, and my horses are your horses."
 
 **v5** But Jehoshaphat also said to the king of Israel, "Please inquire first for the word of the LORD."
 
@@ -16135,16 +16135,16 @@ source: https://berean.bible/
 
 **v9** Then King Ahaziah sent to Elijah a captain with his company of fifty men. So the captain went up to Elijah, who was sitting on top of a hill, and said to him, "Man of God, the king declares, 'Come down!'"
 
-**v10** Elijah answered the captain, "If I am a man of God, may fire come down from heaven and consume you and your fifty men."And fire came down from heaven and consumed the captain and his fifty men.
+**v10** Elijah answered the captain, "If I am a man of God, may fire come down from heaven and consume you and your fifty men." And fire came down from heaven and consumed the captain and his fifty men.
 
 **v11** So the king sent to Elijah another captain with his fifty men. And the captain said to Elijah, "Man of God, the king declares, 'Come down at once!'"
 
-**v12** Again Elijah replied, "If I am a man of God, may fire come down from heaven and consume you and your fifty men."And the fire of God came down from heaven and consumed the captain and his fifty men.
+**v12** Again Elijah replied, "If I am a man of God, may fire come down from heaven and consume you and your fifty men." And the fire of God came down from heaven and consumed the captain and his fifty men.
 
 **v13** So the king sent a third captain with his fifty men. And the third captain went up, fell on his knees before Elijah, and begged him, "Man of God, may my life and the lives of these fifty servants of yours please be precious in your sight.
 **v14** Behold, fire has come down from heaven and consumed the first two captains of fifty, with all their men. But now may my life be precious in your sight."
 
-**v15** Then the angel of the LORD said to Elijah, "Go down with him. Do not be afraid of him."So Elijah got up and went down with him to the king.
+**v15** Then the angel of the LORD said to Elijah, "Go down with him. Do not be afraid of him." So Elijah got up and went down with him to the king.
 
 **v16** And Elijah said to King Ahaziah, "This is what the LORD says: Is there really no God in Israel for you to inquire of His word? Is that why you have sent messengers to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die."
 #### Jehoram Succeeds Ahaziah
@@ -16157,15 +16157,15 @@ source: https://berean.bible/
 
 #### Elijah Taken Up to Heaven
 **v1** Shortly before the LORD took Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal,
-**v2** and Elijah said to Elisha, "Please stay here, for the LORD has sent me on to Bethel."But Elisha replied, "As surely as the LORD lives and as you yourself live, I will not leave you."So they went down to Bethel.
+**v2** and Elijah said to Elisha, "Please stay here, for the LORD has sent me on to Bethel." But Elisha replied, "As surely as the LORD lives and as you yourself live, I will not leave you." So they went down to Bethel.
 
 **v3** Then the sons of the prophets at Bethel came out to Elisha and said, "Do you know that the LORD will take your master away from you today?""Yes, I know," he replied. "Do not speak of it."
 
-**v4** And Elijah said to Elisha, "Please stay here, for the LORD has sent me on to Jericho."But Elisha replied, "As surely as the LORD lives and as you yourself live, I will not leave you."So they went to Jericho.
+**v4** And Elijah said to Elisha, "Please stay here, for the LORD has sent me on to Jericho." But Elisha replied, "As surely as the LORD lives and as you yourself live, I will not leave you." So they went to Jericho.
 
 **v5** Then the sons of the prophets at Jericho came up to Elisha and said, "Do you know that the LORD will take your master away from you today?""Yes, I know," he replied. "Do not speak of it."
 
-**v6** And Elijah said to Elisha, "Please stay here, for the LORD has sent me on to the Jordan."But Elisha replied, "As surely as the LORD lives and as you yourself live, I will not leave you."So the two of them went on.
+**v6** And Elijah said to Elisha, "Please stay here, for the LORD has sent me on to the Jordan." But Elisha replied, "As surely as the LORD lives and as you yourself live, I will not leave you." So the two of them went on.
 
 **v7** Then a company of fifty of the sons of the prophets went and stood at a distance, facing Elijah and Elisha as the two of them stood by the Jordan.
 **v8** And Elijah took his cloak, rolled it up, and struck the waters, which parted to the right and to the left, so that the two of them crossed over on dry ground.
@@ -16186,14 +16186,14 @@ source: https://berean.bible/
 
 **v16** "Look now," they said to Elisha, "we your servants have fifty valiant men. Please let them go and search for your master. Perhaps the Spirit of the LORD has taken him up and put him on one of the mountains or in one of the valleys.""Do not send them," Elisha replied.
 
-**v17** But when they pressed him to the point of embarrassment, he said, "Send them."And they sent fifty men, who searched for three days but did not find Elijah.
+**v17** But when they pressed him to the point of embarrassment, he said, "Send them." And they sent fifty men, who searched for three days but did not find Elijah.
 
 **v18** When they returned to Elisha, who was staying in Jericho, he said to them, "Didn't I tell you not to go?"
 #### Elisha Heals the Waters of Jericho
 
 **v19** Then the men of the city said to Elisha, "Please note, our lord, that the city's location is good, as you can see. But the water is bad and the land is unfruitful."
 
-**v20** "Bring me a new bowl," he replied, "and put some salt in it."So they brought it to him,
+**v20** "Bring me a new bowl," he replied, "and put some salt in it." So they brought it to him,
 **v21** and Elisha went out to the spring, cast the salt into it, and said, "This is what the LORD says: 'I have healed this water. No longer will it cause death or unfruitfulness. '"
 
 **v22** And the waters there have been healthy to this day, according to the word spoken by Elisha.
@@ -16223,7 +16223,7 @@ source: https://berean.bible/
 
 **v10** "Alas," said the king of Israel, "for the LORD has summoned these three kings to deliver them into the hand of Moab!"
 
-**v11** But Jehoshaphat asked, "Is there no prophet of the LORD here? Let us inquire of the LORD through him."And one of the servants of the king of Israel answered, "Elisha son of Shaphat is here. He used to pour water on the hands of Elijah. "
+**v11** But Jehoshaphat asked, "Is there no prophet of the LORD here? Let us inquire of the LORD through him." And one of the servants of the king of Israel answered, "Elisha son of Shaphat is here. He used to pour water on the hands of Elijah. "
 
 **v12** Jehoshaphat affirmed, "The word of the LORD is with him." So the king of Israel and Jehoshaphat and the king of Edom went down to him.
 
@@ -16254,13 +16254,13 @@ source: https://berean.bible/
 #### The Widow's Oil
 **v1** Now the wife of one of the sons of the prophets cried out to Elisha, "Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!"
 
-**v2** "How can I help you?" asked Elisha. "Tell me, what do you have in the house?"She answered, "Your servant has nothing in the house but a jar of oil."
+**v2** "How can I help you?" asked Elisha. "Tell me, what do you have in the house?" She answered, "Your servant has nothing in the house but a jar of oil."
 
 **v3** "Go," said Elisha, "borrow empty jars from all your neighbors. Do not gather just a few.
 **v4** Then go inside, shut the door behind you and your sons, and pour oil into all these jars, setting the full ones aside."
 
 **v5** So she left him, and after she had shut the door behind her and her sons, they kept bringing jars to her, and she kept pouring.
-**v6** When all the jars were full, she said to her son, "Bring me another."But he replied, "There are no more jars." Then the oil stopped flowing.
+**v6** When all the jars were full, she said to her son, "Bring me another." But he replied, "There are no more jars." Then the oil stopped flowing.
 
 **v7** She went and told the man of God, and he said, "Go, sell the oil, and pay your debt. Then you and your sons can live on the remainder."
 #### The Shunammite Woman
@@ -16271,7 +16271,7 @@ source: https://berean.bible/
 **v10** Please let us make a small room upstairs and put in it a bed, a table, a chair, and a lamp for him. Then when he comes to us, he can stay there."
 
 **v11** One day Elisha came to visit and went to his upper room to lie down.
-**v12** And he said to Gehazi his servant, "Call the Shunammite woman."And when he had called her, she stood before him,
+**v12** And he said to Gehazi his servant, "Call the Shunammite woman." And when he had called her, she stood before him,
 **v13** and Elisha said to Gehazi, "Now tell her, 'Look, you have gone to all this trouble for us. What can we do for you? Can we speak on your behalf to the king or the commander of the army?'""I have a home among my own people," she replied.
 
 **v14** So he asked, "Then what should be done for her?""Well, she has no son," Gehazi replied, "and her husband is old."
@@ -16327,7 +16327,7 @@ source: https://berean.bible/
 **v41** Then Elisha said, "Get some flour." He threw it into the pot and said, "Pour it out for the people to eat." And there was nothing harmful in the pot.
 #### Feeding a Hundred Men
 
-**v42** Now a man from Baal-shalishah came to the man of God with a sack of twenty loaves of barley bread from the first ripe grain."Give it to the people to eat," said Elisha.
+**v42** Now a man from Baal-shalishah came to the man of God with a sack of twenty loaves of barley bread from the first ripe grain." Give it to the people to eat," said Elisha.
 
 **v43** But his servant asked, "How am I to set twenty loaves before a hundred men?""Give it to the people to eat," said Elisha, "for this is what the LORD says: 'They will eat and have some left over.'"
 
@@ -16343,7 +16343,7 @@ source: https://berean.bible/
 
 **v4** And Naaman went and told his master what the girl from the land of Israel had said.
 
-**v5** "Go now," said the king of Aram, "and I will send you with a letter to the king of Israel."So Naaman departed, taking with him ten talents of silver, six thousand shekels of gold, and ten sets of clothing.
+**v5** "Go now," said the king of Aram, "and I will send you with a letter to the king of Israel." So Naaman departed, taking with him ten talents of silver, six thousand shekels of gold, and ten sets of clothing.
 
 **v6** And the letter that he took to the king of Israel stated: "With this letter I am sending my servant Naaman, so that you may cure him of his leprosy."
 
@@ -16384,7 +16384,7 @@ source: https://berean.bible/
 **v25** When Gehazi went in and stood before his master, Elisha asked him, "Gehazi, where have you been?""Your servant did not go anywhere," he replied.
 
 **v26** But Elisha questioned him, "Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and oxen, menservants and maidservants?
-**v27** Therefore, the leprosy of Naaman will cling to you and your descendants forever!"And as Gehazi left his presence, he was leprous—as white as snow.
+**v27** Therefore, the leprosy of Naaman will cling to you and your descendants forever!" And as Gehazi left his presence, he was leprous—as white as snow.
 
 ### Chapter 6
 
@@ -16411,20 +16411,20 @@ source: https://berean.bible/
 
 **v12** But one of his servants replied, "No one, my lord the king. For Elisha, the prophet in Israel, tells the king of Israel the very words you speak in your bedroom."
 
-**v13** So the king said, "Go and see where he is, that I may send men to capture him."On receiving the report, "Elisha is in Dothan,"
+**v13** So the king said, "Go and see where he is, that I may send men to capture him." On receiving the report, "Elisha is in Dothan,"
 **v14** the king of Aram sent horses, chariots, and a great army. They went there by night and surrounded the city.
 
 **v15** When the servant of the man of God got up and went out early in the morning, behold, an army with horses and chariots had surrounded the city. So he asked Elisha, "Oh, my master, what are we to do?"
 
 **v16** "Do not be afraid," Elisha answered, "for those who are with us are more than those who are with them."
 
-**v17** Then Elisha prayed, "O LORD, please open his eyes that he may see."And the LORD opened the eyes of the young man, and he saw that the hills were full of horses and chariots of fire all around Elisha.
+**v17** Then Elisha prayed, "O LORD, please open his eyes that he may see." And the LORD opened the eyes of the young man, and he saw that the hills were full of horses and chariots of fire all around Elisha.
 
 **v18** As the Arameans came down against him, Elisha prayed to the LORD, "Please strike these people with blindness." So He struck them with blindness, according to the word of Elisha.
 
 **v19** And Elisha told them, "This is not the way, and this is not the city. Follow me, and I will take you to the man you are seeking." And he led them to Samaria.
 
-**v20** When they had entered Samaria, Elisha said, "O LORD, open the eyes of these men that they may see."Then the LORD opened their eyes, and they looked around and discovered that they were in Samaria.
+**v20** When they had entered Samaria, Elisha said, "O LORD, open the eyes of these men that they may see." Then the LORD opened their eyes, and they looked around and discovered that they were in Samaria.
 
 **v21** And when the king of Israel saw them, he asked Elisha, "My father, shall I kill them? Shall I kill them?"
 
@@ -16440,7 +16440,7 @@ source: https://berean.bible/
 **v26** As the king of Israel was passing by on the wall, a woman cried out to him, "Help me, my lord the king!"
 
 **v27** He answered, "If the LORD does not help you, where can I find help for you? From the threshing floor or the winepress?"
-**v28** Then the king asked her, "What is the matter?"And she answered, "This woman said to me, 'Give up your son, that we may eat him, and tomorrow we will eat my son.'
+**v28** Then the king asked her, "What is the matter?" And she answered, "This woman said to me, 'Give up your son, that we may eat him, and tomorrow we will eat my son.'
 **v29** So we boiled my son and ate him, and the next day I said to her, 'Give up your son, that we may eat him.' But she had hidden her son."
 
 **v30** When the king heard the words of the woman, he tore his clothes. And as he passed by on the wall, the people saw the sackcloth under his clothes next to his skin.
@@ -16487,7 +16487,7 @@ source: https://berean.bible/
 **v17** Now the king had appointed the officer on whose arm he leaned to be in charge of the gate, but the people trampled him in the gateway, and he died, just as the man of God had foretold when the king had come to him.
 **v18** It happened just as the man of God had told the king: "About this time tomorrow at the gate of Samaria, two seahs of barley will sell for a shekel, and a seah of fine flour will sell for a shekel."
 
-**v19** And the officer had answered the man of God, "Look, even if the LORD were to make windows in heaven, could this really happen?"So Elisha had replied, "You will see it with your own eyes, but you will not eat any of it!"
+**v19** And the officer had answered the man of God, "Look, even if the LORD were to make windows in heaven, could this really happen?" So Elisha had replied, "You will see it with your own eyes, but you will not eat any of it!"
 
 **v20** And that is just what happened to him. The people trampled him in the gateway, and he died.
 
@@ -16517,11 +16517,11 @@ source: https://berean.bible/
 
 **v11** Elisha fixed his gaze steadily on him until Hazael became uncomfortable. Then the man of God began to weep.
 
-**v12** "Why is my lord weeping?" asked Hazael."Because I know the evil you will do to the Israelites," Elisha replied. "You will set fire to their fortresses, kill their young men with the sword, dash their little ones to pieces, and rip open their pregnant women."
+**v12** "Why is my lord weeping?" asked Hazael." Because I know the evil you will do to the Israelites," Elisha replied. "You will set fire to their fortresses, kill their young men with the sword, dash their little ones to pieces, and rip open their pregnant women."
 
 **v13** "But how could your servant, a mere dog, do such a monstrous thing?" said Hazael.And Elisha answered, "The LORD has shown me that you will be king over Aram."
 
-**v14** So Hazael left Elisha and went to his master, who asked him, "What did Elisha say to you?"And he replied, "He told me that you would surely recover."
+**v14** So Hazael left Elisha and went to his master, who asked him, "What did Elisha say to you?" And he replied, "He told me that you would surely recover."
 **v15** But the next day Hazael took a thick cloth, dipped it in water, and spread it over the king's face.So Ben-hadad died, and Hazael reigned in his place.
 #### Jehoram Reigns in Judah
 
@@ -16559,7 +16559,7 @@ source: https://berean.bible/
 **v3** Then take the flask of oil, pour it on his head, and declare, 'This is what the LORD says: I anoint you king over Israel.' Then open the door and run. Do not delay!"
 
 **v4** So the young prophet went to Ramoth-gilead,
-**v5** and when he arrived, the army commanders were sitting there. "I have a message for you, commander," he said."For which of us?" asked Jehu."For you, commander," he replied.
+**v5** and when he arrived, the army commanders were sitting there. "I have a message for you, commander," he said." For which of us?" asked Jehu." For you, commander," he replied.
 
 **v6** So Jehu got up and went into the house, where the young prophet poured the oil on his head and declared, "This is what the LORD, the God of Israel, says: 'I anoint you king over the LORD's people Israel.
 **v7** And you are to strike down the house of your master Ahab, so that I may avenge the blood of My servants the prophets and the blood of all the servants of the LORD shed by the hand of Jezebel.
@@ -16569,7 +16569,7 @@ source: https://berean.bible/
 
 **v11** When Jehu went out to the servants of his master, they asked, "Is everything all right? Why did this madman come to you?""You know his kind and their babble," he replied.
 
-**v12** "That is a lie!" they said. "Tell us now!"So Jehu answered, "He talked to me about this and that, saying, 'This is what the LORD says: I anoint you king over Israel.'"
+**v12** "That is a lie!" they said. "Tell us now!" So Jehu answered, "He talked to me about this and that, saying, 'This is what the LORD says: I anoint you king over Israel.'"
 
 **v13** Quickly, each man took his garment and put it under Jehu on the bare steps. Then they blew the ram's horn and proclaimed, "Jehu is king!"
 #### Jehu Kills Joram and Ahaziah
@@ -16581,7 +16581,7 @@ source: https://berean.bible/
 
 **v17** Now the watchman standing on the tower in Jezreel saw Jehu's troops approaching, and he called out, "I see a company of troops!""Choose a rider," Joram commanded. "Send him out to meet them and ask, 'Have you come in peace?'"
 
-**v18** So a horseman rode off to meet Jehu and said, "This is what the king asks: 'Have you come in peace?'""What do you know about peace?" Jehu replied. "Fall in behind me."And the watchman reported, "The messenger reached them, but he is not coming back."
+**v18** So a horseman rode off to meet Jehu and said, "This is what the king asks: 'Have you come in peace?'""What do you know about peace?" Jehu replied. "Fall in behind me." And the watchman reported, "The messenger reached them, but he is not coming back."
 
 **v19** So the king sent out a second horseman, who went to them and said, "This is what the king asks: 'Have you come in peace?'""What do you know about peace?" Jehu replied. "Fall in behind me."
 
@@ -16598,7 +16598,7 @@ source: https://berean.bible/
 **v25** And Jehu said to Bidkar his officer, "Pick him up and throw him into the field of Naboth the Jezreelite. For remember that when you and I were riding together behind his father Ahab, the LORD lifted up this burden against him:
 **v26** 'As surely as I saw the blood of Naboth and the blood of his sons yesterday, declares the LORD, so will I repay you on this plot of ground, declares the LORD.' Now then, according to the word of the LORD, pick him up and throw him on the plot of ground."
 
-**v27** When King Ahaziah of Judah saw this, he fled up the road toward Beth-haggan.And Jehu pursued him, shouting, "Shoot him too!"So they shot Ahaziah in his chariot on the Ascent of Gur, near Ibleam, and he fled to Megiddo and died there.
+**v27** When King Ahaziah of Judah saw this, he fled up the road toward Beth-haggan.And Jehu pursued him, shouting, "Shoot him too!" So they shot Ahaziah in his chariot on the Ascent of Gur, near Ibleam, and he fled to Megiddo and died there.
 **v28** Then his servants carried him by chariot to Jerusalem and buried him with his fathers in his tomb in the City of David.
 
 **v29** (In the eleventh year of Joram son of Ahab, Ahaziah had become king over Judah.)
@@ -16607,7 +16607,7 @@ source: https://berean.bible/
 **v30** Now when Jehu arrived in Jezreel, Jezebel heard of it. So she painted her eyes, adorned her head, and looked down from a window.
 **v31** And as Jehu entered the gate, she asked, "Have you come in peace, O Zimri, murderer of your master?"
 
-**v32** He looked up at the window and called out, "Who is on my side? Who?"And two or three eunuchs looked down at him.
+**v32** He looked up at the window and called out, "Who is on my side? Who?" And two or three eunuchs looked down at him.
 
 **v33** "Throw her down!" yelled Jehu.So they threw her down, and her blood splattered on the wall and on the horses as they trampled her underfoot.
 
@@ -16629,10 +16629,10 @@ source: https://berean.bible/
 
 **v5** So the palace administrator, the overseer of the city, the elders, and the guardians sent a message to Jehu: "We are your servants, and we will do whatever you say. We will not make anyone king. Do whatever is good in your sight."
 
-**v6** Then Jehu wrote them a second letter and said: "If you are on my side, and if you will obey me, then bring the heads of your master's sons to me at Jezreel by this time tomorrow."Now the sons of the king, seventy in all, were being brought up by the leading men of the city.
+**v6** Then Jehu wrote them a second letter and said: "If you are on my side, and if you will obey me, then bring the heads of your master's sons to me at Jezreel by this time tomorrow." Now the sons of the king, seventy in all, were being brought up by the leading men of the city.
 **v7** And when the letter arrived, they took the sons of the king and slaughtered all seventy of them. They put their heads in baskets and sent them to Jehu at Jezreel.
 
-**v8** When the messenger arrived, he told Jehu, "They have brought the heads of the sons of the king."And Jehu ordered, "Pile them in two heaps at the entrance of the gate until morning."
+**v8** When the messenger arrived, he told Jehu, "They have brought the heads of the sons of the king." And Jehu ordered, "Pile them in two heaps at the entrance of the gate until morning."
 
 **v9** The next morning, Jehu went out and stood before all the people and said, "You are innocent. It was I who conspired against my master and killed him. But who killed all these?
 **v10** Know, then, that not a word the LORD has spoken against the house of Ahab will fail, for the LORD has done what He promised through His servant Elijah."
@@ -16644,14 +16644,14 @@ source: https://berean.bible/
 
 **v14** Then Jehu ordered, "Take them alive." So his men took them alive, then slaughtered them at the well of Beth-eked—forty-two men. He spared none of them.
 
-**v15** When he left there, he found Jehonadab son of Rechab, who was coming to meet him. Jehu greeted him and asked, "Is your heart as true to mine as my heart is to yours?""It is!" Jehonadab replied."If it is," said Jehu, "give me your hand."So he gave him his hand, and Jehu helped him into his chariot,
+**v15** When he left there, he found Jehonadab son of Rechab, who was coming to meet him. Jehu greeted him and asked, "Is your heart as true to mine as my heart is to yours?""It is!" Jehonadab replied." If it is," said Jehu, "give me your hand." So he gave him his hand, and Jehu helped him into his chariot,
 **v16** saying, "Come with me and see my zeal for the LORD!" So he had him ride in his chariot.
 
 **v17** When Jehu came to Samaria, he struck down everyone belonging to Ahab who remained there, until he had destroyed them, according to the word that the LORD had spoken to Elijah.
 #### Jehu Kills the Priests of Baal
 
 **v18** Then Jehu brought all the people together and said, "Ahab served Baal a little, but Jehu will serve him a lot.
-**v19** Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice for Baal. Whoever is missing will not live."But Jehu was acting deceptively in order to destroy the servants of Baal.
+**v19** Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice for Baal. Whoever is missing will not live." But Jehu was acting deceptively in order to destroy the servants of Baal.
 
 **v20** And Jehu commanded, "Proclaim a solemn assembly for Baal." So they announced it.
 
@@ -16663,7 +16663,7 @@ source: https://berean.bible/
 
 **v24** And they went in to offer sacrifices and burnt offerings. Now Jehu had stationed eighty men outside and warned them, "If anyone allows one of the men I am delivering into your hands to escape, he will forfeit his life for theirs."
 
-**v25** When he had finished making the burnt offering, Jehu said to the guards and officers, "Go in and kill them. Do not let anyone out."So the guards and officers put them to the sword, threw the bodies out, and went into the inner room of the temple of Baal.
+**v25** When he had finished making the burnt offering, Jehu said to the guards and officers, "Go in and kill them. Do not let anyone out." So the guards and officers put them to the sword, threw the bodies out, and went into the inner room of the temple of Baal.
 
 **v26** They brought out the sacred pillar of the temple of Baal and burned it.
 **v27** They also demolished the sacred pillar of Baal. Then they tore down the temple of Baal and made it into a latrine, which it is to this day.
@@ -16789,13 +16789,13 @@ source: https://berean.bible/
 
 **v14** When Elisha had fallen sick with the illness from which he would die, Jehoash king of Israel came down to him and wept over him, saying, "My father, my father, the chariots and horsemen of Israel!"
 
-**v15** Elisha told him, "Take a bow and some arrows."So Jehoash took a bow and some arrows.
+**v15** Elisha told him, "Take a bow and some arrows." So Jehoash took a bow and some arrows.
 
-**v16** Then Elisha said to the king of Israel, "Put your hand on the bow."So the king put his hand on the bow, and Elisha put his hands on the king's hands.
+**v16** Then Elisha said to the king of Israel, "Put your hand on the bow." So the king put his hand on the bow, and Elisha put his hands on the king's hands.
 
 **v17** "Open the east window," said Elisha.So he opened it and Elisha said, "Shoot!" So he shot.And Elisha declared:"This is the LORD's arrow of victory,the arrow of victory over Aram,for you shall strike the Arameans in Aphekuntil you have put an end to them."
 
-**v18** Then Elisha said, "Take the arrows!"So he took them, and Elisha said to the king of Israel, "Strike the ground!"So he struck the ground three times and stopped.
+**v18** Then Elisha said, "Take the arrows!" So he took them, and Elisha said to the king of Israel, "Strike the ground!" So he struck the ground three times and stopped.
 
 **v19** But the man of God was angry with him and said, "You should have struck the ground five or six times. Then you would have struck down Aram until you had put an end to it. But now you will strike down Aram only three times."
 
@@ -17060,7 +17060,7 @@ source: https://berean.bible/
 #### Sennacherib Invades Judah
 
 **v13** In the fourteenth year of Hezekiah's reign, Sennacherib king of Assyria attacked and captured all the fortified cities of Judah.
-**v14** So Hezekiah king of Judah sent word to the king of Assyria at Lachish, saying, "I have done wrong; withdraw from me, and I will pay whatever you demand from me."And the king of Assyria exacted from Hezekiah king of Judah three hundred talents of silver and thirty talents of gold. 
+**v14** So Hezekiah king of Judah sent word to the king of Assyria at Lachish, saying, "I have done wrong; withdraw from me, and I will pay whatever you demand from me." And the king of Assyria exacted from Hezekiah king of Judah three hundred talents of silver and thirty talents of gold. 
 **v15** Hezekiah gave him all the silver that was found in the house of the LORD and in the treasuries of the royal palace.
 
 **v16** At that time Hezekiah stripped the gold with which he had plated the doors and doorposts of the temple of the LORD, and he gave it to the king of Assyria.
@@ -17113,7 +17113,7 @@ source: https://berean.bible/
 
 **v8** When the Rabshakeh heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.
 
-**v9** Now Sennacherib had been warned about Tirhakah king of Cush: "Look, he has set out to fight against you."So Sennacherib again sent messengers to Hezekiah, saying,
+**v9** Now Sennacherib had been warned about Tirhakah king of Cush: "Look, he has set out to fight against you." So Sennacherib again sent messengers to Hezekiah, saying,
 **v10** "Give this message to Hezekiah king of Judah:'Do not let your God, in whom you trust, deceive you by saying that Jerusalem will not be delivered into the hand of the king of Assyria.
 **v11** Surely you have heard what the kings of Assyria have done to all the other countries, devoting them to destruction. Will you then be spared?
 **v12** Did the gods of the nations destroyed by my fathers rescue those nations—the gods of Gozan, Haran, and Rezeph, and of the people of Eden in Telassar?
@@ -17184,7 +17184,7 @@ source: https://berean.bible/
 
 **v14** Then the prophet Isaiah went to King Hezekiah and asked, "Where did those men come from, and what did they say to you?""They came from a distant land," Hezekiah replied, "from Babylon."
 
-**v15** "What have they seen in your palace?" Isaiah asked."They have seen everything in my palace," answered Hezekiah. "There is nothing among my treasures that I did not show them."
+**v15** "What have they seen in your palace?" Isaiah asked." They have seen everything in my palace," answered Hezekiah. "There is nothing among my treasures that I did not show them."
 
 **v16** Then Isaiah said to Hezekiah, "Hear the word of the LORD:
 **v17** The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD.
@@ -17306,9 +17306,9 @@ source: https://berean.bible/
 **v15** He even pulled down the altar at Bethel, the high place set up by Jeroboam son of Nebat, who had caused Israel to sin. Then he burned the high place, ground it to powder, and burned the Asherah pole.
 **v16** And as Josiah turned, he saw the tombs there on the hillside, and he sent someone to take the bones out of the tombs, and he burned them on the altar to defile it, according to the word of the LORD proclaimed by the man of God who had foretold these things. 
 
-**v17** Then the king asked, "What is this monument I see?"And the men of the city replied, "It is the tomb of the man of God who came from Judah and proclaimed these things that you have done to the altar of Bethel."
+**v17** Then the king asked, "What is this monument I see?" And the men of the city replied, "It is the tomb of the man of God who came from Judah and proclaimed these things that you have done to the altar of Bethel."
 
-**v18** "Let him rest," said Josiah. "Do not let anyone disturb his bones."So they left his bones undisturbed, along with those of the prophet who had come from Samaria.
+**v18** "Let him rest," said Josiah. "Do not let anyone disturb his bones." So they left his bones undisturbed, along with those of the prophet who had come from Samaria.
 
 **v19** Just as Josiah had done at Bethel, so also in the cities of Samaria he removed all the shrines of the high places set up by the kings of Israel who had provoked the LORD to anger.
 **v20** On the altars he slaughtered all the priests of the high places, and he burned human bones on them. Then he returned to Jerusalem.
@@ -17688,7 +17688,7 @@ source: https://berean.bible/
 
 **v9** Now Jabez was more honorable than his brothers. His mother had named him Jabez, saying, "Because I bore him in pain."
 
-**v10** And Jabez called out to the God of Israel, "If only You would bless me and enlarge my territory! May Your hand be with me and keep me from harm, so that I will be free from pain."And God granted the request of Jabez.
+**v10** And Jabez called out to the God of Israel, "If only You would bless me and enlarge my territory! May Your hand be with me and keep me from harm, so that I will be free from pain." And God granted the request of Jabez.
 #### More Descendants of Judah
 
 **v11** Chelub the brother of Shuhah was the father of Mehir, who was the father of Eshton.
@@ -18145,7 +18145,7 @@ source: https://berean.bible/
 **v2** The Philistines followed hard after Saul and his sons, and they killed Saul's sons Jonathan, Abinadab, and Malchishua.
 **v3** When the battle intensified against Saul, the archers overtook him and wounded him.
 
-**v4** Then Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and torture me!"But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it.
+**v4** Then Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and torture me!" But his armor-bearer was terrified and refused to do it. So Saul took his own sword and fell on it.
 
 **v5** When his armor-bearer saw that Saul was dead, he too fell on his own sword and died.
 **v6** So Saul died together with his three sons and all his house.
@@ -18175,9 +18175,9 @@ source: https://berean.bible/
 
 **v4** Then David and all the Israelites marched to Jerusalem (that is, Jebus), where the Jebusites inhabited the land.
 
-**v5** The people of Jebus said to David, "You will never get in here."Nevertheless, David captured the fortress of Zion (that is, the City of David).
+**v5** The people of Jebus said to David, "You will never get in here." Nevertheless, David captured the fortress of Zion (that is, the City of David).
 
-**v6** Now David had said, "Whoever is the first to strike down a Jebusite will become chief commander."And Joab son of Zeruiah went up first, and he became the chief.
+**v6** Now David had said, "Whoever is the first to strike down a Jebusite will become chief commander." And Joab son of Zeruiah went up first, and he became the chief.
 
 **v7** So David took up residence in the fortress; that is why it was called the City of David.
 **v8** He built up the city around it, from the supporting terraces to the surrounding wall, while Joab restored the rest of the city.
@@ -18282,7 +18282,7 @@ source: https://berean.bible/
 **v16** Other Benjamites and some men from Judah also came to David in his stronghold.
 **v17** And David went out to meet them, saying, "If you have come to me in peace to help me, my heart will be united with you; but if you have come to betray me to my enemies when my hands are free of violence, may the God of our fathers see it and judge you."
 
-**v18** Then the Spirit came upon Amasai, the chief of the Thirty, and he said:"We are yours, O David!We are with you, O son of Jesse!Peace, peace to you,and peace to your helpers,for your God helps you."So David received them and made them leaders of his troops.
+**v18** Then the Spirit came upon Amasai, the chief of the Thirty, and he said:"We are yours, O David!We are with you, O son of Jesse!Peace, peace to you,and peace to your helpers,for your God helps you." So David received them and made them leaders of his troops.
 
 **v19** Some from Manasseh defected to David when he went with the Philistines to fight against Saul. (They did not help the Philistines because the Philistine rulers consulted and sent David away, saying, "It will cost us our heads if he defects to his master Saul.")
 **v20** When David went to Ziklag, these men of Manasseh defected to him:Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh.
@@ -18480,7 +18480,7 @@ source: https://berean.bible/
 **v34** Give thanks to the LORD, for He is good;His loving devotion endures forever.
 **v35** Then cry out: 'Save us, O God of our salvation;gather and deliver us from the nations,that we may give thanks to Your holy name,that we may glory in Your praise.'
 
-**v36** Blessed be the LORD, the God of Israel,from everlasting to everlasting."Then all the people said, "Amen!" and "Praise the LORD!"
+**v36** Blessed be the LORD, the God of Israel,from everlasting to everlasting." Then all the people said, "Amen!" and "Praise the LORD!"
 #### Worship before the Ark
 
 **v37** So David left Asaph and his associates there before the ark of the covenant of the LORD, to minister there regularly according to the daily requirements,
@@ -18571,7 +18571,7 @@ source: https://berean.bible/
 
 #### David's Messengers Disgraced
 **v1** Some time later, Nahash king of the Ammonites died and was succeeded by his son.
-**v2** And David said, "I will show kindness to Hanun son of Nahash, because his father showed kindness to me."So David sent messengers to console Hanun concerning his father. But when David's servants arrived in the land of the Ammonites to console him,
+**v2** And David said, "I will show kindness to Hanun son of Nahash, because his father showed kindness to me." So David sent messengers to console Hanun concerning his father. But when David's servants arrived in the land of the Ammonites to console him,
 **v3** the princes of the Ammonites said to Hanun, "Just because David has sent you comforters, do you really believe he is showing respect for your father? Have not his servants come to you to explore the land, spy it out, and overthrow it?"
 
 **v4** So Hanun took David's servants, shaved their beards, cut off their garments at the hips, and sent them away.
@@ -18648,7 +18648,7 @@ source: https://berean.bible/
 
 **v14** So the LORD sent a plague upon Israel, and seventy thousand men of Israel fell dead.
 
-**v15** Then God sent an angel to destroy Jerusalem, but as the angel was doing so, the LORD saw it and relented from the calamity, and He said to the angel who was destroying the people, "Enough! Withdraw your hand now!"At that time the angel of the LORD was standing by the threshing floor of Ornan the Jebusite.
+**v15** Then God sent an angel to destroy Jerusalem, but as the angel was doing so, the LORD saw it and relented from the calamity, and He said to the angel who was destroying the people, "Enough! Withdraw your hand now!" At that time the angel of the LORD was standing by the threshing floor of Ornan the Jebusite.
 
 **v16** When David lifted up his eyes and saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand stretched out over Jerusalem, David and the elders, clothed in sackcloth, fell facedown.
 **v17** And David said to God, "Was it not I who gave the order to count the people? I am the one who has sinned and acted wickedly. But these sheep, what have they done? O LORD my God, please let Your hand fall upon me and my father's house, but do not let this plague remain upon Your people."
@@ -19083,7 +19083,7 @@ source: https://berean.bible/
 **v18** O LORD, God of our fathers Abraham, Isaac, and Israel, keep this desire forever in the intentions of the hearts of Your people, and direct their hearts toward You.
 **v19** And give my son Solomon a whole heart to keep and carry out all Your commandments, decrees, and statutes, and to build Your palace for which I have made provision."
 
-**v20** Then David said to the whole assembly, "Bless the LORD your God."So the whole assembly blessed the LORD, the God of their fathers. They bowed down and paid homage to the LORD and to the king.
+**v20** Then David said to the whole assembly, "Bless the LORD your God." So the whole assembly blessed the LORD, the God of their fathers. They bowed down and paid homage to the LORD and to the king.
 #### Solomon Anointed King
 
 **v21** The next day they offered sacrifices and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, and a thousand lambs, along with their drink offerings, and other sacrifices in abundance for all Israel.
@@ -19269,7 +19269,7 @@ source: https://berean.bible/
 
 **v11** Now all the priests who were present had consecrated themselves regardless of their divisions. And when the priests came out of the Holy Place,
 **v12** all the Levitical singers—Asaph, Heman, Jeduthun, and their sons and relatives—stood on the east side of the altar, dressed in fine linen and playing cymbals, harps, and lyres, accompanied by 120 priests sounding trumpets.
-**v13** The trumpeters and singers joined together to praise and thank the LORD with one voice. They lifted up their voices, accompanied by trumpets, cymbals, and musical instruments, in praise to the LORD:"For He is good;His loving devotion endures forever."And the temple, the house of the LORD, was filled with a cloud
+**v13** The trumpeters and singers joined together to praise and thank the LORD with one voice. They lifted up their voices, accompanied by trumpets, cymbals, and musical instruments, in praise to the LORD:"For He is good;His loving devotion endures forever." And the temple, the house of the LORD, was filled with a cloud
 **v14** so that the priests could not stand there to minister because of the cloud. For the glory of the LORD filled the house of God.
 
 ### Chapter 6
@@ -19480,7 +19480,7 @@ source: https://berean.bible/
 **v15** So the king did not listen to the people, and indeed this turn of events was from God, in order that the LORD might fulfill the word that He had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.
 #### The Kingdom Divided
 
-**v16** When all Israel saw that the king had refused to listen to them, they answered the king:"What portion do we have in David,and what inheritance in the son of Jesse?To your tents, O Israel!Look now to your own house, O David!"So all the Israelites went home,
+**v16** When all Israel saw that the king had refused to listen to them, they answered the king:"What portion do we have in David,and what inheritance in the son of Jesse?To your tents, O Israel!Look now to your own house, O David!" So all the Israelites went home,
 **v17** but Rehoboam still reigned over the Israelites living in the cities of Judah.
 
 **v18** Then King Rehoboam sent out Hadoram, who was in charge of the forced labor, but the Israelites stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.
@@ -19705,7 +19705,7 @@ source: https://berean.bible/
 **v1** Now Jehoshaphat had an abundance of riches and honor, and he allied himself with Ahab by marriage.
 **v2** And some years later he went down to visit Ahab in Samaria, where Ahab sacrificed many sheep and cattle for him and the people with him and urged him to march up to Ramoth-gilead.
 
-**v3** Ahab king of Israel asked Jehoshaphat king of Judah, "Will you go with me against Ramoth-gilead?"And Jehoshaphat replied, "I am as you are, and my people are your people; we will join you in the war."
+**v3** Ahab king of Israel asked Jehoshaphat king of Judah, "Will you go with me against Ramoth-gilead?" And Jehoshaphat replied, "I am as you are, and my people are your people; we will join you in the war."
 
 **v4** But Jehoshaphat also said to the king of Israel, "Please inquire first for the word of the LORD."
 
@@ -19852,7 +19852,7 @@ source: https://berean.bible/
 **v35** Later, Jehoshaphat king of Judah made an alliance with Ahaziah king of Israel, who acted wickedly. 
 **v36** They agreed to make ships to go to Tarshish, and these were built in Ezion-geber.
 
-**v37** Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, "Because you have allied yourself with Ahaziah, the LORD has destroyed your works."So the ships were wrecked and were unable to sail to Tarshish. 
+**v37** Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, "Because you have allied yourself with Ahaziah, the LORD has destroyed your works." So the ships were wrecked and were unable to sail to Tarshish. 
 
 ### Chapter 21
 
@@ -19909,7 +19909,7 @@ source: https://berean.bible/
 
 **v8** So while Jehu was executing judgment on the house of Ahab, he found the rulers of Judah and the sons of Ahaziah's brothers who were serving Ahaziah, and he killed them.
 
-**v9** Then Jehu looked for Ahaziah, and Jehu's soldiers captured him while he was hiding in Samaria. So Ahaziah was brought to Jehu and put to death. They buried him, for they said, "He is the grandson of Jehoshaphat, who sought the LORD with all his heart."So no one was left from the house of Ahaziah with the strength to rule the kingdom.
+**v9** Then Jehu looked for Ahaziah, and Jehu's soldiers captured him while he was hiding in Samaria. So Ahaziah was brought to Jehu and put to death. They buried him, for they said, "He is the grandson of Jehoshaphat, who sought the LORD with all his heart." So no one was left from the house of Ahaziah with the strength to rule the kingdom.
 #### Athaliah and Joash
 
 **v10** When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs of the house of Judah.
@@ -19922,7 +19922,7 @@ source: https://berean.bible/
 #### Joash Anointed King of Judah
 **v1** Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
 **v2** So they went throughout Judah and gathered the Levites from all the cities of Judah and the heads of the families of Israel. And when they came to Jerusalem,
-**v3** the whole assembly made a covenant with the king in the house of God."Behold, the king's son!" said Jehoiada. "He must reign, just as the LORD promised concerning the descendants of David.
+**v3** the whole assembly made a covenant with the king in the house of God." Behold, the king's son!" said Jehoiada. "He must reign, just as the LORD promised concerning the descendants of David.
 **v4** This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,
 **v5** a third shall be at the royal palace, and a third at the Foundation Gate, while all the others are to be in the courtyards of the house of the LORD.
 **v6** No one is to enter the house of the LORD except the priests and those Levites who serve; they may enter because they are consecrated, but all the people are to obey the requirement of the LORD.
@@ -19960,7 +19960,7 @@ source: https://berean.bible/
 **v3** Jehoiada took for him two wives, and he had sons and daughters.
 
 **v4** Some time later, Joash set his heart on repairing the house of the LORD.
-**v5** So he gathered the priests and Levites and said, "Go out to the cities of Judah and collect the money due annually from all Israel, to repair the house of your God. Do it quickly."The Levites, however, did not make haste.
+**v5** So he gathered the priests and Levites and said, "Go out to the cities of Judah and collect the money due annually from all Israel, to repair the house of your God. Do it quickly." The Levites, however, did not make haste.
 **v6** So the king called Jehoiada the high priest and said, "Why have you not required the Levites to bring from Judah and Jerusalem the tax imposed by Moses the servant of the LORD and by the assembly of Israel for the Tent of the Testimony?"
 
 **v7** For the sons of that wicked woman Athaliah had broken into the house of God and had even used the sacred objects of the house of the LORD for the Baals.
@@ -20016,7 +20016,7 @@ source: https://berean.bible/
 **v7** But a man of God came to him and said, "O king, do not let the army of Israel go with you, for the LORD is not with Israel—not with any of the Ephraimites.
 **v8** Even if you go and fight bravely in battle, God will overthrow you before the enemy, for God has power to help and power to overthrow."
 
-**v9** Amaziah asked the man of God, "What should I do about the hundred talents I have given to the troops of Israel?"And the man of God replied, "The LORD is able to give you much more than this."
+**v9** Amaziah asked the man of God, "What should I do about the hundred talents I have given to the troops of Israel?" And the man of God replied, "The LORD is able to give you much more than this."
 
 **v10** So Amaziah dismissed the troops who had come to him from Ephraim and sent them home. And they were furious with Judah and returned home in great anger.
 
@@ -20029,7 +20029,7 @@ source: https://berean.bible/
 **v14** When Amaziah returned from the slaughter of the Edomites, he brought back the gods of the Seirites, set them up as his own gods, bowed before them, and burned sacrifices to them.
 **v15** Therefore the anger of the LORD burned against Amaziah, and He sent him a prophet, who said, "Why have you sought this people's gods, which could not deliver them from your hand?"
 
-**v16** While he was still speaking, the king asked, "Have we made you the counselor to the king? Stop! Why be struck down?"So the prophet stopped, but he said, "I know that God has determined to destroy you, because you have done this and have not heeded my advice."
+**v16** While he was still speaking, the king asked, "Have we made you the counselor to the king? Stop! Why be struck down?" So the prophet stopped, but he said, "I know that God has determined to destroy you, because you have done this and have not heeded my advice."
 #### Jehoash Defeats Amaziah
 
 **v17** Then Amaziah king of Judah took counsel and sent word to the king of Israel Jehoash son of Jehoahaz, the son of Jehu. "Come, let us meet face to face," he said.
@@ -20199,7 +20199,7 @@ source: https://berean.bible/
 **v29** When the offerings were completed, the king and all those present with him bowed down and worshiped.
 **v30** Then King Hezekiah and his officials ordered the Levites to sing praises to the LORD in the words of David and of Asaph the seer. So they sang praises with gladness and bowed down and worshiped.
 
-**v31** Then Hezekiah said, "Now that you have consecrated yourselves to the LORD, come near and bring sacrifices and thank offerings to the house of the LORD."So the assembly brought sacrifices and thank offerings, and all whose hearts were willing brought burnt offerings.
+**v31** Then Hezekiah said, "Now that you have consecrated yourselves to the LORD, come near and bring sacrifices and thank offerings to the house of the LORD." So the assembly brought sacrifices and thank offerings, and all whose hearts were willing brought burnt offerings.
 **v32** The number of burnt offerings the assembly brought was seventy bulls, a hundred rams, and two hundred lambs; all these were for a burnt offering to the LORD.
 **v33** And the consecrated offerings were six hundred bulls and three thousand sheep.
 
@@ -20301,7 +20301,7 @@ source: https://berean.bible/
 
 **v6** Hezekiah appointed military commanders over the people and gathered the people in the square of the city gate. Then he encouraged them, saying,
 **v7** "Be strong and courageous! Do not be afraid or discouraged before the king of Assyria and the vast army with him, for there is a greater One with us than with him.
-**v8** With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles."So the people were strengthened by the words of Hezekiah king of Judah.
+**v8** With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles." So the people were strengthened by the words of Hezekiah king of Judah.
 #### Sennacherib Threatens Jerusalem
 
 **v9** Later, as Sennacherib king of Assyria and all his forces besieged Lachish, he sent his servants to Jerusalem with a message for King Hezekiah of Judah and all the people of Judah who were in Jerusalem:
@@ -20719,7 +20719,7 @@ source: https://berean.bible/
 **v9** So Jeshua and his sons and brothers, Kadmiel and his sons (descendants of Yehudah), and the sons of Henadad and their sons and brothers—all Levites—joined together to supervise those working on the house of God.
 
 **v10** When the builders had laid the foundation of the temple of the LORD, the priests in their apparel with trumpets, and the Levites (the sons of Asaph) with cymbals, took their positions to praise the LORD, as David king of Israel had prescribed.
-**v11** And they sang responsively with praise and thanksgiving to the LORD:"For He is good;for His loving devotion to Israel endures forever."Then all the people gave a great shout of praise to the LORD, because the foundation of the house of the LORD had been laid.
+**v11** And they sang responsively with praise and thanksgiving to the LORD:"For He is good;for His loving devotion to Israel endures forever." Then all the people gave a great shout of praise to the LORD, because the foundation of the house of the LORD had been laid.
 
 **v12** But many of the older priests, Levites, and family heads who had seen the first temple wept loudly when they saw the foundation of this temple. Still, many others shouted joyfully.
 **v13** The people could not distinguish the shouts of joy from the sound of weeping, because the people were making so much noise. And the sound was heard from afar.
@@ -21086,7 +21086,7 @@ source: https://berean.bible/
 
 #### Nehemiah Sent to Jerusalem
 **v1** Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence,
-**v2** so the king said to me, "Why is your face sad, though you are not ill? This could only be sadness of the heart."I was overwhelmed with fear
+**v2** so the king said to me, "Why is your face sad, though you are not ill? This could only be sadness of the heart." I was overwhelmed with fear
 **v3** and replied to the king, "May the king live forever! Why should I not be sad when the city where my fathers are buried lies in ruins, and its gates have been destroyed by fire?"
 
 **v4** "What is your request?" replied the king.So I prayed to the God of heaven
@@ -21095,7 +21095,7 @@ source: https://berean.bible/
 **v6** Then the king, with the queen seated beside him, asked me, "How long will your journey take, and when will you return?" So it pleased the king to send me, and I set a time.
 
 **v7** I also said to him, "If it pleases the king, may letters be given to me for the governors west of the Euphrates, so that they will grant me safe passage until I reach Judah.
-**v8** And may I have a letter to Asaph, keeper of the king's forest, so that he will give me timber to make beams for the gates of the citadel to the temple, for the city wall, and for the house I will occupy."And because the gracious hand of my God was upon me, the king granted my requests.
+**v8** And may I have a letter to Asaph, keeper of the king's forest, so that he will give me timber to make beams for the gates of the citadel to the temple, for the city wall, and for the house I will occupy." And because the gracious hand of my God was upon me, the king granted my requests.
 
 **v9** Then I went to the governors west of the Euphrates and gave them the king's letters. The king had also sent army officers and cavalry with me.
 
@@ -21113,7 +21113,7 @@ source: https://berean.bible/
 **v16** The officials did not know where I had gone or what I was doing, for I had not yet told the Jews or priests or nobles or officials or any other workers.
 **v17** Then I said to them, "You see the trouble we are in. Jerusalem lies in ruins, and its gates have been burned down. Come, let us rebuild the wall of Jerusalem, so that we will no longer be a disgrace."
 
-**v18** I also told them about the gracious hand of my God upon me, and what the king had said to me."Let us start rebuilding," they replied, and they set their hands to this good work.
+**v18** I also told them about the gracious hand of my God upon me, and what the king had said to me." Let us start rebuilding," they replied, and they set their hands to this good work.
 
 **v19** But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard about this, they mocked us and ridiculed us, saying, "What is this you are doing? Are you rebelling against the king?"
 
@@ -21222,15 +21222,15 @@ source: https://berean.bible/
 **v5** We and our children are just like our countrymen and their children, yet we are subjecting our sons and daughters to slavery. Some of our daughters are already enslaved, but we are powerless to redeem them because our fields and vineyards belong to others."
 
 **v6** When I heard their outcry and these complaints, I became extremely angry,
-**v7** and after serious thought I rebuked the nobles and officials, saying, "You are exacting usury from your own brothers!"So I called a large assembly against them
-**v8** and said, "We have done our best to buy back our Jewish brothers who were sold to foreigners, but now you are selling your own brothers, that they may be sold back to us!"But they remained silent, for they could find nothing to say.
+**v7** and after serious thought I rebuked the nobles and officials, saying, "You are exacting usury from your own brothers!" So I called a large assembly against them
+**v8** and said, "We have done our best to buy back our Jewish brothers who were sold to foreigners, but now you are selling your own brothers, that they may be sold back to us!" But they remained silent, for they could find nothing to say.
 
 **v9** So I continued, "What you are doing is not right. Shouldn't you walk in the fear of our God to avoid the reproach of our foreign enemies?
 **v10** I, as well as my brothers and my servants, have been lending the people money and grain. Please, let us stop this usury.
 **v11** Please restore to them immediately their fields, vineyards, olive groves, and houses, along with the percentage of the money, grain, new wine, and oil that you have been assessing them."
 
-**v12** "We will restore it," they replied, "and will require nothing more from them. We will do as you say."So I summoned the priests and required of the nobles and officials an oath that they would do what they had promised.
-**v13** I also shook out the folds of my robe and said, "May God likewise shake out of his house and possessions every man who does not keep this promise. May such a man be shaken out and have nothing!"The whole assembly said, "Amen," and they praised the LORD. And the people did as they had promised.
+**v12** "We will restore it," they replied, "and will require nothing more from them. We will do as you say." So I summoned the priests and required of the nobles and officials an oath that they would do what they had promised.
+**v13** I also shook out the folds of my robe and said, "May God likewise shake out of his house and possessions every man who does not keep this promise. May such a man be shaken out and have nothing!" The whole assembly said, "Amen," and they praised the LORD. And the people did as they had promised.
 #### Nehemiah's Generosity
 
 **v14** Furthermore, from the day King Artaxerxes appointed me to be their governor in the land of Judah, from his twentieth year until his thirty-second year (twelve years total), neither I nor my brothers ate the food allotted to the governor.
@@ -21247,7 +21247,7 @@ source: https://berean.bible/
 
 #### Sanballat's Conspiracy
 **v1** When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates—
-**v2** Sanballat and Geshem sent me this message: "Come, let us meet together in one of the villages on the plain of Ono."But they were planning to harm me.
+**v2** Sanballat and Geshem sent me this message: "Come, let us meet together in one of the villages on the plain of Ono." But they were planning to harm me.
 
 **v3** So I sent messengers to them, saying, "I am doing a great work and cannot come down. Why should the work stop while I leave it to go down to you?"
 
@@ -21259,7 +21259,7 @@ source: https://berean.bible/
 
 **v8** Then I sent him this reply: "There is nothing to these rumors you are spreading; you are inventing them in your own mind."
 
-**v9** For they were all trying to frighten us, saying, "Their hands will be weakened in the work, and it will never be finished."But now, my God, strengthen my hands.
+**v9** For they were all trying to frighten us, saying, "Their hands will be weakened in the work, and it will never be finished." But now, my God, strengthen my hands.
 
 **v10** Later, I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was confined to his house. He said:"Let us meet at the house of Godinside the temple.Let us shut the temple doorsbecause they are coming to kill you—by night they are coming to kill you!"
 
@@ -21437,7 +21437,7 @@ source: https://berean.bible/
 **v7** The Levites—Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah—instructed the people in the Law as they stood in their places.
 **v8** So they read from the Book of the Law of God, explaining it and giving insight, so that the people could understand what was being read.
 
-**v9** Nehemiah the governor, Ezra the priest and scribe, and the Levites who were instructing the people said to all of them, "This day is holy to the LORD your God. Do not mourn or weep."For all the people were weeping as they heard the words of the Law.
+**v9** Nehemiah the governor, Ezra the priest and scribe, and the Levites who were instructing the people said to all of them, "This day is holy to the LORD your God. Do not mourn or weep." For all the people were weeping as they heard the words of the Law.
 
 **v10** Then Nehemiah told them, "Go and eat what is rich, drink what is sweet, and send out portions to those who have nothing prepared, since today is holy to our Lord. Do not grieve, for the joy of the LORD is your strength."
 
@@ -21742,7 +21742,7 @@ source: https://berean.bible/
 #### Tithes Restored
 
 **v10** I also learned that because the portions for the Levites had not been given to them, all the Levites and singers responsible for performing the service had gone back to their own fields.
-**v11** So I rebuked the officials and asked, "Why has the house of God been neglected?"Then I gathered the Levites and singers together and stationed them at their posts,
+**v11** So I rebuked the officials and asked, "Why has the house of God been neglected?" Then I gathered the Levites and singers together and stationed them at their posts,
 **v12** and all Judah brought a tenth of the grain, new wine, and oil into the storerooms.
 **v13** I appointed as treasurers over the storerooms Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, with Hanan son of Zaccur, the son of Mattaniah, to assist them, because they were considered trustworthy. They were responsible for distributing the supplies to their fellow Levites.
 
@@ -21824,7 +21824,7 @@ source: https://berean.bible/
 
 **v2** Then the king's attendants proposed, "Let a search be made for beautiful young virgins for the king,
 **v3** and let the king appoint commissioners in each province of his kingdom to assemble all the beautiful young women into the harem at the citadel of Susa. Let them be placed under the care of Hegai, the king's eunuch in charge of the women, and let them be given beauty treatments.
-**v4** Then let the young woman who pleases the king become queen in place of Vashti."This suggestion pleased the king, and he acted accordingly.
+**v4** Then let the young woman who pleases the king become queen in place of Vashti." This suggestion pleased the king, and he acted accordingly.
 #### Esther Finds Favor
 
 **v5** Now there was at the citadel of Susa a Jewish man from the tribe of Benjamin named Mordecai son of Jair, the son of Shimei, the son of Kish.
@@ -21930,7 +21930,7 @@ source: https://berean.bible/
 
 **v4** "If it pleases the king," Esther replied, "may the king and Haman come today to the banquet I have prepared for the king."
 
-**v5** "Hurry," commanded the king, "and bring Haman, so we can do as Esther has requested."So the king and Haman went to the banquet that Esther had prepared.
+**v5** "Hurry," commanded the king, "and bring Haman, so we can do as Esther has requested." So the king and Haman went to the banquet that Esther had prepared.
 **v6** And as they drank their wine, the king said to Esther, "What is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled."
 
 **v7** Esther replied, "This is my petition and my request:
@@ -21945,7 +21945,7 @@ source: https://berean.bible/
 **v12** "What is more," Haman added, "Queen Esther invited no one but me to join the king at the banquet she prepared, and I am invited back tomorrow along with the king.
 **v13** Yet none of this satisfies me as long as I see Mordecai the Jew sitting at the king's gate."
 
-**v14** His wife Zeresh and all his friends told him, "Have them build a gallows fifty cubits high, and ask the king in the morning to have Mordecai hanged on it. Then go to the banquet with the king and enjoy yourself."The advice pleased Haman, and he had the gallows constructed.
+**v14** His wife Zeresh and all his friends told him, "Have them build a gallows fifty cubits high, and ask the king in the morning to have Mordecai hanged on it. Then go to the banquet with the king and enjoy yourself." The advice pleased Haman, and he had the gallows constructed.
 
 ### Chapter 6
 
@@ -21958,7 +21958,7 @@ source: https://berean.bible/
 **v4** "Who is in the court?" the king asked.Now Haman had just entered the outer court of the palace to ask the king to hang Mordecai on the gallows he had prepared for him.
 **v5** So the king's attendants answered him, "Haman is there, standing in the court.""Bring him in," ordered the king.
 
-**v6** Haman entered, and the king asked him, "What should be done for the man whom the king is delighted to honor?"Now Haman thought to himself, "Whom would the king be delighted to honor more than me?"
+**v6** Haman entered, and the king asked him, "What should be done for the man whom the king is delighted to honor?" Now Haman thought to himself, "Whom would the king be delighted to honor more than me?"
 
 **v7** And Haman told the king, "For the man whom the king is delighted to honor,
 **v8** have them bring a royal robe that the king himself has worn and a horse on which the king himself has ridden—one with a royal crest placed on its head.
@@ -21985,12 +21985,12 @@ source: https://berean.bible/
 
 **v5** Then King Xerxes spoke up and asked Queen Esther, "Who is this, and where is the one who would devise such a scheme?"
 
-**v6** Esther replied, "The adversary and enemy is this wicked man—Haman!"And Haman stood in terror before the king and queen.
+**v6** Esther replied, "The adversary and enemy is this wicked man—Haman!" And Haman stood in terror before the king and queen.
 #### The Hanging of Haman
 
 **v7** In his fury, the king arose from drinking his wine and went to the palace garden, while Haman stayed behind to beg Queen Esther for his life, for he realized that the king was planning a terrible fate for him.
 
-**v8** Just as the king returned from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining. The king exclaimed, "Would he actually assault the queen while I am in the palace?"As soon as the words had left the king's mouth, they covered Haman's face.
+**v8** Just as the king returned from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining. The king exclaimed, "Would he actually assault the queen while I am in the palace?" As soon as the words had left the king's mouth, they covered Haman's face.
 
 **v9** Then Harbonah, one of the eunuchs attending the king, said: "There is a gallows fifty cubits high at Haman's house. He had it built for Mordecai, who gave the report that saved the king.""Hang him on it!" declared the king.
 
@@ -22102,7 +22102,7 @@ source: https://berean.bible/
 
 **v6** One day the sons of God came to present themselves before the LORD, and Satan also came with them.
 
-**v7** "Where have you come from?" said the LORD to Satan."From roaming through the earth," he replied, "and walking back and forth in it."
+**v7** "Where have you come from?" said the LORD to Satan." From roaming through the earth," he replied, "and walking back and forth in it."
 
 **v8** Then the LORD said to Satan, "Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil."
 
@@ -22110,7 +22110,7 @@ source: https://berean.bible/
 **v10** Have You not placed a hedge on every side around him and his household and all that he owns? You have blessed the work of his hands, and his possessions have increased in the land.
 **v11** But stretch out Your hand and strike all that he has, and he will surely curse You to Your face."
 
-**v12** "Very well," said the LORD to Satan. "Everything he has is in your hands, but you must not lay a hand on the man himself."Then Satan went out from the presence of the LORD.
+**v12** "Very well," said the LORD to Satan. "Everything he has is in your hands, but you must not lay a hand on the man himself." Then Satan went out from the presence of the LORD.
 #### Job Loses His Children and Possessions
 
 **v13** One day, while Job's sons and daughters were eating and drinking wine in their oldest brother's house,
@@ -22134,7 +22134,7 @@ source: https://berean.bible/
 #### Job Loses His Health
 **v1** On another day the sons of God came to present themselves before the LORD, and Satan also came with them to present himself before Him.
 
-**v2** "Where have you come from?" said the LORD to Satan."From roaming through the earth," he replied, "and walking back and forth in it."
+**v2** "Where have you come from?" said the LORD to Satan." From roaming through the earth," he replied, "and walking back and forth in it."
 
 **v3** Then the LORD said to Satan, "Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil. He still retains his integrity, even though you incited Me against him to ruin him without cause."
 
@@ -22148,7 +22148,7 @@ source: https://berean.bible/
 
 **v9** Then Job's wife said to him, "Do you still retain your integrity? Curse God and die!"
 
-**v10** "You speak as a foolish woman speaks," he told her. "Should we accept from God only good and not adversity?"In all this, Job did not sin in what he said.
+**v10** "You speak as a foolish woman speaks," he told her. "Should we accept from God only good and not adversity?" In all this, Job did not sin in what he said.
 #### Job's Three Friends
 
 **v11** Now when Job's three friends—Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite—heard about all this adversity that had come upon him, each of them came from his home, and they met together to go and sympathize with Job and comfort him.
@@ -23108,7 +23108,7 @@ source: https://berean.bible/
 
 **v38** if my land cries out against meand its furrows weep together,
 **v39** if I have devoured its produce without paymentor broken the spirit of its tenants,
-**v40** then let briers grow instead of wheatand stinkweed instead of barley."Thus conclude the words of Job.
+**v40** then let briers grow instead of wheatand stinkweed instead of barley." Thus conclude the words of Job.
 
 ### Chapter 32
 
@@ -23561,7 +23561,7 @@ source: https://berean.bible/
 #### Deliver Me, O LORD!
 
 **v1** O LORD, how my foes have increased!How many rise up against me!
-**v2** Many say of me,"God will not deliver him."Selah 
+**v2** Many say of me," God will not deliver him." Selah 
 **v3** But You, O LORD, are a shield around me,my glory, and the One who lifts my head.
 **v4** To the LORD I cry aloud,and He answers me from His holy mountain.Selah
 **v5** I lie down and sleep;I wake again, for the LORD sustains me.
@@ -23582,7 +23582,7 @@ source: https://berean.bible/
 **v4** Be angry, yet do not sin; on your bed, search your heart and be still.Selah
 **v5** Offer the sacrifices of the righteousand trust in the LORD.
 
-**v6** Many ask, "Who can show us the good?"Shine the light of Your face upon us, O LORD.
+**v6** Many ask, "Who can show us the good?" Shine the light of Your face upon us, O LORD.
 **v7** You have filled my heart with more joythan when grain and new wine abound.
 **v8** I will lie down and sleep in peace,for You alone, O LORD, make me dwell in safety.
 
@@ -23749,7 +23749,7 @@ source: https://berean.bible/
 **v3** May the LORD cut off all flattering lipsand every boastful tongue.
 **v4** They say, "With our tongues we will prevail.We own our lips—who can be our master?"
 
-**v5** "For the cause of the oppressedand for the groaning of the needy,I will now arise," says the LORD."I will bring safety to him who yearns."
+**v5** "For the cause of the oppressedand for the groaning of the needy,I will now arise," says the LORD." I will bring safety to him who yearns."
 
 **v6** The words of the LORD are flawless,like silver refined in a furnace,like gold purified sevenfold. 
 **v7** You, O LORD, will keep us;You will forever guard us from this generation.
@@ -23771,7 +23771,7 @@ source: https://berean.bible/
 
 #### The Fool Says There Is No God
 
-**v1** The fool says in his heart,"There is no God."They are corrupt; their acts are vile.There is no one who does good.
+**v1** The fool says in his heart," There is no God." They are corrupt; their acts are vile.There is no one who does good.
 
 **v2** The LORD looks down from heavenupon the sons of mento see if any understand,if any seek God.
 **v3** All have turned away,they have together become corrupt; there is no one who does good,not even one. 
@@ -24099,7 +24099,7 @@ source: https://berean.bible/
 **v6** Then my head will be held highabove my enemies around me.At His tabernacle I will offer sacrifices with shouts of joy;I will sing and make music to the LORD.
 
 **v7** Hear, O LORD, my voice when I call;be merciful and answer me.
-**v8** My heart said, "Seek His face."Your face, O LORD, I will seek.
+**v8** My heart said, "Seek His face." Your face, O LORD, I will seek.
 **v9** Hide not Your face from me,nor turn away Your servant in anger.You have been my helper;do not leave me or forsake me,O God of my salvation.
 
 **v10** Though my father and mother forsake me,the LORD will receive me.
@@ -24154,7 +24154,7 @@ source: https://berean.bible/
 **v4** Sing to the LORD, O you His saints,and praise His holy name. 
 **v5** For His anger is fleeting,but His favor lasts a lifetime.Weeping may stay the night,but joy comes in the morning.
 
-**v6** In prosperity I said,"I will never be shaken."
+**v6** In prosperity I said," I will never be shaken."
 **v7** O LORD, You favored me;You made my mountain stand strong.When You hid Your face,I was dismayed.
 **v8** To You, O LORD, I called,and I begged my Lord for mercy:
 **v9** "What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You?Will it proclaim Your faithfulness?
@@ -24195,7 +24195,7 @@ source: https://berean.bible/
 **v20** You hide them in the secret place of Your presencefrom the schemes of men.You conceal them in Your shelterfrom accusing tongues.
 
 **v21** Blessed be the LORD,for He has shown me His loving devotionin a city under siege.
-**v22** In my alarm I said,"I am cut off from Your sight!"But You heard my plea for mercywhen I called to You for help.
+**v22** In my alarm I said," I am cut off from Your sight!" But You heard my plea for mercywhen I called to You for help.
 
 **v23** Love the LORD, all His saints.The LORD preserves the faithful,but fully repays the arrogant.
 **v24** Be strong and courageous,all you who hope in the LORD.
@@ -24297,7 +24297,7 @@ source: https://berean.bible/
 **v8** May ruin befall them by surprise;may the net they hid ensnare them;may they fall into the hazard they created.
 
 **v9** Then my soul will rejoice in the LORDand exult in His salvation.
-**v10** All my bones will exclaim,"Who is like You, O LORD,who delivers the afflicted from the aggressor,the poor and needy from the robber?"
+**v10** All my bones will exclaim," Who is like You, O LORD,who delivers the afflicted from the aggressor,the poor and needy from the robber?"
 
 **v11** Hostile witnesses come forward;they make charges I know nothing about.
 **v12** They repay me evil for good,to the bereavement of my soul.
@@ -24310,12 +24310,12 @@ source: https://berean.bible/
 **v18** Then I will give You thanks in the great assembly;I will praise You among many people.
 **v19** Let not my enemies gloat over me without cause,nor those who hate me without reason wink in malice. 
 **v20** For they do not speak peace,but they devise deceitful schemesagainst those who live quietly in the land.
-**v21** They gape at me and say,"Aha, aha! Our eyes have seen!"
+**v21** They gape at me and say," Aha, aha! Our eyes have seen!"
 
 **v22** O LORD, You have seen it; be not silent.O Lord, be not far from me.
 **v23** Awake and rise to my defense,to my cause, my God and my Lord!
 **v24** Vindicate me by Your righteousness, O LORD my God,and do not let them gloat over me.
-**v25** Let them not say in their hearts,"Aha, just what we wanted!"Let them not say,"We have swallowed him up!"
+**v25** Let them not say in their hearts," Aha, just what we wanted!" Let them not say," We have swallowed him up!"
 
 **v26** May those who gloat in my distressbe ashamed and confounded;may those who exalt themselves over mebe clothed in shame and reproach.
 **v27** May those who favor my vindicationshout for joy and gladness;may they always say, "Exalted be the LORDwho delights in His servant's well-being."
@@ -24511,7 +24511,7 @@ source: https://berean.bible/
 
 **v1** As the deer pants for streams of water,so my soul longs after You, O God.
 **v2** My soul thirsts for God, the living God.When shall I come and appear in God's presence? 
-**v3** My tears have been my foodboth day and night,while men ask me all day long,"Where is your God?"
+**v3** My tears have been my foodboth day and night,while men ask me all day long," Where is your God?"
 **v4** These things come to mind as I pour out my soul:how I walked with the multitude,leading the festive procession to the house of Godwith shouts of joy and praise.
 
 **v5** Why are you downcast, O my soul?Why the unease within me?Put your hope in God, for I will yet praise Himfor the salvation of His presence.
@@ -24520,8 +24520,8 @@ source: https://berean.bible/
 **v7** Deep calls to deepin the roar of Your waterfalls;all Your breakers and waveshave rolled over me.
 **v8** The LORD decrees His loving devotion by day,and at night His song is with meas a prayer to the God of my life.
 
-**v9** I say to God my Rock,"Why have You forgotten me?Why must I walk in sorrowbecause of the enemy's oppression?"
-**v10** Like the crushing of my bones,my enemies taunt me,while they say to me all day long,"Where is your God?"
+**v9** I say to God my Rock," Why have You forgotten me?Why must I walk in sorrowbecause of the enemy's oppression?"
+**v10** Like the crushing of my bones,my enemies taunt me,while they say to me all day long," Where is your God?"
 
 **v11** Why are you downcast, O my soul?Why the unease within me?Put your hope in God, for I will yet praise Him,my Savior and my God.
 
@@ -24702,7 +24702,7 @@ source: https://berean.bible/
 **v14** Sacrifice a thank offering to God,and fulfill your vows to the Most High.
 **v15** Call upon Me in the day of trouble;I will deliver you, and you will honor Me."
 
-**v16** To the wicked, however, God says,"What right have you to recite My statutesand to bear My covenant on your lips?
+**v16** To the wicked, however, God says," What right have you to recite My statutesand to bear My covenant on your lips?
 **v17** For you hate My instructionand cast My words behind you.
 **v18** When you see a thief, you befriend him,and throw in your lot with adulterers.
 **v19** You unleash your mouth for eviland harness your tongue to deceit.
@@ -24759,7 +24759,7 @@ source: https://berean.bible/
 
 #### The Fool Says There Is No God
 
-**v1** The fool says in his heart,"There is no God."They are corrupt; their ways are vile.There is no one who does good.
+**v1** The fool says in his heart," There is no God." They are corrupt; their ways are vile.There is no one who does good.
 
 **v2** God looks down from heavenupon the sons of mento see if any understand,if any seek God.
 **v3** All have turned away,they have together become corrupt; there is no one who does good,not even one. 
@@ -24874,7 +24874,7 @@ source: https://berean.bible/
 
 **v9** Before your pots can feel the burning thorns—whether green or dry—He will sweep them away.
 **v10** The righteous will rejoicewhen they see they are avenged;they will wash their feetin the blood of the wicked.
-**v11** Then men will say,"There is surely a reward for the righteous!There is surely a God who judges the earth!"
+**v11** Then men will say," There is surely a reward for the righteous!There is surely a God who judges the earth!"
 
 ### Chapter 59
 
@@ -24980,8 +24980,8 @@ source: https://berean.bible/
 **v3** who sharpen their tongues like swordsand aim their bitter words like arrows,
 **v4** ambushing the innocent in seclusion,shooting suddenly, without fear.
 
-**v5** They hold fast to their evil purpose;they speak of hiding their snares."Who will see them?" they say.
-**v6** They devise injustice and say,"We have perfected a secret plan."For the inner man and the heart are mysterious.
+**v5** They hold fast to their evil purpose;they speak of hiding their snares." Who will see them?" they say.
+**v6** They devise injustice and say," We have perfected a secret plan." For the inner man and the heart are mysterious.
 
 **v7** But God will shoot them with arrows;suddenly they will be wounded.
 **v8** They will be made to stumble,their own tongues turned against them.All who see will shake their heads.
@@ -25015,7 +25015,7 @@ source: https://berean.bible/
 **v1** Make a joyful noise to God,all the earth!
 **v2** Sing the glory of His name;make His praise glorious.
 **v3** Say to God, "How awesome are Your deeds!So great is Your powerthat Your enemies cower before You.
-**v4** All the earth bows down to You;they sing praise to You;they sing praise to Your name."Selah
+**v4** All the earth bows down to You;they sing praise to You;they sing praise to Your name." Selah
 **v5** Come and see the works of God;how awesome are His deeds toward mankind.
 **v6** He turned the sea into dry land;they passed through the waters on foot;there we rejoiced in Him.
 **v7** He rules forever by His power;His eyes watch the nations.Do not let the rebellious exalt themselves.Selah
@@ -25152,7 +25152,7 @@ source: https://berean.bible/
 **v2** May those who seek my lifebe ashamed and confounded;may those who wish me harmbe repelled and humiliated.
 **v3** May those who say, "Aha, aha!"retreat because of their shame.
 
-**v4** May all who seek Yourejoice and be glad in You;may those who love Your salvation always say,"Let God be magnified!"
+**v4** May all who seek Yourejoice and be glad in You;may those who love Your salvation always say," Let God be magnified!"
 **v5** But I am poor and needy;hurry to me, O God.You are my help and my deliverer;O LORD, do not delay.
 ### Chapter 71
 
@@ -25272,7 +25272,7 @@ source: https://berean.bible/
 **v6** and smashing all the carvings with hatchets and picks.
 **v7** They have burned Your sanctuary to the ground;they have defiled the dwelling place of Your Name.
 
-**v8** They said in their hearts,"We will crush them completely."They burned down every placewhere God met us in the land.
+**v8** They said in their hearts," We will crush them completely." They burned down every placewhere God met us in the land.
 **v9** There are no signs for us to see.There is no longer any prophet.And none of us knows how long this will last.
 **v10** How long, O God, will the enemy taunt You?Will the foe revile Your name forever?
 **v11** Why do You withdraw Your strong right hand?Stretch it out to destroy them! 
@@ -25343,7 +25343,7 @@ source: https://berean.bible/
 
 **v7** "Will the Lord spurn us foreverand never show His favor again?
 **v8** Is His loving devotion gone forever?Has His promise failed for all time?
-**v9** Has God forgotten to be gracious?Has His anger shut off His compassion?"Selah
+**v9** Has God forgotten to be gracious?Has His anger shut off His compassion?" Selah
 **v10** So I said, "I am grievedthat the right hand of the Most High has changed."
 
 **v11** I will remember the works of the LORD;yes, I will remember Your wonders of old.
@@ -25384,7 +25384,7 @@ source: https://berean.bible/
 
 **v17** But they continued to sin against Him,rebelling in the desert against the Most High.
 **v18** They willfully tested Godby demanding the food they craved.
-**v19** They spoke against God, saying,"Can God really prepare a table in the wilderness?
+**v19** They spoke against God, saying," Can God really prepare a table in the wilderness?
 **v20** When He struck the rock, water gushed outand torrents raged.But can He also give breador supply His people with meat?"
 
 **v21** Therefore the LORD heardand was filled with wrath;so a fire was kindled against Jacob,and His anger flared against Israel,
@@ -25468,7 +25468,7 @@ source: https://berean.bible/
 
 **v8** Do not hold past sins against us;let Your compassion come quickly,for we are brought low.
 **v9** Help us, O God of our salvation,for the glory of Your name;deliver us and atone for our sins,for the sake of Your name.
-**v10** Why should the nations ask,"Where is their God?"Before our eyes, make known among the nationsYour vengeance for the bloodshed of Your servants.
+**v10** Why should the nations ask," Where is their God?" Before our eyes, make known among the nationsYour vengeance for the bloodshed of Your servants.
 
 **v11** May the groans of the captives reach You;by the strength of Your arm preserve those condemned to death.
 **v12** Pay back into the laps of our neighborssevenfold the reproach they hurled at You, O Lord.
@@ -25643,8 +25643,8 @@ source: https://berean.bible/
 
 **v5** And it will be said of Zion:"This one and that one were born in her,and the Most High Himself will establish her."
 
-**v6** The LORD will record in the register of the peoples:"This one was born in Zion."Selah
-**v7** Singers and pipers will proclaim,"All my springs of joy are in You."
+**v6** The LORD will record in the register of the peoples:"This one was born in Zion." Selah
+**v7** Singers and pipers will proclaim," All my springs of joy are in You."
 
 ### Chapter 88
 
@@ -25700,7 +25700,7 @@ source: https://berean.bible/
 **v17** For You are the glory of their strength,and by Your favor our horn is exalted.
 **v18** Surely our shield belongs to the LORD,and our king to the Holy One of Israel.
 
-**v19** You once spoke in a vision;to Your godly ones You said,"I have bestowed help on a warrior;I have exalted one chosen from the people.
+**v19** You once spoke in a vision;to Your godly ones You said," I have bestowed help on a warrior;I have exalted one chosen from the people.
 **v20** I have found My servant David;with My sacred oil I have anointed him.
 **v21** My hand will sustain him;surely My arm will strengthen him.
 
@@ -25722,7 +25722,7 @@ source: https://berean.bible/
 **v34** I will not violate My covenantor alter the utterance of My lips.
 **v35** Once and for all I have sworn by My holiness—I will not lie to David—
 **v36** his offspring shall endure forever,and his throne before Me like the sun,
-**v37** like the moon, established forever,a faithful witness in the sky."Selah
+**v37** like the moon, established forever,a faithful witness in the sky." Selah
 **v38** Now, however, You have spurned and rejected him;You are enraged by Your anointed one.
 **v39** You have renounced the covenant with Your servantand sullied his crown in the dust.
 **v40** You have broken down all his walls;You have reduced his strongholds to rubble.
@@ -25849,7 +25849,7 @@ source: https://berean.bible/
 
 **v16** Who will rise up for me against the wicked?Who will stand for me against the workers of iniquity?
 **v17** Unless the LORD had been my helper,I would soon have dwelt in the abode of silence.
-**v18** If I say, "My foot is slipping,"Your loving devotion, O LORD, supports me.
+**v18** If I say, "My foot is slipping," Your loving devotion, O LORD, supports me.
 **v19** When anxiety overwhelms me,Your consolation delights my soul.
 
 **v20** Can a corrupt throne be Your ally—one devising mischief by decree?
@@ -25872,7 +25872,7 @@ source: https://berean.bible/
 **v8** do not harden your heartsas you did at Meribah, in the day at Massah in the wilderness, 
 **v9** where your fathers tested and tried Me,though they had seen My work.
 **v10** For forty years I was angry with that generation,and I said, "They are a people whose hearts go astray, and they have not known My ways."
-**v11** So I swore on oath in My anger,"They shall never enter My rest."
+**v11** So I swore on oath in My anger," They shall never enter My rest."
 
 ### Chapter 96
 
@@ -25889,7 +25889,7 @@ source: https://berean.bible/
 **v8** Ascribe to the LORD the glory due His name;bring an offering and enter His courts.
 **v9** Worship the LORD in the splendor of His holiness;tremble before Him, all the earth.
 
-**v10** Declare among the nations: "The LORD reigns!"The world is firmly established; it cannot be moved;He will judge the peoples with equity.
+**v10** Declare among the nations: "The LORD reigns!" The world is firmly established; it cannot be moved;He will judge the peoples with equity.
 
 **v11** Let the heavens be gladand the earth rejoice;let the sea resound,and all that fills it.
 **v12** Let the fields exult,and all that is in them.Then all the trees of the forestwill sing for joy
@@ -26203,7 +26203,7 @@ source: https://berean.bible/
 
 **v47** Save us, O LORD our God,and gather us from the nations,that we may give thanks to Your holy name,that we may glory in Your praise.
 
-**v48** Blessed be the LORD, the God of Israel,from everlasting to everlasting.Let all the people say, "Amen!"Hallelujah!
+**v48** Blessed be the LORD, the God of Israel,from everlasting to everlasting.Let all the people say, "Amen!" Hallelujah!
 
 ### Chapter 107
 
@@ -26401,7 +26401,7 @@ source: https://berean.bible/
 #### To Your Name Be the Glory
 **v1** Not to us, O LORD, not to us,but to Your name be the glory,because of Your loving devotion,because of Your faithfulness.
 
-**v2** Why should the nations say,"Where is their God?"
+**v2** Why should the nations say," Where is their God?"
 
 **v3** Our God is in heaven;He does as He pleases.
 
@@ -26440,7 +26440,7 @@ source: https://berean.bible/
 
 **v9** I will walk before the LORDin the land of the living.
 **v10** I believed, therefore I said, "I am greatly afflicted."
-**v11** In my alarm I said,"All men are liars!"
+**v11** In my alarm I said," All men are liars!"
 
 **v12** How can I repay the LORDfor all His goodness to me?
 **v13** I will lift the cup of salvationand call on the name of the LORD.
@@ -26463,9 +26463,9 @@ source: https://berean.bible/
 
 #### The LORD Is on My Side
 **v1** Give thanks to the LORD, for He is good;His loving devotion endures forever.
-**v2** Let Israel say,"His loving devotion endures forever."
-**v3** Let the house of Aaron say,"His loving devotion endures forever."
-**v4** Let those who fear the LORD say,"His loving devotion endures forever."
+**v2** Let Israel say," His loving devotion endures forever."
+**v3** Let the house of Aaron say," His loving devotion endures forever."
+**v4** Let those who fear the LORD say," His loving devotion endures forever."
 
 **v5** In my distress I called to the LORD,and He answered and set me free.
 **v6** The LORD is on my side; I will not be afraid.What can man do to me? 
@@ -26731,7 +26731,7 @@ source: https://berean.bible/
 
 #### Pray for the Peace of Jerusalem
 
-**v1** I was glad when they said to me,"Let us go to the house of the LORD."
+**v1** I was glad when they said to me," Let us go to the house of the LORD."
 **v2** Our feet are standing in your gates,O Jerusalem.
 
 **v3** Jerusalem is built upas a city united together,
@@ -26781,7 +26781,7 @@ source: https://berean.bible/
 #### Zion's Captives Restored
 
 **v1** When the LORD restored the captives of Zion, we were like dreamers. 
-**v2** Then our mouths were filled with laughter,our tongues with shouts of joy.Then it was said among the nations,"The LORD has done great things for them."
+**v2** Then our mouths were filled with laughter,our tongues with shouts of joy.Then it was said among the nations," The LORD has done great things for them."
 **v3** The LORD has done great things for us;we are filled with joy.
 
 **v4** Restore our captives, O LORD,like streams in the Negev.
@@ -26821,7 +26821,7 @@ source: https://berean.bible/
 **v5** May all who hate Zionbe turned back in shame.
 **v6** May they be like grass on the rooftops,which withers before it can grow,
 **v7** unable to fill the hands of the reaper,or the arms of the binder of sheaves.
-**v8** May none who pass by say to them,"The blessing of the LORD be on you;we bless you in the name of the LORD."
+**v8** May none who pass by say to them," The blessing of the LORD be on you;we bless you in the name of the LORD."
 ### Chapter 130
 
 #### Out of the Depths
@@ -27020,7 +27020,7 @@ source: https://berean.bible/
 **v3** They sharpen their tongues like snakes;the venom of vipers is on their lips. Selah
 **v4** Guard me, O LORD,from the hands of the wicked.Keep me safe from men of violencewho scheme to make me stumble.
 **v5** The proud hide a snare for me;the cords of their net are spread along the path,and lures are set out for me.Selah
-**v6** I say to the LORD, "You are my God."Hear, O LORD, my cry for help.
+**v6** I say to the LORD, "You are my God." Hear, O LORD, my cry for help.
 **v7** O GOD the Lord, the strength of my salvation,You shield my head in the day of battle.
 **v8** Grant not, O LORD, the desires of the wicked;do not promote their evil plans,lest they be exalted.Selah
 **v9** May the heads of those who surround mebe covered in the trouble their lips have caused.
@@ -27347,7 +27347,7 @@ source: https://berean.bible/
 **v26** for the LORD will be your confidenceand will keep your foot from the snare.
 
 **v27** Do not withhold good from the deserving when it is within your power to act.
-**v28** Do not tell your neighbor,"Come back tomorrow and I will provide"—when you already have the means.
+**v28** Do not tell your neighbor," Come back tomorrow and I will provide"—when you already have the means.
 **v29** Do not devise evil against your neighbor,for he trustfully dwells beside you.
 **v30** Do not accuse a man without cause,when he has done you no harm.
 
@@ -27363,7 +27363,7 @@ source: https://berean.bible/
 **v1** Listen, my sons, to a father's instruction;pay attention and gain understanding.
 **v2** For I give you sound teaching;do not abandon my directive.
 **v3** When I was a son to my father,tender and the only child of my mother,
-**v4** he taught me and said,"Let your heart lay hold of my words;keep my commands and you will live.
+**v4** he taught me and said," Let your heart lay hold of my words;keep my commands and you will live.
 **v5** Get wisdom, get understanding;do not forget my words or turn from them.
 **v6** Do not forsake wisdom, and she will preserve you;love her, and she will guard you.
 **v7** Wisdom is supreme; so acquire wisdom.And whatever you may acquire, gain understanding.
@@ -28246,7 +28246,7 @@ source: https://berean.bible/
 
 **v21** An inheritance gained quicklywill not be blessed in the end.
 
-**v22** Do not say, "I will avenge this evil!"Wait on the LORD, and He will save you.
+**v22** Do not say, "I will avenge this evil!" Wait on the LORD, and He will save you.
 
 **v23** Unequal weights are detestable to the LORD,and dishonest scales are no good.
 
@@ -28896,7 +28896,7 @@ source: https://berean.bible/
 
 **v8** All things are wearisome,more than one can describe;the eye is not satisfied with seeing,nor the ear content with hearing.
 **v9** What has been will be again,and what has been done will be done again;there is nothing new under the sun.
-**v10** Is there a case where one can say,"Look, this is new"?It has already existedin the ages before us.
+**v10** Is there a case where one can say," Look, this is new"?It has already existedin the ages before us.
 **v11** There is no remembranceof those who came before,and those yet to come will not be rememberedby those who follow after.
 #### With Wisdom Comes Sorrow
 
@@ -28916,7 +28916,7 @@ source: https://berean.bible/
 ### Chapter 2
 
 #### The Futility of Pleasure
-**v1** I said to myself, "Come now, I will test you with pleasure; enjoy what is good!"But it proved to be futile.
+**v1** I said to myself, "Come now, I will test you with pleasure; enjoy what is good!" But it proved to be futile.
 
 **v2** I said of laughter, "It is folly," and of pleasure, "What does it accomplish?"
 
@@ -28939,7 +28939,7 @@ source: https://berean.bible/
 **v13** And I saw that wisdom exceeds folly, just as light exceeds darkness:
 
 **v14** The wise man has eyes in his head,but the fool walks in darkness.Yet I also came to realize that one fate overcomes them both.
-**v15** So I said to myself, "The fate of the fool will also befall me. What then have I gained by being wise?"And I said to myself that this too is futile.
+**v15** So I said to myself, "The fate of the fool will also befall me. What then have I gained by being wise?" And I said to myself that this too is futile.
 
 **v16** For there is no lasting remembrance of the wise, just as with the fool, seeing that both will be forgotten in the days to come. Alas, the wise man will die just like the fool!
 **v17** So I hated life, because the work that is done under the sun was grievous to me. For everything is futile and a pursuit of the wind.
@@ -29086,7 +29086,7 @@ source: https://berean.bible/
 **v8** The end of a matter is better than the beginning,and a patient spirit is better than a proud one.
 
 **v9** Do not be quickly provoked in your spirit,for anger settles in the lap of a fool. 
-**v10** Do not say, "Why were the old days better than these?"For it is unwise of you to ask about this.
+**v10** Do not say, "Why were the old days better than these?" For it is unwise of you to ask about this.
 
 **v11** Wisdom, like an inheritance, is good,and it benefits those who see the sun.
 **v12** For wisdom, like money, is a shelter,and the advantage of knowledgeis that wisdom preserves the life of its owner.
@@ -29234,7 +29234,7 @@ source: https://berean.bible/
 ### Chapter 12
 
 #### Remember Your Creator
-**v1** Remember your Creator in the days of your youth,before the days of adversity comeand the years approach of which you will say,"I find no pleasure in them,"
+**v1** Remember your Creator in the days of your youth,before the days of adversity comeand the years approach of which you will say," I find no pleasure in them,"
 **v2** before the light of the sun, moon, and stars is darkened,and the clouds return after the rain,
 **v3** on the day the keepers of the house trembleand the strong men stoop,when those grinding cease because they are fewand those watching through windows see dimly,
 **v4** when the doors to the street are shutand the sound of the mill fades away,when one rises at the sound of a birdand all the daughters of song grow faint,
@@ -29243,7 +29243,7 @@ source: https://berean.bible/
 **v6** Remember Him before the silver cord is snappedand the golden bowl is crushed,before the pitcher is shattered at the springand the wheel is broken at the well,
 **v7** before the dust returns to the ground from which it cameand the spirit returns to God who gave it.
 
-**v8** "Futility of futilities," says the Teacher."Everything is futile!"
+**v8** "Futility of futilities," says the Teacher." Everything is futile!"
 #### The Whole Duty of Man
 
 **v9** Not only was the Teacher wise, but he also taught the people knowledge; he pondered, searched out, and arranged many proverbs.
@@ -29319,7 +29319,7 @@ source: https://berean.bible/
 **v8** Listen! My beloved approaches.Look! Here he comes,leaping across the mountains,bounding over the hills.
 **v9** My beloved is like a gazelle or a young stag.Look, he stands behind our wall,gazing through the windows,peering through the lattice.
 
-**v10** My beloved calls to me,"Arise, my darling.Come away with me, my beautiful one.
+**v10** My beloved calls to me," Arise, my darling.Come away with me, my beautiful one.
 **v11** For now the winter is past;the rain is over and gone.
 **v12** The flowers have appeared in the countryside;the season of singing has come,and the cooing of turtledovesis heard in our land.
 **v13** The fig tree ripens its figs;the blossoming vines spread their fragrance.Arise, come away, my darling;come away with me, my beautiful one."
@@ -29453,7 +29453,7 @@ source: https://berean.bible/
 
 **v6** How fair and pleasant you are,O love, with your delights!
 **v7** Your stature is like a palm tree;your breasts are clusters of fruit.
-**v8** I said, "I will climb the palm tree;I will take hold of its fruit."May your breasts be like clusters of the vine,the fragrance of your breath like apples,
+**v8** I said, "I will climb the palm tree;I will take hold of its fruit." May your breasts be like clusters of the vine,the fragrance of your breath like apples,
 **v9** and your mouth like the finest wine.The BrideMay it flow smoothly to my beloved,gliding gently over lips and teeth. 
 
 **v10** I belong to my beloved,and his desire is for me.
@@ -29516,7 +29516,7 @@ source: https://berean.bible/
 
 **v10** Hear the word of the LORD,you rulers of Sodom;listen to the instruction of our God,you people of Gomorrah!
 
-**v11** "What good to Me is your multitude of sacrifices?"says the LORD."I am full from the burnt offerings of ramsand the fat of well-fed cattle;I take no delight in the blood of bullsand lambs and goats.
+**v11** "What good to Me is your multitude of sacrifices?"says the LORD." I am full from the burnt offerings of ramsand the fat of well-fed cattle;I take no delight in the blood of bullsand lambs and goats.
 **v12** When you come to appear before Me,who has required this of you—this trampling of My courts?
 
 **v13** Bring your worthless offerings no more;your incense is detestable to Me.New Moons, Sabbaths, and convocations—I cannot endure iniquity in a solemn assembly.
@@ -29527,9 +29527,9 @@ source: https://berean.bible/
 **v16** Wash and cleanse yourselves.Remove your evil deeds from My sight.Stop doing evil!
 **v17** Learn to do right;seek justice and correct the oppressor. Defend the fatherlessand plead the case of the widow."
 
-**v18** "Come now, let us reason together,"says the LORD."Though your sins are like scarlet,they will be as white as snow;though they are as red as crimson,they will become like wool.
+**v18** "Come now, let us reason together,"says the LORD." Though your sins are like scarlet,they will be as white as snow;though they are as red as crimson,they will become like wool.
 **v19** If you are willing and obedient,you will eat the best of the land.
-**v20** But if you resist and rebel,you will be devoured by the sword."For the mouth of the LORD has spoken.
+**v20** But if you resist and rebel,you will be devoured by the sword." For the mouth of the LORD has spoken.
 #### The Corruption of Zion
 
 **v21** See how the faithful city has become a harlot!She once was full of justice;righteousness resided within her,but now only murderers!
@@ -29554,7 +29554,7 @@ source: https://berean.bible/
 
 **v2** In the last days the mountain of the house of the LORDwill be established as the chief of the mountains;it will be raised above the hills,and all nations will stream to it.
 
-**v3** And many peoples will come and say:"Come, let us go up to the mountain of the LORD,to the house of the God of Jacob.He will teach us His waysso that we may walk in His paths."For the law will go forth from Zion,and the word of the LORD from Jerusalem.
+**v3** And many peoples will come and say:"Come, let us go up to the mountain of the LORD,to the house of the God of Jacob.He will teach us His waysso that we may walk in His paths." For the law will go forth from Zion,and the word of the LORD from Jerusalem.
 **v4** Then He will judge between the nationsand arbitrate for many peoples.They will beat their swords into plowsharesand their spears into pruning hooks.Nation will no longer take up the sword against nation,nor train anymore for war.
 #### The Day of Reckoning
 
@@ -29628,7 +29628,7 @@ source: https://berean.bible/
 ### Chapter 4
 
 #### A Remnant in Zion
-**v1** In that day seven womenwill take hold of one man and say,"We will eat our own breadand provide our own clothes.Just let us be called by your name.Take away our disgrace!"
+**v1** In that day seven womenwill take hold of one man and say," We will eat our own breadand provide our own clothes.Just let us be called by your name.Take away our disgrace!"
 
 **v2** On that day the Branch of the LORDwill be beautiful and glorious,and the fruit of the landwill be the pride and glory of Israel's survivors.
 **v3** Whoever remains in Zionand whoever is left in Jerusalemwill be called holy—all in Jerusalem who are recorded among the living—
@@ -29699,12 +29699,12 @@ source: https://berean.bible/
 **v6** Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken with tongs from the altar.
 **v7** And with it he touched my mouth and said:"Now that this has touched your lips,your iniquity is removedand your sin is atoned for."
 
-**v8** Then I heard the voice of the Lord saying:"Whom shall I send?Who will go for Us?"And I said:"Here am I. Send me!"
+**v8** Then I heard the voice of the Lord saying:"Whom shall I send?Who will go for Us?" And I said:"Here am I. Send me!"
 
 **v9** And He replied:"Go and tell this people,'Be ever hearing, but never understanding;be ever seeing, but never perceiving.'
 **v10** Make the hearts of this people calloused;deafen their ears and close their eyes.Otherwise they might see with their eyes,hear with their ears,understand with their hearts,and turn and be healed. "
 
-**v11** Then I asked:"How long, O Lord?"And He replied:"Until the cities lie ruinedand without inhabitant,until the houses are left unoccupiedand the land is desolate and ravaged,
+**v11** Then I asked:"How long, O Lord?" And He replied:"Until the cities lie ruinedand without inhabitant,until the houses are left unoccupiedand the land is desolate and ravaged,
 **v12** until the LORD has driven men far awayand the land is utterly forsaken.
 **v13** And though a tenth remains in the land,it will be burned again.As the terebinth and oak leave stumps when felled,so the holy seed will be a stump in the land."
 
@@ -29867,7 +29867,7 @@ source: https://berean.bible/
 **v27** On that day the burden will be lifted from your shoulders,and the yoke from your neck.The yoke will be brokenbecause your neck will be too large. 
 
 **v28** Assyria has entered Aiathand passed through Migron,storing their supplies at Michmash.
-**v29** They have crossed at the ford:"We will spend the night at Geba."Ramah trembles;Gibeah of Saul flees.
+**v29** They have crossed at the ford:"We will spend the night at Geba." Ramah trembles;Gibeah of Saul flees.
 **v30** Cry aloud, O Daughter of Gallim!Listen, O Laishah!O wretched Anathoth!
 **v31** Madmenah flees;the people of Gebim take refuge.
 **v32** Yet today they will halt at Nob,shaking a fist at the mount of Daughter Zion,at the hill of Jerusalem.
@@ -29956,7 +29956,7 @@ source: https://berean.bible/
 **v8** Even the cypresses and cedars of Lebanonexult over you:"Since you have been laid low,no woodcutter comes against us."
 
 **v9** Sheol beneath is eagerto meet you upon your arrival.It stirs the spirits of the dead to greet you—all the rulers of the earth.It makes all the kings of the nationsrise from their thrones.
-**v10** They will all respond to you, saying,"You too have become weak, as we are;you have become like us!"
+**v10** They will all respond to you, saying," You too have become weak, as we are;you have become like us!"
 **v11** Your pomp has been brought down to Sheol,along with the music of your harps.Maggots are your bedand worms your blanket.
 
 **v12** How you have fallen from heaven,O day star, son of the dawn!You have been cut down to the ground,O destroyer of nations.
@@ -29972,7 +29972,7 @@ source: https://berean.bible/
 **v20** You will not join them in burial,since you have destroyed your landand slaughtered your own people.The offspring of the wickedwill never again be mentioned.
 
 **v21** Prepare a place to slaughter his sonsfor the iniquities of their forefathers.They will never rise up to possess a landor cover the earth with their cities.
-**v22** "I will rise up against them,"declares the LORD of Hosts."I will cut off from Babylonher name and her remnant,her offspring and her posterity,"declares the LORD.
+**v22** "I will rise up against them,"declares the LORD of Hosts." I will cut off from Babylonher name and her remnant,her offspring and her posterity,"declares the LORD.
 **v23** "I will make her a placefor owls and for swamplands;I will sweep her awaywith the broom of destruction,"declares the LORD of Hosts.
 #### God's Purpose against Assyria
 
@@ -29989,7 +29989,7 @@ source: https://berean.bible/
 **v30** Then the firstborn of the poor will find pasture,and the needy will lie down in safety,but I will kill your root by famine,and your remnant will be slain.
 
 **v31** Wail, O gate! Cry out, O city!Melt away, all you Philistines!For a cloud of smoke comes from the north,and there are no stragglers in its ranks.
-**v32** What answer will be givento the envoys of that nation?"The LORD has founded Zion,where His afflicted people will find refuge."
+**v32** What answer will be givento the envoys of that nation?" The LORD has founded Zion,where His afflicted people will find refuge."
 
 ### Chapter 15
 
@@ -30012,7 +30012,7 @@ source: https://berean.bible/
 **v1** Send the tribute lambsto the ruler of the land,from Sela in the desertto the mount of Daughter Zion.
 **v2** Like fluttering birdspushed out of the nest,so are the daughters of Moabat the fords of the Arnon:
 **v3** "Give us counsel;render a decision.Shelter us at noondaywith shade as dark as night.Hide the refugees;do not betray the one who flees.
-**v4** Let my fugitives stay with you;be a refuge for Moab from the destroyer."When the oppressor has gone, destruction has ceased,and the oppressors have vanished from the land,
+**v4** Let my fugitives stay with you;be a refuge for Moab from the destroyer." When the oppressor has gone, destruction has ceased,and the oppressors have vanished from the land,
 **v5** in loving devotion a throne will be establishedin the tent of David.A judge seeking justice and hastening righteousnesswill sit on it in faithfulness.
 
 **v6** We have heard of Moab's pomposity,his exceeding pride and conceit,his overflowing arrogance.But his boasting is empty.
@@ -30078,7 +30078,7 @@ source: https://berean.bible/
 **v9** The workers in flax will be dismayed,and the weavers of fine linen will turn pale.
 **v10** The workers in cloth will be dejected,and all the hired workers will be sick at heart.
 
-**v11** The princes of Zoan are mere fools;Pharaoh's wise counselors give senseless advice.How can you say to Pharaoh,"I am one of the wise,a son of eastern kings"?
+**v11** The princes of Zoan are mere fools;Pharaoh's wise counselors give senseless advice.How can you say to Pharaoh," I am one of the wise,a son of eastern kings"?
 **v12** Where are your wise men now?Let them tell you and revealwhat the LORD of Hosts has planned against Egypt.
 
 **v13** The princes of Zoan have become fools;the princes of Memphis are deceived.The cornerstones of her tribeshave led Egypt astray.
@@ -30106,7 +30106,7 @@ source: https://berean.bible/
 
 #### A Sign against Egypt and Cush
 **v1** Before the year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it,
-**v2** the LORD had already spoken through Isaiah son of Amoz, saying, "Go, remove the sackcloth from your waist and the sandals from your feet."And Isaiah did so, walking around naked and barefoot.
+**v2** the LORD had already spoken through Isaiah son of Amoz, saying, "Go, remove the sackcloth from your waist and the sandals from your feet." And Isaiah did so, walking around naked and barefoot.
 
 **v3** Then the LORD said, "Just as My servant Isaiah has gone naked and barefoot for three years as a sign and omen against Egypt and Cush, 
 **v4** so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, young and old alike, naked and barefoot, with bared buttocks—to Egypt's shame.
@@ -30127,14 +30127,14 @@ source: https://berean.bible/
 **v7** When he sees chariots with teams of horsemen,riders on donkeys, riders on camels,he must be alert, fully alert."
 
 **v8** Then the lookout shouted:"Day after day, my lord,I stand on the watchtower;night after nightI stay at my post.
-**v9** Look, here come the riders,horsemen in pairs."And one answered, saying:"Fallen, fallen is Babylon! All the images of her godslie shattered on the ground!"
+**v9** Look, here come the riders,horsemen in pairs." And one answered, saying:"Fallen, fallen is Babylon! All the images of her godslie shattered on the ground!"
 
 **v10** O my people, crushed on the threshing floor,I tell you what I have heardfrom the LORD of Hosts,the God of Israel.
 #### The Burden against Edom
 
 **v11** This is the burden against Dumah: One calls to me from Seir, "Watchman, what is left of the night?Watchman, what is left of the night?"
 
-**v12** The watchman replies,"Morning has come, but also the night.If you would inquire, then inquire.Come back yet again."
+**v12** The watchman replies," Morning has come, but also the night.If you would inquire, then inquire.Come back yet again."
 #### The Burden against Arabia
 
 **v13** This is the burden against Arabia:In the thickets of Arabia you must lodge,O caravans of Dedanites.
@@ -30142,7 +30142,7 @@ source: https://berean.bible/
 **v15** For they flee from the sword—the sword that is drawn—from the bow that is bent,and from the stress of battle.
 
 **v16** For this is what the Lord says to me: "Within one year, as a hired worker would count it, all the glory of Kedar will be gone.
-**v17** The remaining archers, the warriors of Kedar, will be few."For the LORD, the God of Israel, has spoken.
+**v17** The remaining archers, the warriors of Kedar, will be few." For the LORD, the God of Israel, has spoken.
 
 ### Chapter 22
 
@@ -30150,7 +30150,7 @@ source: https://berean.bible/
 **v1** This is the burden against the Valley of Vision:What ails you now,that you have all gone up to the rooftops,
 **v2** O city of commotion,O town of revelry?Your slain did not die by the sword,nor were they killed in battle.
 **v3** All your rulers have fled together,captured without a bow.All your fugitives were captured together,having fled to a distant place.
-**v4** Therefore I said,"Turn away from me, let me weep bitterly!Do not try to console meover the destruction of the daughter of my people."
+**v4** Therefore I said," Turn away from me, let me weep bitterly!Do not try to console meover the destruction of the daughter of my people."
 
 **v5** For the Lord GOD of Hosts has set a dayof tumult and trampling and confusion in the Valley of Vision—of breaking down the wallsand crying to the mountains.
 **v6** Elam takes up a quiver, with chariots and horsemen,and Kir uncovers the shield.
@@ -30180,7 +30180,7 @@ source: https://berean.bible/
 
 **v24** So they will hang on him all the glory of his father's house: the descendants and the offshoots—all the lesser vessels, from bowls to every kind of jar.
 
-**v25** In that day, declares the LORD of Hosts, the peg driven into a firm place will give way; it will be sheared off and fall, and the load upon it will be cut down."Indeed, the LORD has spoken.
+**v25** In that day, declares the LORD of Hosts, the peg driven into a firm place will give way; it will be sheared off and fall, and the load upon it will be cut down." Indeed, the LORD has spoken.
 
 ### Chapter 23
 
@@ -30232,7 +30232,7 @@ source: https://berean.bible/
 
 **v14** They raise their voices, they shout for joy;from the west they proclaim the majesty of the LORD.
 **v15** Therefore glorify the LORD in the east.Extol the name of the LORD, the God of Israelin the islands of the sea.
-**v16** From the ends of the earth we hear singing:"Glory to the Righteous One."But I said, "I am wasting away! I am wasting away!Woe is me."The treacherous betray;the treacherous deal in treachery.
+**v16** From the ends of the earth we hear singing:"Glory to the Righteous One." But I said, "I am wasting away! I am wasting away!Woe is me." The treacherous betray;the treacherous deal in treachery.
 **v17** Terror and pit and snare await you,O dweller of the earth.
 **v18** Whoever flees the sound of panicwill fall into the pit,and whoever climbs from the pitwill be caught in the snare.For the windows of heaven are open,and the foundations of the earth are shaken.
 **v19** The earth is utterly broken apart,the earth is split open,the earth is shaken violently.
@@ -30330,7 +30330,7 @@ source: https://berean.bible/
 **v9** Whom is He trying to teach?To whom is He explaining His message?To infants just weaned from milk?To babies removed from the breast?
 **v10** For they hear: "Order on order, order on order,line on line, line on line; a little here, a little there."
 **v11** Indeed, with mocking lips and foreign tongues,He will speak to this people 
-**v12** to whom He has said:"This is the place of rest, let the weary rest;this is the place of repose."But they would not listen.
+**v12** to whom He has said:"This is the place of rest, let the weary rest;this is the place of repose." But they would not listen.
 
 **v13** Then the word of the LORD to them will become:"Order on order, order on order,line on line, line on line;a little here, a little there,"so that they will go stumbling backwardand will be injured, ensnared, and captured.
 #### A Cornerstone in Zion
@@ -30341,7 +30341,7 @@ source: https://berean.bible/
 **v16** So this is what the Lord GOD says:"See, I lay a stone in Zion,a tested stone,a precious cornerstone, a sure foundation;the one who believes will never be shaken. 
 **v17** I will make justice the measuring lineand righteousness the level.Hail will sweep away your refuge of lies,and water will flood your hiding place.
 **v18** Your covenant with death will be dissolved,and your agreement with Sheol will not stand.When the overwhelming scourge passes through,you will be trampled by it.
-**v19** As often as it passes through,it will carry you away;it will sweep through morning after morning,by day and by night."The understanding of this messagewill bring sheer terror.
+**v19** As often as it passes through,it will carry you away;it will sweep through morning after morning,by day and by night." The understanding of this messagewill bring sheer terror.
 **v20** Indeed, the bed is too short to stretch out on,and the blanket too small to wrap around you.
 **v21** For the LORD will rise up as at Mount Perazim.He will rouse Himself as in the Valley of Gibeon,to do His work, His strange work,and to perform His task, His disturbing task.
 
@@ -30379,8 +30379,8 @@ source: https://berean.bible/
 **v13** Therefore the Lord said:"These people draw near to Me with their mouthsand honor Me with their lips,but their hearts are far from Me.Their worship of Me is but rules taught by men. 
 **v14** Therefore I will again confound these peoplewith wonder upon wonder.The wisdom of the wise will vanish,and the intelligence of the intelligent will be hidden. "
 
-**v15** Woe to those who dig deepto hide their plans from the LORD.In darkness they do their works and say,"Who sees us, and who will know?"
-**v16** You have turned things upside down,as if the potter were regarded as clay.Shall what is formed say to him who formed it,"He did not make me"? Can the pottery say of the potter,"He has no understanding"?
+**v15** Woe to those who dig deepto hide their plans from the LORD.In darkness they do their works and say," Who sees us, and who will know?"
+**v16** You have turned things upside down,as if the potter were regarded as clay.Shall what is formed say to him who formed it," He did not make me"? Can the pottery say of the potter," He has no understanding"?
 #### Sanctification for the Godly
 
 **v17** In a very short time,will not Lebanon become an orchard,and the orchard seem like a forest?
@@ -30409,7 +30409,7 @@ source: https://berean.bible/
 
 **v8** Go now, write it on a tablet in their presenceand inscribe it on a scroll;it will be for the days to come,a witness forever and ever.
 **v9** These are rebellious people, deceitful children,children unwilling to obey the LORD's instruction.
-**v10** They say to the seers,"Stop seeing visions!"and to the prophets,"Do not prophesy to us the truth!Speak to us pleasant words;prophesy illusions.
+**v10** They say to the seers," Stop seeing visions!"and to the prophets," Do not prophesy to us the truth!Speak to us pleasant words;prophesy illusions.
 **v11** Get out of the way; turn off the road.Rid us of the Holy One of Israel!"
 
 **v12** Therefore this is what the Holy One of Israel says:"Because you have rejected this message,trusting in oppression and relying on deceit,
@@ -30418,7 +30418,7 @@ source: https://berean.bible/
 
 **v15** For the Lord GOD, the Holy One of Israel, has said:"By repentance and restyou would be saved;your strength would lie in quiet confidence—but you were not willing."
 
-**v16** "No," you say, "we will flee on horses."Therefore you will flee!"We will ride swift horses,"but your pursuers will be faster.
+**v16** "No," you say, "we will flee on horses." Therefore you will flee!" We will ride swift horses,"but your pursuers will be faster.
 **v17** A thousand will flee at the threat of one;at the threat of five you will all flee,until you are left alone like a pole on a mountaintop,like a banner on a hill.
 #### God Will Be Gracious
 
@@ -30508,7 +30508,7 @@ source: https://berean.bible/
 **v8** The highways are deserted;travel has ceased.The treaty has been broken,the witnesses are despised,and human life is disregarded.
 **v9** The land mourns and languishes;Lebanon is ashamed and decayed.Sharon is like a desert;Bashan and Carmel shake off their leaves.
 
-**v10** "Now I will arise," says the LORD."Now I will lift Myself up. Now I will be exalted.
+**v10** "Now I will arise," says the LORD." Now I will lift Myself up. Now I will be exalted.
 **v11** You conceive chaff; you give birth to stubble.Your breath is a fire that will consume you.
 **v12** The peoples will be burned to ashes,like thorns cut down and set ablaze.
 **v13** You who are far off, hear what I have done;you who are near, acknowledge My might."
@@ -30527,7 +30527,7 @@ source: https://berean.bible/
 **v22** For the LORD is our Judge,the LORD is our lawgiver,the LORD is our King.It is He who will save us.
 
 **v23** Your ropes are slack;they cannot secure the mast or spread the sail.Then an abundance of spoils will be divided,and even the lame will carry off plunder.
-**v24** And no resident of Zion will say, "I am sick."The people who dwell therewill be forgiven of iniquity.
+**v24** And no resident of Zion will say, "I am sick." The people who dwell therewill be forgiven of iniquity.
 
 ### Chapter 34
 
@@ -30623,7 +30623,7 @@ source: https://berean.bible/
 
 **v8** When the Rabshakeh heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.
 
-**v9** Now Sennacherib had been warned about Tirhakah king of Cush: "He has set out to fight against you."On hearing this, Sennacherib sent messengers to Hezekiah, saying,
+**v9** Now Sennacherib had been warned about Tirhakah king of Cush: "He has set out to fight against you." On hearing this, Sennacherib sent messengers to Hezekiah, saying,
 **v10** "Give this message to Hezekiah king of Judah:'Do not let your God, in whom you trust, deceive you by saying that Jerusalem will not be delivered into the hand of the king of Assyria.
 **v11** Surely you have heard what the kings of Assyria have done to all the other countries, devoting them to destruction. Will you then be spared?
 **v12** Did the gods of the nations destroyed by my fathers rescue those nations—the gods of Gozan, Haran, and Rezeph, and of the people of Eden in Telassar?
@@ -30711,7 +30711,7 @@ source: https://berean.bible/
 
 **v3** Then the prophet Isaiah went to King Hezekiah and asked, "Where did those men come from, and what did they say to you?""They came to me from a distant land," Hezekiah replied, "from Babylon."
 
-**v4** "What have they seen in your palace?" Isaiah asked."They have seen everything in my palace," answered Hezekiah. "There is nothing among my treasures that I did not show them."
+**v4** "What have they seen in your palace?" Isaiah asked." They have seen everything in my palace," answered Hezekiah. "There is nothing among my treasures that I did not show them."
 
 **v5** Then Isaiah said to Hezekiah, "Hear the word of the LORD of Hosts:
 **v6** The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD.
@@ -30729,12 +30729,12 @@ source: https://berean.bible/
 **v5** And the glory of the LORD will be revealed,and all humanity together will see it." For the mouth of the LORD has spoken.
 #### The Enduring Word
 
-**v6** A voice says, "Cry out!"And I asked, "What should I cry out?""All flesh is like grass,and all its glory like the flowers of the field.
+**v6** A voice says, "Cry out!" And I asked, "What should I cry out?""All flesh is like grass,and all its glory like the flowers of the field.
 **v7** The grass withers and the flowers fallwhen the breath of the LORD blows on them;indeed, the people are grass.
 **v8** The grass withers and the flowers fall,but the word of our God stands forever."
 #### Here Is Your God!
 
-**v9** Go up on a high mountain,O Zion, herald of good news.Raise your voice loudly,O Jerusalem, herald of good news.Lift it up, do not be afraid!Say to the cities of Judah,"Here is your God!"
+**v9** Go up on a high mountain,O Zion, herald of good news.Raise your voice loudly,O Jerusalem, herald of good news.Lift it up, do not be afraid!Say to the cities of Judah," Here is your God!"
 **v10** Behold, the Lord GOD comes with might,and His arm establishes His rule.His reward is with Him,and His recompense accompanies Him.
 **v11** He tends His flock like a shepherd;He gathers the lambs in His armsand carries them close to His heart.He gently leads the nursing ewes.
 
@@ -30758,7 +30758,7 @@ source: https://berean.bible/
 **v25** "To whom will you liken Me,or who is My equal?" asks the Holy One.
 **v26** Lift up your eyes on high:Who created all these?He leads forth the starry host by number;He calls each one by name.Because of His great power and mighty strength,not one of them is missing.
 
-**v27** Why do you say, O Jacob,and why do you assert, O Israel,"My way is hidden from the LORD,and my claim is ignored by my God"?
+**v27** Why do you say, O Jacob,and why do you assert, O Israel," My way is hidden from the LORD,and my claim is ignored by my God"?
 **v28** Do you not know?Have you not heard?The LORD is the everlasting God,the Creator of the ends of the earth.He will not grow tired or weary;His understanding is beyond searching out.
 **v29** He gives power to the faintand increases the strength of the weak.
 **v30** Even youths grow tired and weary,and young men stumble and fall.
@@ -30774,7 +30774,7 @@ source: https://berean.bible/
 
 **v5** The islands see and fear;the ends of the earth tremble.They approach and come forward.
 **v6** Each one helps the otherand says to his brother, "Be strong!"
-**v7** The craftsman encourages the goldsmith,and he who wields the hammercheers him who strikes the anvil,saying of the welding, "It is good."He nails it down so it will not be toppled.
+**v7** The craftsman encourages the goldsmith,and he who wields the hammercheers him who strikes the anvil,saying of the welding, "It is good." He nails it down so it will not be toppled.
 
 **v8** "But you, O Israel, My servant,Jacob, whom I have chosen,descendant of Abraham My friend—
 **v9** I brought you from the ends of the earthand called you from its farthest corners.I said, 'You are My servant.'I have chosen and not rejected you.
@@ -30783,7 +30783,7 @@ source: https://berean.bible/
 **v11** Behold, all who rage against youwill be ashamed and disgraced;those who contend with youwill be reduced to nothing and will perish.
 **v12** You will seek them but will not find them.Those who wage war against you will come to nothing.
 **v13** For I am the LORD your God,who takes hold of your right handand tells you: Do not fear,I will help you.
-**v14** Do not fear, O Jacob, you worm,O few men of Israel.I will help you," declares the LORD."Your Redeemer is the Holy One of Israel.
+**v14** Do not fear, O Jacob, you worm,O few men of Israel.I will help you," declares the LORD." Your Redeemer is the Holy One of Israel.
 **v15** Behold, I will make you into a threshing sledge,new and sharp, with many teeth.You will thresh the mountains and crush them,and reduce the hills to chaff.
 **v16** You will winnow them, and a wind will carry them away;a gale will scatter them.But you will rejoice in the LORD;you will glory in the Holy One of Israel.
 
@@ -30793,7 +30793,7 @@ source: https://berean.bible/
 **v20** so that all may see and know,may consider and understand,that the hand of the LORD has done thisand the Holy One of Israel has created it."
 #### Meaningless Idols
 
-**v21** "Present your case," says the LORD."Submit your arguments," says the King of Jacob.
+**v21** "Present your case," says the LORD." Submit your arguments," says the King of Jacob.
 **v22** "Let them come and tell us what will happen.Tell the former things,so that we may reflect on them and know the outcome.Or announce to us what is coming.
 **v23** Tell us the things that are to come,so that we may know that you are gods.Yes, do something good or evil,that we may look on together in dismay.
 **v24** Behold, you are nothingand your work is of no value.Anyone who chooses you is detestable.
@@ -30908,12 +30908,12 @@ source: https://berean.bible/
 **v13** The woodworker extends a measuring line;he marks it out with a stylus;he shapes it with chiselsand outlines it with a compass.He fashions it in the likeness of man,like man in all his glory,that it may dwell in a shrine.
 **v14** He cuts down cedarsor retrieves a cypress or oak.He lets it grow strong among the trees of the forest.He plants a laurel, and the rain makes it grow.
 **v15** It serves as fuel for man.He takes some of it to warm himself,and he kindles a fireand bakes his bread.He also fashions it into a god and worships it;he makes an idol and bows down to it.
-**v16** He burns half of it in the fire,and he roasts meat on that half.He eats the roast and is satisfied.Indeed, he warms himself and says,"Ah! I am warm; I see the fire."
-**v17** From the rest he makes a god, his graven image.He bows down to it and worships;he prays to it and says,"Save me, for you are my god."
+**v16** He burns half of it in the fire,and he roasts meat on that half.He eats the roast and is satisfied.Indeed, he warms himself and says," Ah! I am warm; I see the fire."
+**v17** From the rest he makes a god, his graven image.He bows down to it and worships;he prays to it and says," Save me, for you are my god."
 
 **v18** They do not comprehend or discern,for He has shut their eyes so they cannot seeand closed their minds so they cannot understand.
-**v19** And no one considers in his heart,no one has the knowledge or insight to say,"I burned half of it in the fire,and I baked bread on its coals;I roasted meat and I ate.Shall I make something detestable with the rest of it?Shall I bow down to a block of wood?"
-**v20** He feeds on ashes.His deluded heart has led him astray,and he cannot deliver himself or say,"Is not this thing in my right hand a lie?"
+**v19** And no one considers in his heart,no one has the knowledge or insight to say," I burned half of it in the fire,and I baked bread on its coals;I roasted meat and I ate.Shall I make something detestable with the rest of it?Shall I bow down to a block of wood?"
+**v20** He feeds on ashes.His deluded heart has led him astray,and he cannot deliver himself or say," Is not this thing in my right hand a lie?"
 #### Jerusalem to Be Restored
 
 **v21** Remember these things, O Jacob,for you are My servant, O Israel.I have made you, and you are My servant;O Israel, I will never forget you.
@@ -31031,13 +31031,13 @@ source: https://berean.bible/
 **v14** Come together, all of you, and listen:Which of the idols has foretold these things?The LORD's chosen ally will carry out His desire against Babylon,and His arm will be against the Chaldeans. 
 **v15** I, even I, have spoken;yes, I have called him.I have brought him,and he will succeed in his mission.
 
-**v16** Come near to Me and listen to this:From the beginning I have not spoken in secret;from the time it happened, I was there."And now the Lord GOD has sent me,accompanied by His Spirit.
+**v16** Come near to Me and listen to this:From the beginning I have not spoken in secret;from the time it happened, I was there." And now the Lord GOD has sent me,accompanied by His Spirit.
 
 **v17** Thus says the LORD your Redeemer,the Holy One of Israel:"I am the LORD your God,who teaches you for your benefit,who directs you in the way you should go.
 **v18** If only you had paid attention to My commandments,your peace would have been like a river,and your righteousness like waves of the sea.
 **v19** Your descendants would have been as countless as the sand,and your offspring as numerous as its grains; their name would never be cut offor eliminated from My presence."
 
-**v20** Leave Babylon!Flee from the Chaldeans!Declare it with a shout of joy,proclaim it,let it go out to the ends of the earth, saying,"The LORD has redeemed His servant Jacob!"
+**v20** Leave Babylon!Flee from the Chaldeans!Declare it with a shout of joy,proclaim it,let it go out to the ends of the earth, saying," The LORD has redeemed His servant Jacob!"
 **v21** They did not thirst when He led them through the deserts;He made water flow for them from the rock;He split the rock, and water gushed out.
 
 **v22** "There is no peace," says the LORD,"for the wicked."
@@ -31234,7 +31234,7 @@ source: https://berean.bible/
 **v1** This is what the LORD says:"Maintain justice and do what is right,for My salvation is coming soon,and My righteousness will be revealed.
 **v2** Blessed is the man who does this,and the son of man who holds it fast,who keeps the Sabbath without profaning itand keeps his hand from doing any evil."
 
-**v3** Let no foreigner who has joined himself to the LORD say,"The LORD will utterly exclude me from His people."And let the eunuch not say,"I am but a dry tree."
+**v3** Let no foreigner who has joined himself to the LORD say," The LORD will utterly exclude me from His people." And let the eunuch not say," I am but a dry tree."
 
 **v4** For this is what the LORD says:"To the eunuchs who keep My Sabbaths,who choose what pleases Meand hold fast to My covenant—
 **v5** I will give them, in My house and within My walls,a memorial and a namebetter than that of sons and daughters.I will give them an everlasting namethat will not be cut off.
@@ -31266,13 +31266,13 @@ source: https://berean.bible/
 **v7** On a high and lofty hill you have made your bed,and there you went up to offer sacrifices.
 **v8** Behind the door and doorpostyou have set up your memorial.Forsaking Me, you uncovered your bed;you climbed up and opened it wide.And you have made a pact with those whose bed you have loved;you have gazed upon their nakedness.
 **v9** You went to Molech with oiland multiplied your perfumes.You have sent your envoys a great distance;you have descended even to Sheol itself.
-**v10** You are wearied by your many journeys,but you did not say, "There is no hope!"You found renewal of your strength;therefore you did not grow weak.
+**v10** You are wearied by your many journeys,but you did not say, "There is no hope!" You found renewal of your strength;therefore you did not grow weak.
 
 **v11** Whom have you dreaded and feared,so that you lied and failedto remember Me or take this to heart?Is it not because I have long been silentthat you do not fear Me?
 **v12** I will expose your righteousness and your works,and they will not profit you.
 **v13** When you cry out,let your companies of idols deliver you!Yet the wind will carry off all of them,a breath will take them away.But he who seeks refuge in Me will inherit the landand possess My holy mountain."
 #### Healing for the Repentant
-**v14** And it will be said,"Build it up, build it up, prepare the way,take every obstacle out of the way of My people."
+**v14** And it will be said," Build it up, build it up, prepare the way,take every obstacle out of the way of My people."
 
 **v15** For thus says the One who is high and lifted up,who inhabits eternity, whose name is Holy:"I dwell in a high and holy place,and with the oppressed and humble in spirit,to restore the spirit of the lowlyand revive the heart of the contrite.
 **v16** For I will not accuse you forever,nor will I always be angry;for then the spirit of man would grow weak before Me—the breath of life I have made.
@@ -31306,7 +31306,7 @@ source: https://berean.bible/
 **v12** Your people will rebuild the ancient ruins;you will restore the age-old foundations;you will be called Repairer of the Breach,Restorer of the Streets of Dwelling.
 
 **v13** If you turn your foot from breaking the Sabbath,from doing as you please on My holy day,if you call the Sabbath a delight,and the LORD's holy day honorable,if you honor it by not going your own wayor seeking your own pleasure or speaking idle words,
-**v14** then you will delight yourself in the LORD,and I will make you ride on the heights of the landand feed you with the heritage of your father Jacob."For the mouth of the LORD has spoken.
+**v14** then you will delight yourself in the LORD,and I will make you ride on the heights of the landand feed you with the heritage of your father Jacob." For the mouth of the LORD has spoken.
 ### Chapter 59
 
 #### Sin Separates Us from God
@@ -31409,14 +31409,14 @@ source: https://berean.bible/
 
 **v10** Go out, go out through the gates;prepare the way for the people!Build it up, build up the highway;clear away the stones;raise a banner for the nations!
 
-**v11** Behold, the LORD has proclaimedto the ends of the earth,"Say to Daughter Zion:See, your Savior comes!Look, His reward is with Him,and His recompense goes before Him."
+**v11** Behold, the LORD has proclaimedto the ends of the earth," Say to Daughter Zion:See, your Savior comes!Look, His reward is with Him,and His recompense goes before Him."
 
 **v12** And they will be called the Holy People,the Redeemed of The LORD;and you will be called Sought Out,A City Not Forsaken.
 
 ### Chapter 63
 
 #### God's Vengeance on the Nations
-**v1** Who is this coming from Edom,from Bozrah with crimson-stained garments?Who is this robed in splendor,marching in the greatness of His strength?"It is I, proclaiming vindication, mighty to save."
+**v1** Who is this coming from Edom,from Bozrah with crimson-stained garments?Who is this robed in splendor,marching in the greatness of His strength?" It is I, proclaiming vindication, mighty to save."
 
 **v2** Why are Your clothes red,and Your garments like one who treads the winepress?
 
@@ -31428,7 +31428,7 @@ source: https://berean.bible/
 
 **v7** I will make known the LORD's loving devotionand His praiseworthy acts,because of all that the LORD has done for us—the many good things for the house of Israelaccording to His great compassion and loving devotion.
 
-**v8** For He said, "They are surely My people,sons who will not be disloyal."So He became their Savior.
+**v8** For He said, "They are surely My people,sons who will not be disloyal." So He became their Savior.
 **v9** In all their distress, He too was afflicted,and the Angel of His Presence saved them.In His love and compassion He redeemed them;He lifted them up and carried themall the days of old.
 
 **v10** But they rebelledand grieved His Holy Spirit.So He turned and became their enemy,and He Himself fought against them.
@@ -31474,7 +31474,7 @@ source: https://berean.bible/
 **v4** sitting among the graves,spending nights in secret places,eating the meat of pigsand polluted broth from their bowls.
 **v5** They say, 'Keep to yourself;do not come near me, for I am holier than you!'Such people are smoke in My nostrils,a fire that burns all day long.
 **v6** Behold, it is written before Me:I will not keep silent, but I will repay;I will pay it back into their laps,
-**v7** both for your iniquitiesand for those of your fathers,"says the LORD."Because they burned incense on the mountainsand scorned Me on the hills,I will measure into their lapsfull payment for their former deeds."
+**v7** both for your iniquitiesand for those of your fathers,"says the LORD." Because they burned incense on the mountainsand scorned Me on the hills,I will measure into their lapsfull payment for their former deeds."
 
 **v8** This is what the LORD says:"As the new wine is found in a cluster of grapes,and men say, 'Do not destroy it, for it contains a blessing,'so I will act on behalf of My servants;I will not destroy them all.
 **v9** And I will bring forth descendants from Jacob,and heirs from Judah;My elect will possess My mountains, and My servants will dwell there.
@@ -31508,7 +31508,7 @@ source: https://berean.bible/
 
 #### Heaven Is My Throne
 **v1** This is what the LORD says:"Heaven is My throne,and earth is My footstool.What kind of house will you build for Me?Or where will My place of repose be?
-**v2** Has not My hand made all these things? And so they came into being,"declares the LORD."This is the one I will esteem:he who is humble and contrite in spirit,who trembles at My word.
+**v2** Has not My hand made all these things? And so they came into being,"declares the LORD." This is the one I will esteem:he who is humble and contrite in spirit,who trembles at My word.
 
 **v3** Whoever slaughters an ox is like one who slays a man;whoever sacrifices a lamb is like one who breaks a dog's neck;whoever presents a grain offering is like one who offers pig's blood;whoever offers frankincense is like one who blesses an idol.Indeed, they have chosen their own waysand delighted in their abominations.
 **v4** So I will choose their punishmentand I will bring terror upon them,because I called and no one answered,I spoke and no one listened.But they did evil in My sightand chose that in which I did not delight."
@@ -31520,7 +31520,7 @@ source: https://berean.bible/
 
 **v7** "Before she was in labor, she gave birth;before she was in pain, she delivered a boy.
 **v8** Who has heard of such as this?Who has seen such things?Can a country be born in a dayor a nation be delivered in an instant?Yet as soon as Zion was in labor,she gave birth to her children.
-**v9** Shall I bring a baby to the point of birth and not deliver it?"says the LORD."Or will I who deliver close the womb?"says your God.
+**v9** Shall I bring a baby to the point of birth and not deliver it?"says the LORD." Or will I who deliver close the womb?"says your God.
 
 **v10** Be glad for Jerusalem and rejoice over her,all who love her.Rejoice greatly with her,all who mourn over her,
 **v11** so that you may nurse and be satisfiedat her comforting breasts;you may drink deeply and delight yourselvesin her glorious abundance.
@@ -31576,7 +31576,7 @@ source: https://berean.bible/
 **v13** Again the word of the LORD came to me, asking, "What do you see?""I see a boiling pot," I replied, "and it is tilting toward us from the north."
 
 **v14** Then the LORD said to me, "Disaster from the north will be poured out on all who live in the land.
-**v15** For I am about to summon all the clans and kingdoms of the north," declares the LORD."Their kings will come and set up their thronesat the entrance of the gates of Jerusalem.They will attack all her surrounding wallsand all the other cities of Judah.
+**v15** For I am about to summon all the clans and kingdoms of the north," declares the LORD." Their kings will come and set up their thronesat the entrance of the gates of Jerusalem.They will attack all her surrounding wallsand all the other cities of Judah.
 **v16** I will pronounce My judgments against themfor all their wickedness,because they have forsaken Me,and they have burned incense to other godsand worshiped the works of their own hands.
 
 **v17** Get yourself ready. Stand up and tell them everything that I command you. Do not be intimidated by them, or I will terrify you before them.
@@ -31680,7 +31680,7 @@ source: https://berean.bible/
 ### Chapter 4
 
 #### A Plea to Return
-**v1** "If you will return, O Israel,return to Me," declares the LORD."If you will remove your detestable idols from My sightand no longer waver,
+**v1** "If you will return, O Israel,return to Me," declares the LORD." If you will remove your detestable idols from My sightand no longer waver,
 **v2** and if you can swear, 'As surely as the LORD lives,'in truth, in justice, and in righteousness,then the nations will be blessed by Him,and in Him they will glory."
 
 **v3** For this is what the LORD says to the men of Judah and Jerusalem:"Break up your unplowed ground,and do not sow among the thorns.
@@ -31723,7 +31723,7 @@ source: https://berean.bible/
 **v29** Every city fleesat the sound of the horseman and archer.They enter the thicketsand climb among the rocks.Every city is abandoned;no inhabitant is left.
 
 **v30** And you, O devastated one, what will you do,though you dress yourself in scarlet,though you adorn yourself with gold jewelry,though you enlarge your eyes with paint?You adorn yourself in vain; your lovers despise you;they want to take your life.
-**v31** For I hear a cry like a woman in labor,a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath,stretching out her hands to say,"Woe is me,for my soul faints before the murderers!"
+**v31** For I hear a cry like a woman in labor,a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath,stretching out her hands to say," Woe is me,for my soul faints before the murderers!"
 ### Chapter 5
 
 #### No One Is Just
@@ -31733,12 +31733,12 @@ source: https://berean.bible/
 **v3** O LORD, do not Your eyes look for truth?You struck them, but they felt no pain.You finished them off,but they refused to accept discipline.They have made their faces harder than stoneand refused to repent.
 
 **v4** Then I said, "They are only the poor;they have played the fool,for they do not know the way of the LORD,the justice of their God.
-**v5** I will go to the powerfuland speak to them.Surely they know the way of the LORD,the justice of their God."But they too, with one accord, had broken the yokeand torn off the chains.
+**v5** I will go to the powerfuland speak to them.Surely they know the way of the LORD,the justice of their God." But they too, with one accord, had broken the yokeand torn off the chains.
 **v6** Therefore a lion from the forest will strike them down,a wolf from the desert will ravage them.A leopard will lie in wait near their cities,and everyone who ventures out will be torn to pieces.For their rebellious acts are many,and their unfaithful deeds are numerous.
 
 **v7** "Why should I forgive you?Your children have forsaken Meand sworn by gods that are not gods.I satisfied their needs, yet they committed adulteryand assembled at the houses of prostitutes.
 **v8** They are well-fed, lusty stallions,each neighing after his neighbor's wife.
-**v9** Should I not punish them for these things?"declares the LORD."Should I not avenge Myselfon such a nation as this?
+**v9** Should I not punish them for these things?"declares the LORD." Should I not avenge Myselfon such a nation as this?
 **v10** Go up through her vineyards and ravage them,but do not finish them off.Strip off her branches,for they do not belong to the LORD.
 **v11** For the house of Israel and the house of Judahhave been utterly unfaithful to Me,"declares the LORD.
 
@@ -31747,7 +31747,7 @@ source: https://berean.bible/
 #### Judgment Proclaimed
 
 **v14** Therefore this is what the LORD God of Hosts says:"Because you have spoken this word,I will make My words a fire in your mouthand this people the wood it consumes.
-**v15** Behold, I am bringing a distant nation against you,O house of Israel," declares the LORD."It is an established nation,an ancient nation,a nation whose language you do not knowand whose speech you do not understand.
+**v15** Behold, I am bringing a distant nation against you,O house of Israel," declares the LORD." It is an established nation,an ancient nation,a nation whose language you do not knowand whose speech you do not understand.
 **v16** Their quivers are like open graves;they are all mighty men.
 **v17** They will devour your harvest and food;they will consume your sons and daughters;they will eat up your flocks and herds;they will feed on your vines and fig trees.With the sword they will destroythe fortified cities in which you trust."
 **v18** "Yet even in those days," declares the LORD, "I will not make a full end of you.
@@ -31756,7 +31756,7 @@ source: https://berean.bible/
 **v20** Declare this in the house of Jacob and proclaim it in Judah:
 
 **v21** "Hear this,O foolish and senseless people,who have eyes but do not see,who have ears but do not hear.
-**v22** Do you not fear Me?"declares the LORD."Do you not tremble before Me,the One who set the sand as the boundary for the sea,an enduring barrier it cannot cross?The waves surge, but they cannot prevail.They roar but cannot cross it.
+**v22** Do you not fear Me?"declares the LORD." Do you not tremble before Me,the One who set the sand as the boundary for the sea,an enduring barrier it cannot cross?The waves surge, but they cannot prevail.They roar but cannot cross it.
 
 **v23** But these people have stubborn and rebellious hearts.They have turned aside and gone away.
 **v24** They have not said in their hearts,'Let us fear the LORD our God,who gives the rains, both autumn and spring, in season,who keeps for us the appointed weeks of harvest.'
@@ -31766,7 +31766,7 @@ source: https://berean.bible/
 **v27** Like cages full of birds,so their houses are full of deceit.Therefore they have become powerful and rich.
 
 **v28** They have grown fat and sleek,and have excelled in the deeds of the wicked.They have not taken up the cause of the fatherless,that they might prosper;nor have they defendedthe rights of the needy.
-**v29** Should I not punish them for these things?"declares the LORD."Should I not avenge Myselfon such a nation as this?
+**v29** Should I not punish them for these things?"declares the LORD." Should I not avenge Myselfon such a nation as this?
 
 **v30** A horrible and shocking thinghas happened in the land.
 **v31** The prophets prophesy falsely,and the priests rule by their own authority.My people love it so,but what will you do in the end?
@@ -31787,7 +31787,7 @@ source: https://berean.bible/
 **v9** This is what the LORD of Hosts says:"Glean the remnant of Israelas thoroughly as a vine.Pass your hand once more like a grape gathererover the branches."
 
 **v10** To whom can I give this warning?Who will listen to me?Look, their ears are closed, so they cannot hear.See, the word of the LORD has become offensive to them;they find no pleasure in it.
-**v11** But I am full of the LORD's wrath;I am tired of holding it back."Pour it out on the children in the street,and on the young men gathered together.For both husband and wife will be captured,the old and the very old alike.
+**v11** But I am full of the LORD's wrath;I am tired of holding it back." Pour it out on the children in the street,and on the young men gathered together.For both husband and wife will be captured,the old and the very old alike.
 **v12** Their houses will be turned over to others,their fields and wives as well,for I will stretch out My handagainst the inhabitants of the land,"declares the LORD.
 **v13** "For from the least of them to the greatest,all are greedy for gain;from prophet to priest,all practice deceit.
 **v14** They dress the wound of My peoplewith very little care,saying, 'Peace, peace,'when there is no peace at all.
@@ -32029,7 +32029,7 @@ source: https://berean.bible/
 **v1** Righteous are You, O LORD,when I plead before You.Yet about Your judgmentsI wish to contend with You:Why does the way of the wicked prosper?Why do all the faithless live at ease?
 **v2** You planted them, and they have taken root.They have grown and produced fruit.You are ever on their lips,but far from their hearts. 
 **v3** But You know me, O LORD;You see me and test my heart toward You.Drag away the wicked like sheep to the slaughterand set them apart for the day of carnage.
-**v4** How long will the land mournand the grass of every field be withered?Because of the evil of its residents,the animals and birds have been swept away,for the people have said,"He cannot see what our end will be."
+**v4** How long will the land mournand the grass of every field be withered?Because of the evil of its residents,the animals and birds have been swept away,for the people have said," He cannot see what our end will be."
 #### God's Answer to Jeremiah
 
 **v5** "If you have raced with men on footand they have worn you out,how can you compete with horses?If you stumble in a peaceful land,how will you do in the thickets of the Jordan?
@@ -32089,7 +32089,7 @@ source: https://berean.bible/
 **v20** Lift up your eyes and seethose coming from the north.Where is the flock entrusted to you,the sheep that were your pride?
 
 **v21** What will you say when He sets over youclose allies whom you yourself trained?Will not pangs of anguish grip you,as they do a woman in labor?
-**v22** And if you ask yourself,"Why has this happened to me?"It is because of the magnitude of your iniquitythat your skirts have been stripped offand your body has been exposed. 
+**v22** And if you ask yourself," Why has this happened to me?" It is because of the magnitude of your iniquitythat your skirts have been stripped offand your body has been exposed. 
 **v23** Can the Ethiopian change his skin,or the leopard his spots?Neither are you able to do good—you who are accustomed to doing evil.
 
 **v24** "I will scatter you like chaffdriven by the desert wind.
@@ -32201,7 +32201,7 @@ source: https://berean.bible/
 **v17** For My eyes are on all their ways. They are not hidden from My face, and their guilt is not concealed from My eyes.
 **v18** And I will first repay them double their iniquity and their sin, because they have defiled My land with the carcasses of their detestable idols, and they have filled My inheritance with their abominations."
 
-**v19** O LORD, my strength and my fortress,my refuge in the day of distress,the nations will come to Youfrom the ends of the earth, and they will say,"Our fathers inherited nothing but lies,worthless idols of no benefit at all.
+**v19** O LORD, my strength and my fortress,my refuge in the day of distress,the nations will come to Youfrom the ends of the earth, and they will say," Our fathers inherited nothing but lies,worthless idols of no benefit at all.
 **v20** Can man make gods for himself?Such are not gods!"
 
 **v21** "Therefore behold, I will inform them,and this time I will make them knowMy power and My might;then they will knowthat My name is the LORD.
@@ -32228,7 +32228,7 @@ source: https://berean.bible/
 **v13** O LORD, the hope of Israel,all who abandon You will be put to shame.All who turn away will be written in the dust,for they have abandoned the LORD,the fountain of living water.
 
 **v14** Heal me, O LORD, and I will be healed;save me, and I will be saved,for You are my praise.
-**v15** Behold, they keep saying to me,"Where is the word of the LORD?Let it come now!"
+**v15** Behold, they keep saying to me," Where is the word of the LORD?Let it come now!"
 **v16** But I have not run away from being Your shepherd;I have not desired the day of despair.You know that the utterance of my lipswas spoken in Your presence.
 
 **v17** Do not become a terror to me;You are my refuge in the day of disaster.
@@ -32325,8 +32325,8 @@ source: https://berean.bible/
 **v7** You have deceived me, O LORD, and I was deceived.You have overcome me and prevailed.I am a laughingstock all day long;everyone mocks me.
 **v8** For whenever I speak, I cry out;I proclaim violence and destruction.For the word of the LORD has become to mea reproach and derision all day long.
 
-**v9** If I say, "I will not mention Himor speak any more in His name,"His message becomes a fire burning in my heart,shut up in my bones,and I become weary of holding it in,and I cannot prevail.
-**v10** For I have heard the whispering of many:"Terror is on every side!Report him; let us report him!"All my trusted friendswatch for my fall:"Perhaps he will be deceivedso that we may prevail against himand take our vengeance upon him."
+**v9** If I say, "I will not mention Himor speak any more in His name," His message becomes a fire burning in my heart,shut up in my bones,and I become weary of holding it in,and I cannot prevail.
+**v10** For I have heard the whispering of many:"Terror is on every side!Report him; let us report him!" All my trusted friendswatch for my fall:"Perhaps he will be deceivedso that we may prevail against himand take our vengeance upon him."
 
 **v11** But the LORD is with me like a fearsome warrior.Therefore, my persecutors will stumble and will not prevail.Since they have not succeeded, they will be utterly put to shame,with an everlasting disgrace that will never be forgotten.
 **v12** O LORD of Hosts, who examines the righteous,who sees the heart and mind,let me see Your vengeance upon them,for to You I have committed my cause.
@@ -32453,7 +32453,7 @@ source: https://berean.bible/
 
 **v23** "Am I only a God nearby," declares the LORD, "and not a God far away?"
 
-**v24** "Can a man hide in secret places where I cannot see him?" declares the LORD."Do I not fill the heavens and the earth?" declares the LORD.
+**v24** "Can a man hide in secret places where I cannot see him?" declares the LORD." Do I not fill the heavens and the earth?" declares the LORD.
 **v25** "I have heard the sayings of the prophets who prophesy lies in My name: 'I had a dream! I had a dream!'
 **v26** How long will this continue in the hearts of these prophets who prophesy falsehood, these prophets of the delusion of their own minds?
 **v27** They suppose the dreams that they tell one another will make My people forget My name, just as their fathers forgot My name through the worship of Baal.
@@ -32570,7 +32570,7 @@ source: https://berean.bible/
 
 **v7** Now the priests and prophets and all the people heard Jeremiah speaking these words in the house of the LORD,
 **v8** and as soon as he had finished telling all the people everything the LORD had commanded him to say, the priests and prophets and all the people seized him, shouting, "You must surely die!
-**v9** How dare you prophesy in the name of the LORD that this house will become like Shiloh and this city will be desolate and deserted!"And all the people assembled against Jeremiah in the house of the LORD.
+**v9** How dare you prophesy in the name of the LORD that this house will become like Shiloh and this city will be desolate and deserted!" And all the people assembled against Jeremiah in the house of the LORD.
 
 **v10** When the officials of Judah heard these things, they went up from the king's palace to the house of the LORD and sat there at the entrance of the New Gate.
 
@@ -33008,9 +33008,9 @@ source: https://berean.bible/
 **v12** he went down to the scribe's chamber in the king's palace, where all the officials were sitting: Elishama the scribe, Delaiah son of Shemaiah, Elnathan son of Achbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and all the other officials.
 **v13** And Micaiah reported to them all the words he had heard Baruch read from the scroll in the hearing of the people.
 
-**v14** Then all the officials sent word to Baruch through Jehudi son of Nethaniah, the son of Shelemiah, the son of Cushi, saying, "Bring the scroll that you read in the hearing of the people, and come here."So Baruch son of Neriah took the scroll and went to them.
+**v14** Then all the officials sent word to Baruch through Jehudi son of Nethaniah, the son of Shelemiah, the son of Cushi, saying, "Bring the scroll that you read in the hearing of the people, and come here." So Baruch son of Neriah took the scroll and went to them.
 
-**v15** "Please sit down," they said, "and read it in our hearing."So Baruch read it in their hearing.
+**v15** "Please sit down," they said, "and read it in our hearing." So Baruch read it in their hearing.
 
 **v16** When they had heard all these words, they turned to one another in fear and said to Baruch, "Surely we must report all these words to the king."
 
@@ -33065,7 +33065,7 @@ source: https://berean.bible/
 **v12** Jeremiah started to leave Jerusalem to go to the land of Benjamin to claim his portion there among the people.
 **v13** But when he reached the Gate of Benjamin, the captain of the guard, whose name was Irijah son of Shelemiah, the son of Hananiah, seized him and said, "You are deserting to the Chaldeans!"
 
-**v14** "That is a lie," Jeremiah replied. "I am not deserting to the Chaldeans!"But Irijah would not listen to him; instead, he arrested Jeremiah and took him to the officials.
+**v14** "That is a lie," Jeremiah replied. "I am not deserting to the Chaldeans!" But Irijah would not listen to him; instead, he arrested Jeremiah and took him to the officials.
 
 **v15** The officials were angry with Jeremiah, and they beat him and placed him in jail in the house of Jonathan the scribe, for it had been made into a prison.
 
@@ -33182,7 +33182,7 @@ source: https://berean.bible/
 #### The Plot against Gedaliah
 
 **v13** Meanwhile, Johanan son of Kareah and all the commanders of the armies in the field came to Gedaliah at Mizpah
-**v14** and said to him, "Are you aware that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?"But Gedaliah son of Ahikam did not believe them.
+**v14** and said to him, "Are you aware that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?" But Gedaliah son of Ahikam did not believe them.
 
 **v15** Then Johanan son of Kareah spoke privately to Gedaliah at Mizpah. "Let me go and kill Ishmael son of Nethaniah," he said. "No one will know it. Why should he take your life and scatter all the people of Judah who have gathered to you, so that the remnant of Judah would perish?"
 
@@ -33508,7 +33508,7 @@ source: https://berean.bible/
 
 **v30** Run! Escape quickly!Lie low, O residents of Hazor,"declares the LORD,"for Nebuchadnezzar king of Babylonhas drawn up a plan against you;he has devised a strategy against you.
 
-**v31** Rise up, advance against a nation at ease,one that dwells securely,"declares the LORD."They have no gates or bars;they live alone.
+**v31** Rise up, advance against a nation at ease,one that dwells securely,"declares the LORD." They have no gates or bars;they live alone.
 
 **v32** Their camels will become plunder,and their large herds will be spoil.I will scatter to the wind in every directionthose who shave their temples;I will bring calamity on themfrom all sides,"declares the LORD.
 **v33** "Hazor will become a haunt for jackals, a desolation forever.No one will dwell there;no man will abide there."
@@ -33517,7 +33517,7 @@ source: https://berean.bible/
 **v34** This is the word of the LORD that came to Jeremiah the prophet concerning Elam at the beginning of the reign of Zedekiah king of Judah.
 **v35** This is what the LORD of Hosts says:"Behold, I will shatter Elam's bow,the mainstay of their might.
 **v36** I will bring the four winds against Elamfrom the four corners of the heavens,and I will scatter themto all these winds.There will not be a nationto which Elam's exiles will not go.
-**v37** So I will shatter Elam before their foes,before those who seek their lives.I will bring disaster upon them,even My fierce anger,"declares the LORD."I will send out the sword after themuntil I finish them off.
+**v37** So I will shatter Elam before their foes,before those who seek their lives.I will bring disaster upon them,even My fierce anger,"declares the LORD." I will send out the sword after themuntil I finish them off.
 **v38** I will set My throne in Elam,and destroy its king and officials,"declares the LORD.
 **v39** "Yet in the last days,I will restore Elam from captivity, "declares the LORD.
 
@@ -33650,7 +33650,7 @@ source: https://berean.bible/
 **v33** For this is what the LORD of Hosts, the God of Israel, says:"The Daughter of Babylon is like a threshing floorat the time it is trampled.In just a little whileher harvest time will come."
 
 **v34** "Nebuchadnezzar king of Babylon has devoured me;he has crushed me.He has set me aside like an empty vessel;he has swallowed me like a monster;he filled his belly with my delicaciesand vomited me out. 
-**v35** May the violence done to meand to my fleshbe upon Babylon,"says the dweller of Zion."May my blood be on the dwellers of Chaldea,"says Jerusalem.
+**v35** May the violence done to meand to my fleshbe upon Babylon,"says the dweller of Zion." May my blood be on the dwellers of Chaldea,"says Jerusalem.
 
 **v36** Therefore this is what the LORD says:"Behold, I will plead your caseand take vengeance on your behalf;I will dry up her seaand make her springs run dry.
 **v37** Babylon will become a heap of rubble,a haunt for jackals, an object of horror and scorn,without inhabitant.
@@ -33971,7 +33971,7 @@ source: https://berean.bible/
 
 **v14** They wandered blind in the streets,defiled by this blood,so that no one daredto touch their garments.
 
-**v15** "Go away! Unclean!"men shouted at them."Away, away! Do not touch us!"So they fled and wandered.Among the nations it was said,"They can stay here no longer."
+**v15** "Go away! Unclean!"men shouted at them." Away, away! Do not touch us!" So they fled and wandered.Among the nations it was said," They can stay here no longer."
 
 **v16** The presence of the LORD has scattered them;He regards them no more.The priests are shown no honor;the elders find no favor.
 
@@ -33981,7 +33981,7 @@ source: https://berean.bible/
 
 **v19** Those who chased us were swifterthan the eagles in the sky;they pursued us over the mountainsand ambushed us in the wilderness.
 
-**v20** The LORD's anointed, the breath of our life,was captured in their pits.We had said of him,"Under his shadow we will live among the nations."
+**v20** The LORD's anointed, the breath of our life,was captured in their pits.We had said of him," Under his shadow we will live among the nations."
 
 **v21** So rejoice and be glad, O Daughter of Edom,you who dwell in the land of Uz.Yet the cup will pass to you as well;you will get drunk and expose yourself.
 
@@ -34091,7 +34091,7 @@ source: https://berean.bible/
 
 **v2** So I opened my mouth, and He fed me the scroll.
 
-**v3** "Son of man," He said to me, "eat and fill your stomach with this scroll I am giving you."So I ate, and it was as sweet as honey in my mouth.
+**v3** "Son of man," He said to me, "eat and fill your stomach with this scroll I am giving you." So I ate, and it was as sweet as honey in my mouth.
 
 **v4** Then He said to me, "Son of man, go now to the house of Israel and speak My words to them.
 **v5** For you are not being sent to a people of unfamiliar speech or difficult language, but to the house of Israel—
@@ -34269,13 +34269,13 @@ source: https://berean.bible/
 **v3** He stretched out what looked like a hand and took me by the hair of my head. Then the Spirit lifted me up between earth and heaven and carried me in visions of God to Jerusalem, to the entrance of the north gate of the inner court, where the idol that provokes jealousy was seated.
 
 **v4** And there I saw the glory of the God of Israel, like the vision I had seen in the plain.
-**v5** "Son of man," He said to me, "now lift up your eyes to the north."So I lifted up my eyes to the north, and in the entrance north of the Altar Gate I saw this idol of jealousy.
+**v5** "Son of man," He said to me, "now lift up your eyes to the north." So I lifted up my eyes to the north, and in the entrance north of the Altar Gate I saw this idol of jealousy.
 
 **v6** "Son of man," He said to me, "do you see what they are doing—the great abominations that the house of Israel is committing—to drive Me far from My sanctuary? Yet you will see even greater abominations."
 
 **v7** Then He brought me to the entrance to the court, and I looked and saw a hole in the wall.
 
-**v8** "Son of man," He told me, "dig through the wall."So I dug through the wall and discovered a doorway.
+**v8** "Son of man," He told me, "dig through the wall." So I dug through the wall and discovered a doorway.
 
 **v9** Then He said to me, "Go in and see the wicked abominations they are committing here."
 
@@ -34306,9 +34306,9 @@ source: https://berean.bible/
 **v4** "Go throughout the city of Jerusalem," said the LORD, "and put a mark on the foreheads of the men sighing and groaning over all the abominations committed there."
 
 **v5** And as I listened, He said to the others, "Follow him through the city and start killing; do not show pity or spare anyone!
-**v6** Slaughter the old men, the young men and maidens, the women and children; but do not go near anyone who has the mark. Now begin at My sanctuary."So they began with the elders who were before the temple.
+**v6** Slaughter the old men, the young men and maidens, the women and children; but do not go near anyone who has the mark. Now begin at My sanctuary." So they began with the elders who were before the temple.
 
-**v7** Then He told them, "Defile the temple and fill the courts with the slain. Go forth!"So they went out and began killing throughout the city.
+**v7** Then He told them, "Defile the temple and fill the courts with the slain. Go forth!" So they went out and began killing throughout the city.
 
 **v8** While they were killing, I was left alone. And I fell facedown and cried out, "Oh, Lord GOD, when You pour out Your wrath on Jerusalem, will You destroy the entire remnant of Israel?"
 
@@ -35071,7 +35071,7 @@ source: https://berean.bible/
 **v15** This is what the Lord GOD says to Tyre: 'Will not the coastlands quake at the sound of your downfall, when the wounded groan at the slaughter in your midst?
 
 **v16** All the princes of the sea will descend from their thrones, remove their robes, and strip off their embroidered garments. Clothed with terror, they will sit on the ground, trembling every moment, appalled over you.
-**v17** Then they will lament for you, saying,"How you have perished, O city of renowninhabited by seafaring men—she who was powerful on the sea, along with her people,who imposed terror on all peoples! 
+**v17** Then they will lament for you, saying," How you have perished, O city of renowninhabited by seafaring men—she who was powerful on the sea, along with her people,who imposed terror on all peoples! 
 **v18** Now the coastlands trembleon the day of your downfall;the islands in the seaare dismayed by your demise."'
 
 **v19** For this is what the Lord GOD says: 'When I make you a desolate city like other deserted cities, and when I raise up the deep against you so that the mighty waters cover you,
@@ -36245,7 +36245,7 @@ source: https://berean.bible/
 
 **v25** "Look!" he exclaimed. "I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods! "
 
-**v26** Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, "Shadrach, Meshach, and Abednego, servants of the Most High God, come out!"So Shadrach, Meshach, and Abednego came out of the fire,
+**v26** Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, "Shadrach, Meshach, and Abednego, servants of the Most High God, come out!" So Shadrach, Meshach, and Abednego came out of the fire,
 **v27** and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them.
 
 **v28** Nebuchadnezzar declared, "Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who trusted in Him. They violated the king's command and risked their lives rather than serve or worship any god except their own God.
@@ -36386,7 +36386,7 @@ source: https://berean.bible/
 
 **v10** Now when Daniel learned that the document had been signed, he went into his house, where the windows of his upper room opened toward Jerusalem, and three times a day he got down on his knees, prayed, and gave thanks to his God, just as he had done before.
 **v11** Then these men went as a group and found Daniel petitioning and imploring his God.
-**v12** So they approached the king and asked about his royal decree: "Did you not sign a decree that for thirty days any man who petitions any god or man except you, O king, will be thrown into the den of lions?"The king replied, "According to the law of the Medes and Persians the order stands, and it cannot be repealed."
+**v12** So they approached the king and asked about his royal decree: "Did you not sign a decree that for thirty days any man who petitions any god or man except you, O king, will be thrown into the den of lions?" The king replied, "According to the law of the Medes and Persians the order stands, and it cannot be repealed."
 
 **v13** Then they told the king, "Daniel, one of the exiles from Judah, shows no regard for you, O king, or for the decree that you have signed. He still makes his petition three times a day."
 
@@ -36493,7 +36493,7 @@ source: https://berean.bible/
 **v15** While I, Daniel, was watching the vision and trying to understand it, there stood before me one having the appearance of a man.
 **v16** And I heard the voice of a man calling from between the banks of the Ulai: "Gabriel, explain the vision to this man."
 
-**v17** As he came near to where I stood, I was terrified and fell facedown."Son of man," he said to me, "understand that the vision concerns the time of the end."
+**v17** As he came near to where I stood, I was terrified and fell facedown." Son of man," he said to me, "understand that the vision concerns the time of the end."
 
 **v18** While he was speaking with me, I fell into a deep sleep, with my face to the ground.Then he touched me, helped me to my feet,
 **v19** and said, "Behold, I will make known to you what will happen in the latter time of wrath, because it concerns the appointed time of the end.
@@ -36572,7 +36572,7 @@ source: https://berean.bible/
 **v9** I heard the sound of his words, and as I listened, I fell into a deep sleep, with my face to the ground.
 
 **v10** Suddenly, a hand touched me and set me trembling on my hands and knees.
-**v11** He said to me, "Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you."And when he had said this to me, I stood up trembling.
+**v11** He said to me, "Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you." And when he had said this to me, I stood up trembling.
 
 **v12** "Do not be afraid, Daniel," he said, "for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them.
 **v13** However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia.
@@ -36583,7 +36583,7 @@ source: https://berean.bible/
 **v17** How can I, your servant, speak with you, my lord? Now I have no strength, nor is any breath left in me."
 
 **v18** Again the one with the likeness of a man touched me and strengthened me.
-**v19** "Do not be afraid, you who are highly precious," he said. "Peace be with you! Be strong now; be very strong!"As he spoke with me, I was strengthened and said, "Speak, my lord, for you have strengthened me."
+**v19** "Do not be afraid, you who are highly precious," he said. "Peace be with you! Be strong now; be very strong!" As he spoke with me, I was strengthened and said, "Speak, my lord, for you have strengthened me."
 
 **v20** "Do you know why I have come to you?" he said. "I must return at once to fight against the prince of Persia, and when I have gone forth, behold, the prince of Greece will come.
 **v21** But first I will tell you what is inscribed in the Book of Truth. Yet no one has the courage to support me against these, except Michael your prince.
@@ -36849,7 +36849,7 @@ source: https://berean.bible/
 
 #### Israel Will Reap the Whirlwind
 **v1** Put the ram's horn to your lips!An eagle looms over the house of the LORD,because the people have transgressed My covenantand rebelled against My law.
-**v2** Israel cries out to Me,"O our God, we know You!"
+**v2** Israel cries out to Me," O our God, we know You!"
 **v3** But Israel has rejected good;an enemy will pursue him.
 
 **v4** They set up kings, but not by Me.They make princes, but without My approval.With their silver and gold they make themselves idols,to their own destruction.
@@ -36897,7 +36897,7 @@ source: https://berean.bible/
 **v1** Israel was a luxuriant vine,yielding fruit for himself.The more his fruit increased,the more he increased the altars.The better his land produced,the better he made the sacred pillars.
 **v2** Their hearts are devious;now they must bear their guilt.The LORD will break down their altarsand demolish their sacred pillars.
 
-**v3** Surely now they will say,"We have no king,for we do not revere the LORD.What can a king do for us?"
+**v3** Surely now they will say," We have no king,for we do not revere the LORD.What can a king do for us?"
 **v4** They speak mere words;with false oaths they make covenants.So judgment springs uplike poisonous weeds in the furrows of a field.
 
 **v5** The people of Samaria will fearfor the calf of Beth-aven. Indeed, its people will mourn over itwith its idolatrous priests—those who rejoiced in its glory—for it has been taken from them into exile.
@@ -36962,7 +36962,7 @@ source: https://berean.bible/
 #### God's Anger against Israel
 **v1** When Ephraim spoke, there was trembling;he was exalted in Israel.But he incurred guilt through Baal,and he died.
 
-**v2** Now they sin more and moreand make for themselves cast images,idols skillfully made from their silver,all of them the work of craftsmen.People say of them,"They offer human sacrificeand kiss the calves!"
+**v2** Now they sin more and moreand make for themselves cast images,idols skillfully made from their silver,all of them the work of craftsmen.People say of them," They offer human sacrificeand kiss the calves!"
 **v3** Therefore they will be like the morning mist,like the early dew that vanishes,like chaff blown from a threshing floor,like smoke through an open window.
 
 **v4** Yet I am the LORD your Godever since the land of Egypt;you know no God but Me,for there is no Savior besides Me.
@@ -36974,7 +36974,7 @@ source: https://berean.bible/
 
 **v9** You are destroyed, O Israel,because you are against Me—against your helper.
 
-**v10** Where is your king now to save you in all your cities,and the rulers to whom you said,"Give me a king and princes"?
+**v10** Where is your king now to save you in all your cities,and the rulers to whom you said," Give me a king and princes"?
 **v11** So in My anger I gave you a king,and in My wrath I took him away.
 
 **v12** The iniquity of Ephraim is bound up;his sin is stored up.
@@ -37101,7 +37101,7 @@ source: https://berean.bible/
 **v6** You sold the people of Judah and Jerusalem to the Greeks, to send them far from their homeland.
 
 **v7** Behold, I will rouse them from the places to which you sold them; I will return your recompense upon your heads.
-**v8** I will sell your sons and daughters into the hands of the people of Judah, and they will sell them to the Sabeans—to a distant nation."Indeed, the LORD has spoken.
+**v8** I will sell your sons and daughters into the hands of the people of Judah, and they will sell them to the Sabeans—to a distant nation." Indeed, the LORD has spoken.
 
 **v9** Proclaim this among the nations:"Prepare for war;rouse the mighty men;let all the men of waradvance and attack!
 **v10** Beat your plowshares into swordsand your pruning hooks into spears.Let the weak say, 'I am strong!'
@@ -37188,7 +37188,7 @@ source: https://berean.bible/
 
 **v9** Proclaim to the citadels of Ashdodand to the citadels of Egypt:"Assemble on the mountains of Samaria;see the great unrest in the cityand the acts of oppression in her midst."
 
-**v10** "For they know not how to do right,"declares the LORD."They store up violence and destructionin their citadels."
+**v10** "For they know not how to do right,"declares the LORD." They store up violence and destructionin their citadels."
 
 **v11** Therefore this is what the Lord GOD says:"An enemy will surround the land;he will pull down your strongholdsand plunder your citadels."
 
@@ -37201,7 +37201,7 @@ source: https://berean.bible/
 ### Chapter 4
 
 #### Punishment Brings No Repentance
-**v1** Hear this word,you cows of Bashan on Mount Samaria,you women who oppress the poorand crush the needy,who say to your husbands,"Bring us more to drink."
+**v1** Hear this word,you cows of Bashan on Mount Samaria,you women who oppress the poorand crush the needy,who say to your husbands," Bring us more to drink."
 **v2** The Lord GOD has sworn by His holiness:"Behold, the days are comingwhen you will be taken away with hooks,and your posterity with fishhooks.
 **v3** You will go out through broken walls,each one straight ahead of her,and you will be cast out toward Harmon, "declares the LORD.
 **v4** "Go to Bethel and transgress;rebel even more at Gilgal!Bring your sacrifices every morning,your tithes every three days. 
@@ -37277,7 +37277,7 @@ source: https://berean.bible/
 **v8** The Lord GOD has sworn by Himself—the LORD, the God of Hosts, has declared:"I abhor Jacob's prideand detest his citadels,so I will deliver up the cityand everything in it."
 
 **v9** And if there are ten men left in one house, they too will die.
-**v10** And when the relative who is to burn the bodies picks them up to remove them from the house, he will call to one inside, "Is anyone else with you?""None," that person will answer."Silence," the relative will retort, "for the name of the LORD must not be invoked."
+**v10** And when the relative who is to burn the bodies picks them up to remove them from the house, he will call to one inside, "Is anyone else with you?""None," that person will answer." Silence," the relative will retort, "for the name of the LORD must not be invoked."
 **v11** For the LORD gives a command:"The great house will be smashed to pieces,and the small house to rubble."
 
 **v12** "Do horses gallop on the cliffs?Does one plow the sea with oxen?But you have turned justice into poisonand the fruit of righteousness into wormwood—
@@ -37298,7 +37298,7 @@ source: https://berean.bible/
 **v6** So the LORD relented from this plan. "It will not happen either," said the Lord GOD.
 
 **v7** This is what He showed me: Behold, the Lord was standing by a wall true to plumb, with a plumb line in His hand.
-**v8** "Amos, what do you see?" asked the LORD."A plumb line," I replied."Behold," said the Lord, "I am setting a plumb line among My people Israel; I will no longer spare them:
+**v8** "Amos, what do you see?" asked the LORD." A plumb line," I replied." Behold," said the Lord, "I am setting a plumb line among My people Israel; I will no longer spare them:
 
 **v9** The high places of Isaac will be deserted,and the sanctuaries of Israel will be laid waste;and I will rise up against the house of Jeroboamwith My sword."
 #### Amaziah Accuses Amos
@@ -37321,7 +37321,7 @@ source: https://berean.bible/
 #### The Basket of Summer Fruit
 **v1** This is what the Lord GOD showed me: I saw a basket of summer fruit. 
 
-**v2** "Amos, what do you see?" He asked."A basket of summer fruit," I replied.So the LORD said to me, "The end has come for My people Israel; I will no longer spare them."
+**v2** "Amos, what do you see?" He asked." A basket of summer fruit," I replied.So the LORD said to me, "The end has come for My people Israel; I will no longer spare them."
 
 **v3** "In that day," declares the Lord GOD, "the songs of the temple will turn to wailing. Many will be the corpses, strewn in silence everywhere!"
 
@@ -37351,7 +37351,7 @@ source: https://berean.bible/
 **v5** The Lord GOD of Hosts,He who touches the earth and it melts,and all its dwellers mourn—all the land rises like the Nile,then sinks like the river of Egypt—
 **v6** He builds His upper rooms in the heavensand founds His vault upon the earth.He summons the waters of the seaand pours them over the face of the earth.The LORD is His name.
 
-**v7** "Are you not like the Cushites to Me,O children of Israel?"declares the LORD."Did I not bring Israelup from the land of Egypt,the Philistines from Caphtor, and the Arameans from Kir?
+**v7** "Are you not like the Cushites to Me,O children of Israel?"declares the LORD." Did I not bring Israelup from the land of Egypt,the Philistines from Caphtor, and the Arameans from Kir?
 **v8** Surely the eyes of the Lord GODare on the sinful kingdom,and I will destroy it from the face of the earth.Yet I will not utterly destroy the house of Jacob,"declares the LORD.
 **v9** "For surely I will give the command,and I will shake the house of Israelamong all the nationsas grain is sifted in a sieve;but not a pebble will reach the ground.
 **v10** All the sinners among My peoplewill die by the sword—all those who say,'Disaster will never draw near or confront us.'"
@@ -37389,7 +37389,7 @@ source: https://berean.bible/
 **v15** For the Day of the LORD is nearfor all the nations.As you have done, it will be done to you;your recompense will return upon your own head.
 **v16** For as you drank on My holy mountain,so all the nations will drink continually.They will drink and gulp it down;they will be as if they had never existed.
 **v17** But on Mount Zion there will be deliverance,and it will be holy,and the house of Jacobwill reclaim their possession.
-**v18** Then the house of Jacob will be a blazing fire,and the house of Joseph a burning flame;but the house of Esau will be stubble—Jacob will set it ablaze and consume it.Therefore no survivor will remainfrom the house of Esau."For the LORD has spoken.
+**v18** Then the house of Jacob will be a blazing fire,and the house of Joseph a burning flame;but the house of Esau will be stubble—Jacob will set it ablaze and consume it.Therefore no survivor will remainfrom the house of Esau." For the LORD has spoken.
 **v19** Those from the Negev will possess the mountains of Esau;those from the foothills will possess the land of the Philistines.They will occupy the fields of Ephraim and Samaria,and Benjamin will possess Gilead.
 **v20** And the exiles of this host of the Israeliteswill possess the land of the Canaanites as far as Zarephath;and the exiles from Jerusalem who are in Sepharadwill possess the cities of the Negev.
 **v21** The deliverers will ascend Mount Zionto rule over the mountains of Esau.And the kingdom will belong to the LORD.
@@ -37410,7 +37410,7 @@ source: https://berean.bible/
 
 **v6** The captain approached him and said, "How can you sleep? Get up and call upon your God. Perhaps this God will consider us, so that we may not perish."
 
-**v7** "Come!" said the sailors to one another. "Let us cast lots to find out who is responsible for this calamity that is upon us."So they cast lots, and the lot fell on Jonah.
+**v7** "Come!" said the sailors to one another. "Let us cast lots to find out who is responsible for this calamity that is upon us." So they cast lots, and the lot fell on Jonah.
 
 **v8** "Tell us now," they demanded, "who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?"
 
@@ -37531,13 +37531,13 @@ source: https://berean.bible/
 **v5** Therefore, you will have no one in the assembly of the LORDto divide the land by lot.
 #### Reproof of False Prophets
 
-**v6** "Do not preach," they preach."Do not preach these things;disgrace will not overtake us."
-**v7** Should it be said, O house of Jacob,"Is the Spirit of the LORD impatient?Are these the things He does?"Do not My words bring goodto him who walks uprightly?
+**v6** "Do not preach," they preach." Do not preach these things;disgrace will not overtake us."
+**v7** Should it be said, O house of Jacob," Is the Spirit of the LORD impatient?Are these the things He does?" Do not My words bring goodto him who walks uprightly?
 **v8** But of late My people have risen uplike an enemy:You strip off the splendid robefrom unsuspecting passersbylike men returning from battle.
 **v9** You drive the women of My peoplefrom their pleasant homes.You take away My blessingfrom their children forever.
 
 **v10** Arise and depart,for this is not your place of rest,because its defilement brings destruction—a grievous destruction!
-**v11** If a man of wind were to comeand say falsely,"I will preach to you of wine and strong drink," he would be just the preacher for this people!
+**v11** If a man of wind were to comeand say falsely," I will preach to you of wine and strong drink," he would be just the preacher for this people!
 #### The Remnant of Israel
 
 **v12** I will surely gather all of you, O Jacob;I will collect the remnant of Israel.I will bring them together like sheep in a pen,like a flock in the midst of its pasture—a noisy throng.
@@ -37560,20 +37560,20 @@ source: https://berean.bible/
 
 **v9** Now hear this, O leaders of the house of Jacoband rulers of the house of Israel,who despise justiceand pervert all that is right,
 **v10** who build Zion with bloodshedand Jerusalem with iniquity.
-**v11** Her leaders judge for a bribe,her priests teach for a price,and her prophets practice divination for money.Yet they lean upon the LORD, saying,"Is not the LORD among us?No disaster can come upon us."
+**v11** Her leaders judge for a bribe,her priests teach for a price,and her prophets practice divination for money.Yet they lean upon the LORD, saying," Is not the LORD among us?No disaster can come upon us."
 **v12** Therefore, because of you,Zion will be plowed like a field,Jerusalem will become a heap of rubble,and the temple mount a wooded ridge.
 ### Chapter 4
 
 #### The Mountain of the House of the LORD
 **v1** In the last days the mountain of the house of the LORDwill be established as the chief of the mountains;it will be raised above the hills,and the peoples will stream to it.
 
-**v2** And many nations will come and say:"Come, let us go up to the mountain of the LORD,to the house of the God of Jacob.He will teach us His ways,so that we may walk in His paths."For the law will go forth from Zionand the word of the LORD from Jerusalem.
+**v2** And many nations will come and say:"Come, let us go up to the mountain of the LORD,to the house of the God of Jacob.He will teach us His ways,so that we may walk in His paths." For the law will go forth from Zionand the word of the LORD from Jerusalem.
 **v3** Then He will judge between many peoplesand arbitrate for strong nations far and wide.Then they will beat their swords into plowsharesand their spears into pruning hooks.Nation will no longer take up the sword against nation,nor will they train anymore for war.
 **v4** And each man will sit under his own vineand under his own fig tree,with no one to frighten him.For the mouth of the LORD of Hosts has spoken.
 **v5** Though all the nationsmay walk in the name of their gods,yet we will walk in the name of the LORD our Godforever and ever.
 #### The Restoration of Zion
 
-**v6** "On that day," declares the LORD,"I will gather the lame;I will assemble the outcast,even those whom I have afflicted.
+**v6** "On that day," declares the LORD," I will gather the lame;I will assemble the outcast,even those whom I have afflicted.
 **v7** And I will make the lame into a remnant,the outcast into a strong nation.Then the LORD will rule over them in Mount Zionfrom that day and forever.
 **v8** And you, O watchtower of the flock,O stronghold of the Daughter of Zion—the former dominion will be restored to you;sovereignty will come to the Daughter of Jerusalem."
 
@@ -37602,7 +37602,7 @@ source: https://berean.bible/
 **v8** Then the remnant of Jacob will be among the nations,in the midst of many peoples,like a lion among the beasts of the forest,like a young lion among flocks of sheep,which tramples and tears as it passes through,with no one to rescue them.
 **v9** Your hand will be lifted over your foes,and all your enemies will be cut off.
 
-**v10** "In that day,"declares the LORD,"I will remove your horses from among youand wreck your chariots.
+**v10** "In that day,"declares the LORD," I will remove your horses from among youand wreck your chariots.
 **v11** I will remove the cities of your landand tear down all your strongholds.
 **v12** I will cut the sorceries from your hand,and you will have no fortune-tellers.
 **v13** I will also cut off the carved imagesand sacred pillars from among you,so that you will no longer bow downto the work of your own hands.
@@ -37650,7 +37650,7 @@ source: https://berean.bible/
 
 **v8** Do not gloat over me, my enemy!Though I have fallen, I will arise;though I sit in darkness,the LORD will be my light.
 **v9** Because I have sinned against Him,I must endure the rage of the LORD,until He argues my caseand executes justice for me.He will bring me into the light;I will see His righteousness.
-**v10** Then my enemy will seeand will be covered with shame—she who said to me,"Where is the LORD your God?"My eyes will see her;at that time she will be trampledlike mud in the streets.
+**v10** Then my enemy will seeand will be covered with shame—she who said to me," Where is the LORD your God?" My eyes will see her;at that time she will be trampledlike mud in the streets.
 
 **v11** The day for rebuilding your walls will come—the day for extending your boundary.
 **v12** On that day they will come to youfrom Assyria and the cities of Egypt,even from Egypt to the Euphrates, from sea to sea and mountain to mountain.
@@ -37706,14 +37706,14 @@ source: https://berean.bible/
 **v6** The river gates are thrown openand the palace collapses.
 
 **v7** It is decreed that the city be exiledand carried away;her maidservants moan like doves,and beat upon their breasts.
-**v8** Nineveh has been like a pool of waterthroughout her days,but now it is draining away."Stop! Stop!" they cry,but no one turns back.
-**v9** "Plunder the silver!Plunder the gold!"There is no end to the treasure,an abundance of every precious thing.
+**v8** Nineveh has been like a pool of waterthroughout her days,but now it is draining away." Stop! Stop!" they cry,but no one turns back.
+**v9** "Plunder the silver!Plunder the gold!" There is no end to the treasure,an abundance of every precious thing.
 **v10** She is emptied!Yes, she is desolate and laid waste!Hearts melt, knees knock,bodies tremble, and every face grows pale!
 
 **v11** Where is the lions' lairor the feeding ground of the young lions,where the lion and lioness prowled with their cubs,with nothing to frighten them away?
 **v12** The lion mauled enough for its cubsand strangled prey for the lioness.It filled its dens with the kill,and its lairs with mauled prey.
 
-**v13** "Behold, I am against you,"declares the LORD of Hosts."I will reduce your chariots to cinders,and the sword will devour your young lions.I will cut off your prey from the earth,and the voices of your messengerswill no longer be heard."
+**v13** "Behold, I am against you,"declares the LORD of Hosts." I will reduce your chariots to cinders,and the sword will devour your young lions.I will cut off your prey from the earth,and the voices of your messengerswill no longer be heard."
 
 ### Chapter 3
 
@@ -37723,7 +37723,7 @@ source: https://berean.bible/
 **v3** Charging horseman,flashing sword,shining spear;heaps of slain,mounds of corpses,dead bodies without end—they stumble over their dead—
 **v4** because of the many harlotries of the harlot,the seductive mistress of sorcery,who betrays nations by her prostitutionand clans by her witchcraft.
 
-**v5** "Behold, I am against you,"declares the LORD of Hosts."I will lift your skirts over your face.I will show your nakedness to the nationsand your shame to the kingdoms.
+**v5** "Behold, I am against you,"declares the LORD of Hosts." I will lift your skirts over your face.I will show your nakedness to the nationsand your shame to the kingdoms.
 **v6** I will pelt you with filthand treat you with contempt;I will make a spectacle of you.
 **v7** Then all who see youwill recoil from you and say,'Nineveh is devastated;who will grieve for her?'Where can I findcomforters for you?"
 
@@ -37860,7 +37860,7 @@ source: https://berean.bible/
 **v15** That day will bea day of wrath,a day of trouble and distress,a day of destruction and desolation,a day of darkness and gloom,a day of clouds and blackness,
 **v16** a day of horn blast and battle cryagainst the fortified cities,and against the high corner towers.
 **v17** I will bring such distress on mankindthat they will walk like the blind,because they have sinned against the LORD.Their blood will be poured out like dustand their flesh like dung.
-**v18** Neither their silver nor their goldwill be able to deliver themon the Day of the LORD's wrath.The whole earth will be consumedby the fire of His jealousy."For indeed, He will make a sudden endof all who dwell on the earth. 
+**v18** Neither their silver nor their goldwill be able to deliver themon the Day of the LORD's wrath.The whole earth will be consumedby the fire of His jealousy." For indeed, He will make a sudden endof all who dwell on the earth. 
 
 ### Chapter 2
 
@@ -38030,7 +38030,7 @@ source: https://berean.bible/
 #### The Vision of the Horns and the Craftsmen
 
 **v18** Then I looked up and saw four horns.
-**v19** So I asked the angel who was speaking with me, "What are these?"And he told me, "These are the horns that have scattered Judah, Israel, and Jerusalem."
+**v19** So I asked the angel who was speaking with me, "What are these?" And he told me, "These are the horns that have scattered Judah, Israel, and Jerusalem."
 
 **v20** Then the LORD showed me four craftsmen.
 
@@ -38041,7 +38041,7 @@ source: https://berean.bible/
 #### The Vision of the Measuring Line
 **v1** Then I lifted up my eyes and saw a man with a measuring line in his hand.
 
-**v2** "Where are you going?" I asked."To measure Jerusalem," he replied, "and to determine its width and length."
+**v2** "Where are you going?" I asked." To measure Jerusalem," he replied, "and to determine its width and length."
 
 **v3** Then the angel who was speaking with me went forth, and another angel came forward to meet him
 **v4** and said to him, "Run and tell that young man: 'Jerusalem will be a city without walls because of the multitude of men and livestock within it.
@@ -38067,7 +38067,7 @@ source: https://berean.bible/
 **v2** And the LORD said to Satan: "The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?"
 
 **v3** Now Joshua was dressed in filthy garments as he stood before the angel.
-**v4** So the angel said to those standing before him, "Take off his filthy clothes!"Then he said to Joshua, "See, I have removed your iniquity, and I will clothe you with splendid robes."
+**v4** So the angel said to those standing before him, "Take off his filthy clothes!" Then he said to Joshua, "See, I have removed your iniquity, and I will clothe you with splendid robes."
 
 **v5** Then I said, "Let them put a clean turban on his head." So a clean turban was placed on his head, and they clothed him, as the angel of the LORD stood by.
 
@@ -38083,12 +38083,12 @@ source: https://berean.bible/
 #### The Vision of the Lampstand and Olive Trees
 **v1** Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep.
 
-**v2** "What do you see?" he asked."I see a solid gold lampstand," I replied, "with a bowl at the top and seven lamps on it, with seven spouts to the lamps.
+**v2** "What do you see?" he asked." I see a solid gold lampstand," I replied, "with a bowl at the top and seven lamps on it, with seven spouts to the lamps.
 **v3** There are also two olive trees beside it, one on the right side of the bowl and the other on its left."
 
 **v4** "What are these, my lord?" I asked the angel who was speaking with me.
 
-**v5** "Do you not know what they are?" replied the angel."No, my lord," I answered.
+**v5** "Do you not know what they are?" replied the angel." No, my lord," I answered.
 
 **v6** So he said to me, "This is the word of the LORD to Zerubbabel: Not by might nor by power, but by My Spirit, says the LORD of Hosts.
 **v7** What are you, O great mountain? Before Zerubbabel you will become a plain. Then he will bring forth the capstone accompanied by shouts of 'Grace, grace to it!'"
@@ -38100,7 +38100,7 @@ source: https://berean.bible/
 **v11** Then I asked the angel, "What are the two olive trees on the right and left of the lampstand?"
 **v12** And I questioned him further, "What are the two olive branches beside the two gold pipes from which the golden oil pours?"
 
-**v13** "Do you not know what these are?" he inquired."No, my lord," I replied.
+**v13** "Do you not know what these are?" he inquired." No, my lord," I replied.
 
 **v14** So he said, "These are the two anointed ones who are standing beside the Lord of all the earth."
 
@@ -38109,7 +38109,7 @@ source: https://berean.bible/
 #### The Vision of the Flying Scroll
 **v1** Again I lifted up my eyes and saw before me a flying scroll.
 
-**v2** "What do you see?" asked the angel."I see a flying scroll," I replied, "twenty cubits long and ten cubits wide. "
+**v2** "What do you see?" asked the angel." I see a flying scroll," I replied, "twenty cubits long and ten cubits wide. "
 
 **v3** Then he told me, "This is the curse that is going out over the face of all the land, for according to one side of the scroll, every thief will be removed; and according to the other side, every perjurer will be removed.
 **v4** I will send it out, declares the LORD of Hosts, and it will enter the house of the thief and the house of him who swears falsely by My name. It will remain inside his house and destroy it, down to its timbers and stones."
@@ -38384,7 +38384,7 @@ source: https://berean.bible/
 **v5** You will see this with your own eyes, and you yourselves will say, 'The LORD is great—even beyond the borders of Israel.'"
 #### The Polluted Offerings
 
-**v6** "A son honors his father, and a servant his master. But if I am a father, where is My honor? And if I am a master, where is your fear of Me?" says the LORD of Hosts to you priests who despise My name."But you ask, 'How have we despised Your name?'
+**v6** "A son honors his father, and a servant his master. But if I am a father, where is My honor? And if I am a master, where is your fear of Me?" says the LORD of Hosts to you priests who despise My name." But you ask, 'How have we despised Your name?'
 **v7** By presenting defiled food on My altar.But you ask, 'How have we defiled You ?'By saying that the table of the LORD is contemptible.
 **v8** When you offer blind animals for sacrifice, is it not wrong? And when you present the lame and sick ones, is it not wrong? Try offering them to your governor! Would he be pleased with you or show you favor?" asks the LORD of Hosts.
 
@@ -38394,7 +38394,7 @@ source: https://berean.bible/
 **v11** For My name will be great among the nations, from where the sun rises to where it sets. In every place, incense and pure offerings will be presented in My name, because My name will be great among the nations," says the LORD of Hosts.
 **v12** "But you profane it when you say, 'The table of the Lord is defiled, and as for its fruit, its food is contemptible.'
 
-**v13** You also say: 'Oh, what a nuisance!' And you turn up your nose at it," says the LORD of Hosts."You bring offerings that are stolen, lame, or sick! Should I accept these from your hands?" asks the LORD.
+**v13** You also say: 'Oh, what a nuisance!' And you turn up your nose at it," says the LORD of Hosts." You bring offerings that are stolen, lame, or sick! Should I accept these from your hands?" asks the LORD.
 
 **v14** "But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King," says the LORD of Hosts, "and My name is to be feared among the nations.
 
@@ -38423,12 +38423,12 @@ source: https://berean.bible/
 
 **v13** And this is another thing you do: You cover the altar of the LORD with tears, with weeping and groaning, because He no longer regards your offerings or receives them gladly from your hands.
 
-**v14** Yet you ask, "Why?"It is because the LORD has been a witness between you and the wife of your youth, against whom you have broken faith, though she is your companion and your wife by covenant.
+**v14** Yet you ask, "Why?" It is because the LORD has been a witness between you and the wife of your youth, against whom you have broken faith, though she is your companion and your wife by covenant.
 
 **v15** Has not the LORD made them one, having a portion of the Spirit? And why one? Because He seeks godly offspring. So guard yourselves in your spirit and do not break faith with the wife of your youth.
 **v16** "For I hate divorce," says the LORD, the God of Israel. "He who divorces his wife covers his garment with violence," says the LORD of Hosts. So guard yourselves in your spirit and do not break faith.
 
-**v17** You have wearied the LORD with your words; yet you ask, "How have we wearied Him?"By saying, "All who do evil are good in the sight of the LORD, and in them He delights," or, "Where is the God of justice?"
+**v17** You have wearied the LORD with your words; yet you ask, "How have we wearied Him?" By saying, "All who do evil are good in the sight of the LORD, and in them He delights," or, "Where is the God of justice?"
 
 ### Chapter 3
 
@@ -38445,7 +38445,7 @@ source: https://berean.bible/
 #### Robbing God
 
 **v6** "Because I, the LORD, do not change, you descendants of Jacob have not been destroyed.
-**v7** Yet from the days of your fathers, you have turned away from My statutes and have not kept them. Return to Me, and I will return to you," says the LORD of Hosts."But you ask, 'How can we return?'
+**v7** Yet from the days of your fathers, you have turned away from My statutes and have not kept them. Return to Me, and I will return to you," says the LORD of Hosts." But you ask, 'How can we return?'
 **v8** Will a man rob God? Yet you are robbing Me!But you ask, 'How do we rob You?'In tithes and offerings.
 **v9** You are cursed with a curse, yet you—the whole nation—are still robbing Me.
 **v10** Bring the full tithe into the storehouse, so that there may be food in My house. Test Me in this," says the LORD of Hosts. "See if I will not open the windows of heaven and pour out for you blessing without measure. 
@@ -38935,7 +38935,7 @@ source: https://berean.bible/
 
 **v27** As Jesus went on from there, two blind men followed Him, crying out, "Have mercy on us, Son of David!"
 
-**v28** After Jesus had entered the house, the blind men came to Him. "Do you believe that I am able to do this?" He asked."Yes, Lord," they answered.
+**v28** After Jesus had entered the house, the blind men came to Him. "Do you believe that I am able to do this?" He asked." Yes, Lord," they answered.
 
 **v29** Then He touched their eyes and said, "According to your faith will it be done to you."
 **v30** And their eyes were opened. Jesus warned them sternly, "See that no one finds out about this!"
@@ -39375,7 +39375,7 @@ source: https://berean.bible/
 
 **v33** The disciples replied, "Where in this desolate place could we find enough bread to feed such a large crowd?"
 
-**v34** "How many loaves do you have?" Jesus asked."Seven," they replied, "and a few small fish."
+**v34** "How many loaves do you have?" Jesus asked." Seven," they replied, "and a few small fish."
 
 **v35** And He instructed the crowd to sit down on the ground.
 **v36** Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people.
@@ -39483,7 +39483,7 @@ source: https://berean.bible/
 
 **v25** "Yes," he answered.When Peter entered the house, Jesus preempted him. "What do you think, Simon?" He asked. "From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?"
 
-**v26** "From others," Peter answered."Then the sons are exempt," Jesus said to him.
+**v26** "From others," Peter answered." Then the sons are exempt," Jesus said to him.
 **v27** "But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for My tax and yours."
 
 ### Chapter 18
@@ -39692,7 +39692,7 @@ source: https://berean.bible/
 **v14** The blind and the lame came to Him at the temple, and He healed them.
 **v15** But the chief priests and scribes were indignant when they saw the wonders He performed and the children shouting in the temple courts, "Hosanna to the Son of David!"
 
-**v16** "Do You hear what these children are saying?" they asked."Yes," Jesus answered. "Have you never read:'From the mouths of children and infantsYou have ordained praise'?"
+**v16** "Do You hear what these children are saying?" they asked." Yes," Jesus answered. "Have you never read:'From the mouths of children and infantsYou have ordained praise'?"
 
 **v17** Then He left them and went out of the city to Bethany, where He spent the night.
 #### The Barren Fig Tree
@@ -39709,9 +39709,9 @@ source: https://berean.bible/
 **v23** When Jesus returned to the temple courts and began to teach, the chief priests and elders of the people came up to Him. "By what authority are You doing these things?" they asked. "And who gave You this authority?"
 
 **v24** "I will also ask you one question," Jesus replied, "and if you answer Me, I will tell you by what authority I am doing these things.
-**v25** What was the source of John's baptism? Was it from heaven or from men?"They deliberated among themselves and said, "If we say, 'From heaven,' He will ask, 'Why then did you not believe him?'
+**v25** What was the source of John's baptism? Was it from heaven or from men?" They deliberated among themselves and said, "If we say, 'From heaven,' He will ask, 'Why then did you not believe him?'
 **v26** But if we say, 'From men,' we are afraid of the people, for they all regard John as a prophet."
-**v27** So they answered, "We do not know."And Jesus replied, "Neither will I tell you by what authority I am doing these things.
+**v27** So they answered, "We do not know." And Jesus replied, "Neither will I tell you by what authority I am doing these things.
 #### The Parable of the Two Sons
 
 **v28** But what do you think? There was a man who had two sons. He went to the first one and said, 'Son, go and work today in the vineyard.'
@@ -39779,7 +39779,7 @@ source: https://berean.bible/
 **v17** So tell us what You think: Is it lawful to pay taxes to Caesar or not?"
 
 **v18** But Jesus knew their evil intent and said, "You hypocrites, why are you testing Me?
-**v19** Show Me the coin used for the tax."And they brought Him a denarius. 
+**v19** Show Me the coin used for the tax." And they brought Him a denarius. 
 
 **v20** "Whose image is this," He asked, "and whose inscription?"
 
@@ -39818,7 +39818,7 @@ source: https://berean.bible/
 
 **v43** Jesus said to them, "How then does David in the Spirit call Him 'Lord'? For he says:
 
-**v44** 'The Lord said to my Lord,"Sit at My right handuntil I put Your enemiesunder Your feet."'
+**v44** 'The Lord said to my Lord," Sit at My right handuntil I put Your enemiesunder Your feet."'
 
 **v45** So if David calls Him 'Lord,' how can He be David's son?"
 
@@ -40072,7 +40072,7 @@ source: https://berean.bible/
 **v23** Jesus answered, "The one who has dipped his hand into the bowl with Me will betray Me.
 **v24** The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed. It would be better for him if he had not been born."
 
-**v25** Then Judas, who would betray Him, said, "Surely not I, Rabbi?"Jesus answered, "You have said it yourself."
+**v25** Then Judas, who would betray Him, said, "Surely not I, Rabbi?" Jesus answered, "You have said it yourself."
 
 **v26** While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, "Take and eat; this is My body."
 
@@ -40125,7 +40125,7 @@ source: https://berean.bible/
 **v54** But how then would the Scriptures be fulfilled that say it must happen this way?"
 
 **v55** At that time Jesus said to the crowd, "Have you come out with swords and clubs to arrest Me as you would an outlaw? Every day I sat teaching in the temple courts, and you did not arrest Me.
-**v56** But this has all happened so that the writings of the prophets would be fulfilled."Then all the disciples deserted Him and fled.
+**v56** But this has all happened so that the writings of the prophets would be fulfilled." Then all the disciples deserted Him and fled.
 #### Jesus before the Sanhedrin
 
 **v57** Those who had arrested Jesus led Him away to the house of Caiaphas the high priest, where the scribes and elders had gathered.
@@ -40158,7 +40158,7 @@ source: https://berean.bible/
 
 **v73** After a little while, those standing nearby came up to Peter. "Surely you are one of them," they said, "for your accent gives you away."
 
-**v74** At that he began to curse and swear to them, "I do not know the man!"And immediately a rooster crowed.
+**v74** At that he began to curse and swear to them, "I do not know the man!" And immediately a rooster crowed.
 
 **v75** Then Peter remembered the word that Jesus had spoken: "Before the rooster crows, you will deny Me three times." And he went outside and wept bitterly.
 
@@ -40170,7 +40170,7 @@ source: https://berean.bible/
 #### Judas Hangs Himself
 
 **v3** When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders.
-**v4** "I have sinned by betraying innocent blood," he said."What is that to us?" they replied. "You bear the responsibility."
+**v4** "I have sinned by betraying innocent blood," he said." What is that to us?" they replied. "You bear the responsibility."
 
 **v5** So Judas threw the silver into the temple and left. Then he went away and hanged himself.
 
@@ -40199,11 +40199,11 @@ source: https://berean.bible/
 
 **v20** But the chief priests and elders persuaded the crowds to ask for Barabbas and to have Jesus put to death.
 
-**v21** "Which of the two do you want me to release to you?" asked the governor."Barabbas," they replied.
+**v21** "Which of the two do you want me to release to you?" asked the governor." Barabbas," they replied.
 
 **v22** "What then should I do with Jesus who is called Christ?" Pilate asked.They all answered, "Crucify Him!"
 
-**v23** "Why?" asked Pilate. "What evil has He done?"But they shouted all the louder, "Crucify Him!"
+**v23** "Why?" asked Pilate. "What evil has He done?" But they shouted all the louder, "Crucify Him!"
 #### Pilate Washes His Hands
 
 **v24** When Pilate saw that he was accomplishing nothing, but that instead a riot was breaking out, he took water and washed his hands before the crowd. "I am innocent of this man's blood, " he said. "You bear the responsibility."
@@ -40444,7 +40444,7 @@ source: https://berean.bible/
 **v2** In order to accuse Jesus, they were watching to see if He would heal on the Sabbath.
 
 **v3** Then Jesus said to the man with the withered hand, "Stand up among us."
-**v4** And He asked them, "Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?"But they were silent.
+**v4** And He asked them, "Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?" But they were silent.
 
 **v5** Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, "Stretch out your hand." So he stretched it out, and it was restored.
 
@@ -40582,7 +40582,7 @@ source: https://berean.bible/
 **v7** And he shouted in a loud voice, "What do You want with me, Jesus, Son of the Most High God? I beg You before God not to torture me!"
 **v8** For Jesus had already declared, "Come out of this man, you unclean spirit!"
 
-**v9** "What is your name?" Jesus asked."My name is Legion," he replied, "for we are many."
+**v9** "What is your name?" Jesus asked." My name is Legion," he replied, "for we are many."
 **v10** And he begged Jesus repeatedly not to send them out of that region.
 
 **v11** There on the nearby hillside a large herd of pigs was feeding.
@@ -40672,7 +40672,7 @@ source: https://berean.bible/
 **v22** When the daughter of Herodias came and danced, she pleased Herod and his guests, and the king said to the girl, "Ask me for whatever you wish, and I will give it to you."
 **v23** And he swore to her, "Whatever you ask of me, I will give you, up to half my kingdom!"
 
-**v24** Then she went out and asked her mother, "What should I request?"And her mother answered, "The head of John the Baptist."
+**v24** Then she went out and asked her mother, "What should I request?" And her mother answered, "The head of John the Baptist."
 
 **v25** At once the girl hurried back to the king with her request: "I want you to give me the head of John the Baptist on a platter immediately."
 
@@ -40693,7 +40693,7 @@ source: https://berean.bible/
 **v35** By now the hour was already late. So the disciples came to Jesus and said, "This is a desolate place, and the hour is already late.
 **v36** Dismiss the crowd so they can go to the surrounding countryside and villages and buy themselves something to eat."
 
-**v37** But Jesus told them, "You give them something to eat."They asked Him, "Should we go out and spend two hundred denarii to give all of them bread to eat?"
+**v37** But Jesus told them, "You give them something to eat." They asked Him, "Should we go out and spend two hundred denarii to give all of them bread to eat?"
 
 **v38** "Go and see how many loaves you have," He told them.And after checking, they said, "Five—and two fish."
 
@@ -40791,7 +40791,7 @@ source: https://berean.bible/
 
 **v4** His disciples replied, "Where in this desolate place could anyone find enough bread to feed all these people?"
 
-**v5** "How many loaves do you have?" Jesus asked."Seven," they replied.
+**v5** "How many loaves do you have?" Jesus asked." Seven," they replied.
 
 **v6** And He instructed the crowd to sit down on the ground. Then He took the seven loaves, gave thanks and broke them, and gave them to His disciples to set before the people. And they distributed them to the crowd.
 **v7** They also had a few small fish, and Jesus blessed them and ordered that these be set before them as well.
@@ -40834,7 +40834,7 @@ source: https://berean.bible/
 
 **v28** They replied, "Some say John the Baptist; others say Elijah; and still others, one of the prophets."
 
-**v29** "But what about you?" Jesus asked. "Who do you say I am?"Peter answered, "You are the Christ."
+**v29** "But what about you?" Jesus asked. "Who do you say I am?" Peter answered, "You are the Christ."
 
 **v30** And Jesus warned them not to tell anyone about Him.
 #### Christ's Passion Foretold
@@ -41005,7 +41005,7 @@ source: https://berean.bible/
 
 **v38** "You do not know what you are asking," Jesus replied. "Can you drink the cup I will drink, or be baptized with the baptism I will undergo?"
 
-**v39** "We can," the brothers answered."You will drink the cup that I drink," Jesus said, "and you will be baptized with the baptism that I undergo.
+**v39** "We can," the brothers answered." You will drink the cup that I drink," Jesus said, "and you will be baptized with the baptism that I undergo.
 **v40** But to sit at My right or left is not Mine to grant. These seats belong to those for whom they have been prepared."
 
 **v41** When the ten heard about this, they became indignant with James and John.
@@ -41020,11 +41020,11 @@ source: https://berean.bible/
 
 **v48** Many people admonished him to be silent, but he cried out all the louder, "Son of David, have mercy on me!"
 
-**v49** Jesus stopped and said, "Call him."So they called the blind man. "Take courage!" they said. "Get up! He is calling for you."
+**v49** Jesus stopped and said, "Call him." So they called the blind man. "Take courage!" they said. "Get up! He is calling for you."
 
 **v50** Throwing off his cloak, Bartimaeus jumped up and came to Jesus.
 
-**v51** "What do you want Me to do for you?" Jesus asked."Rabboni," said the blind man, "let me see again."
+**v51** "What do you want Me to do for you?" Jesus asked." Rabboni," said the blind man, "let me see again."
 
 **v52** "Go," said Jesus, "your faith has healed you." And immediately he received his sight and followed Jesus along the road.
 
@@ -41081,7 +41081,7 @@ source: https://berean.bible/
 
 **v31** They deliberated among themselves what they should answer: "If we say, 'From heaven,' He will ask, 'Why then did you not believe him?'
 **v32** But if we say, 'From men'..." they were afraid of the people, for they all held that John truly was a prophet.
-**v33** So they answered, "We do not know."And Jesus replied, "Neither will I tell you by what authority I am doing these things."
+**v33** So they answered, "We do not know." And Jesus replied, "Neither will I tell you by what authority I am doing these things."
 
 ### Chapter 12
 
@@ -41113,7 +41113,7 @@ source: https://berean.bible/
 **v15** But Jesus saw through their hypocrisy and said, "Why are you testing Me? Bring Me a denarius to inspect."
 **v16** So they brought it, and He asked them, "Whose image is this? And whose inscription?""Caesar's," they answered.
 
-**v17** Then Jesus told them, "Give to Caesar what is Caesar's, and to God what is God's."And they marveled at Him.
+**v17** Then Jesus told them, "Give to Caesar what is Caesar's, and to God what is God's." And they marveled at Him.
 #### The Sadducees and the Resurrection
 
 **v18** Then the Sadducees, who say there is no resurrection, came to Jesus and questioned Him:
@@ -41139,13 +41139,13 @@ source: https://berean.bible/
 **v32** "Right, Teacher," the scribe replied. "You have stated correctly that God is One and there is no other but Him,
 **v33** and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices."
 
-**v34** When Jesus saw that the man had answered wisely, He said, "You are not far from the kingdom of God."And no one dared to question Him any further.
+**v34** When Jesus saw that the man had answered wisely, He said, "You are not far from the kingdom of God." And no one dared to question Him any further.
 #### Whose Son Is the Christ?
 
 **v35** While Jesus was teaching in the temple courts, He asked, "How can the scribes say that the Christ is the Son of David?
-**v36** Speaking by the Holy Spirit, David himself declared:'The Lord said to my Lord,"Sit at My right handuntil I put Your enemiesunder Your feet."'
+**v36** Speaking by the Holy Spirit, David himself declared:'The Lord said to my Lord," Sit at My right handuntil I put Your enemiesunder Your feet."'
 
-**v37** David himself calls Him 'Lord.' So how can He be David's son?"And the large crowd listened to Him with delight.
+**v37** David himself calls Him 'Lord.' So how can He be David's son?" And the large crowd listened to Him with delight.
 #### Beware of the Scribes
 
 **v38** In His teaching Jesus also said, "Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces,
@@ -41328,7 +41328,7 @@ source: https://berean.bible/
 **v62** "I am," said Jesus, "and you will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven."
 
 **v63** At this, the high priest tore his clothes and declared, "Why do we need any more witnesses?
-**v64** You have heard the blasphemy. What is your verdict?"And they all condemned Him as deserving of death.
+**v64** You have heard the blasphemy. What is your verdict?" And they all condemned Him as deserving of death.
 
 **v65** Then some of them began to spit on Him. They blindfolded Him, struck Him with their fists, and said to Him, "Prophesy!" And the officers received Him with slaps in His face.
 #### Peter Denies Jesus
@@ -41373,7 +41373,7 @@ source: https://berean.bible/
 
 **v13** And they shouted back, "Crucify Him!"
 
-**v14** "Why?" asked Pilate. "What evil has He done?"But they shouted all the louder, "Crucify Him!"
+**v14** "Why?" asked Pilate. "What evil has He done?" But they shouted all the louder, "Crucify Him!"
 
 **v15** And wishing to satisfy the crowd, Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified.
 #### The Soldiers Mock Jesus
@@ -41817,7 +41817,7 @@ source: https://berean.bible/
 
 **v8** When Simon Peter saw this, he fell at Jesus' knees. "Go away from me, Lord," he said, "for I am a sinful man."
 **v9** For he and his companions were astonished at the catch of fish they had taken,
-**v10** and so were his partners James and John, the sons of Zebedee."Do not be afraid," Jesus said to Simon. "From now on you will catch men."
+**v10** and so were his partners James and John, the sons of Zebedee." Do not be afraid," Jesus said to Simon. "From now on you will catch men."
 **v11** And when they had brought their boats ashore, they left everything and followed Him.
 #### The Leper's Prayer
 
@@ -42020,7 +42020,7 @@ source: https://berean.bible/
 **v41** "Two men were debtors to a certain moneylender. One owed him five hundred denarii, and the other fifty.
 **v42** When they were unable to repay him, he forgave both of them. Which one, then, will love him more?"
 
-**v43** "I suppose the one who was forgiven more," Simon replied."You have judged correctly," Jesus said.
+**v43** "I suppose the one who was forgiven more," Simon replied." You have judged correctly," Jesus said.
 
 **v44** And turning toward the woman, He said to Simon, "Do you see this woman? When I entered your house, you did not give Me water for My feet, but she wet My feet with her tears and wiped them with her hair.
 **v45** You did not greet Me with a kiss, but she has not stopped kissing My feet since I arrived.
@@ -42048,7 +42048,7 @@ source: https://berean.bible/
 
 **v7** Other seed fell among thorns, which grew up with it and choked the seedlings.
 
-**v8** Still other seed fell on good soil, where it sprang up and produced a crop—a hundredfold."As Jesus said this, He called out, "He who has ears to hear, let him hear."
+**v8** Still other seed fell on good soil, where it sprang up and produced a crop—a hundredfold." As Jesus said this, He called out, "He who has ears to hear, let him hear."
 
 **v9** Then His disciples asked Him what this parable meant.
 
@@ -42079,7 +42079,7 @@ source: https://berean.bible/
 **v22** One day Jesus said to His disciples, "Let us cross to the other side of the lake." So He got into a boat with them and set out.
 
 **v23** As they sailed, He fell asleep, and a windstorm came down on the lake, so that the boat was being swamped, and they were in great danger.
-**v24** The disciples went and woke Him, saying, "Master, Master, we are perishing!"Then Jesus got up and rebuked the wind and the raging waters, and they subsided, and all was calm.
+**v24** The disciples went and woke Him, saying, "Master, Master, we are perishing!" Then Jesus got up and rebuked the wind and the raging waters, and they subsided, and all was calm.
 **v25** "Where is your faith?" He asked.Frightened and amazed, they asked one another, "Who is this? He commands even the winds and the water, and they obey Him!"
 #### The Demons and the Pigs
 
@@ -42089,7 +42089,7 @@ source: https://berean.bible/
 **v28** When the man saw Jesus, he cried out and fell down before Him, shouting in a loud voice, "What do You want with me, Jesus, Son of the Most High God? I beg You not to torture me!"
 **v29** For Jesus had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was bound with chains and shackles, he had broken the chains and been driven by the demon into solitary places.
 
-**v30** "What is your name?" Jesus asked."Legion," he replied, because many demons had gone into him.
+**v30** "What is your name?" Jesus asked." Legion," he replied, because many demons had gone into him.
 **v31** And the demons kept begging Jesus not to order them to go into the Abyss.
 
 **v32** There on the hillside a large herd of pigs was feeding. So the demons begged Jesus to let them enter the pigs, and He gave them permission.
@@ -42168,7 +42168,7 @@ source: https://berean.bible/
 
 **v19** They replied, "Some say John the Baptist; others say Elijah; and still others, that a prophet of old has arisen."
 
-**v20** "But what about you?" Jesus asked. "Who do you say I am?"Peter answered, "The Christ of God."
+**v20** "But what about you?" Jesus asked. "Who do you say I am?" Peter answered, "The Christ of God."
 #### Christ's Passion Foretold
 
 **v21** Jesus strictly warned them not to tell this to anyone.
@@ -42235,7 +42235,7 @@ source: https://berean.bible/
 
 **v58** Jesus replied, "Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head."
 
-**v59** Then He said to another man, "Follow Me."The man replied, "Lord, first let me go and bury my father."
+**v59** Then He said to another man, "Follow Me." The man replied, "Lord, first let me go and bury my father."
 
 **v60** But Jesus told him, "Let the dead bury their own dead. You, however, go and proclaim the kingdom of God."
 
@@ -42547,7 +42547,7 @@ source: https://berean.bible/
 #### The Narrow Door
 
 **v22** Then Jesus traveled throughout the towns and villages, teaching as He made His way toward Jerusalem.
-**v23** "Lord," someone asked Him, "will only a few people be saved?"Jesus answered,
+**v23** "Lord," someone asked Him, "will only a few people be saved?" Jesus answered,
 **v24** "Make every effort to enter through the narrow door. For many, I tell you, will try to enter and will not be able.
 **v25** After the master of the house gets up and shuts the door, you will stand outside knocking and saying, 'Lord, open the door for us.'But he will reply, 'I do not know where you are from.'
 
@@ -42981,7 +42981,7 @@ source: https://berean.bible/
 
 **v14** But when the tenants saw the son, they discussed it among themselves and said, 'This is the heir. Let us kill him, and the inheritance will be ours.'
 **v15** So they threw him out of the vineyard and killed him.What then will the owner of the vineyard do to them?
-**v16** He will come and kill those tenants and give the vineyard to others."And when the people heard this, they said, "May such a thing never happen!"
+**v16** He will come and kill those tenants and give the vineyard to others." And when the people heard this, they said, "May such a thing never happen!"
 
 **v17** But Jesus looked directly at them and said, "Then what is the meaning of that which is written:'The stone the builders rejectedhas become the cornerstone'?
 
@@ -43022,7 +43022,7 @@ source: https://berean.bible/
 #### Whose Son Is the Christ?
 
 **v41** Then Jesus declared, "How can it be said that the Christ is the Son of David?
-**v42** For David himself says in the book of Psalms:'The Lord said to my Lord,"Sit at My right hand
+**v42** For David himself says in the book of Psalms:'The Lord said to my Lord," Sit at My right hand
 **v43** until I make Your enemiesa footstool for Your feet."'
 
 **v44** Thus David calls Him 'Lord.' So how can He be David's son?"
@@ -43192,7 +43192,7 @@ source: https://berean.bible/
 
 **v57** But Peter denied it. "Woman, I do not know Him," he said.
 
-**v58** A short time later, someone else saw him and said, "You also are one of them."But Peter said, "Man, I am not."
+**v58** A short time later, someone else saw him and said, "You also are one of them." But Peter said, "Man, I am not."
 
 **v59** About an hour later, another man insisted, "Certainly this man was with Him, for he too is a Galilean."
 
@@ -43207,11 +43207,11 @@ source: https://berean.bible/
 #### Jesus before the Sanhedrin
 
 **v66** At daybreak the council of the elders of the people, both the chief priests and scribes, met together. They led Jesus into their Sanhedrin and said,
-**v67** "If You are the Christ, tell us."Jesus answered, "If I tell you, you will not believe.
+**v67** "If You are the Christ, tell us." Jesus answered, "If I tell you, you will not believe.
 **v68** And if I ask you a question, you will not answer.
 **v69** But from now on the Son of Man will be seated at the right hand of the power of God."
 
-**v70** So they all asked, "Are You then the Son of God?"He replied, "You say that I am."
+**v70** So they all asked, "Are You then the Son of God?" He replied, "You say that I am."
 
 **v71** "Why do we need any more testimony?" they declared. "We have heard it for ourselves from His own lips."
 
@@ -43333,10 +43333,10 @@ source: https://berean.bible/
 **v15** And as they talked and deliberated, Jesus Himself came up and walked along with them.
 **v16** But their eyes were kept from recognizing Him.
 
-**v17** He asked them, "What are you discussing so intently as you walk along?"They stood still, with sadness on their faces.
+**v17** He asked them, "What are you discussing so intently as you walk along?" They stood still, with sadness on their faces.
 **v18** One of them, named Cleopas, asked Him, "Are You the only visitor to Jerusalem who does not know the things that have happened there in recent days?"
 
-**v19** "What things?" He asked."The events involving Jesus of Nazareth," they answered. "This man was a prophet, powerful in speech and action before God and all the people.
+**v19** "What things?" He asked." The events involving Jesus of Nazareth," they answered. "This man was a prophet, powerful in speech and action before God and all the people.
 **v20** Our chief priests and rulers delivered Him up to the sentence of death, and they crucified Him.
 **v21** But we were hoping He was the One who would redeem Israel. And besides all this, it is the third day since these things took place.
 
@@ -43349,7 +43349,7 @@ source: https://berean.bible/
 **v27** And beginning with Moses and all the Prophets, He explained to them what was written in all the Scriptures about Himself.
 
 **v28** As they approached the village where they were headed, He seemed to be going farther.
-**v29** But they pleaded with Him, "Stay with us, for it is nearly evening and the day is almost over."So He went in to stay with them.
+**v29** But they pleaded with Him, "Stay with us, for it is nearly evening and the day is almost over." So He went in to stay with them.
 **v30** While He was reclining at the table with them, He took bread, spoke a blessing and broke it, and gave it to them.
 **v31** Then their eyes were opened and they recognized Jesus—and He disappeared from their sight.
 
@@ -43421,7 +43421,7 @@ source: https://berean.bible/
 **v19** And this was John's testimony when the Jews of Jerusalem sent priests and Levites to ask him, "Who are you?"
 **v20** He did not refuse to confess, but openly declared, "I am not the Christ."
 
-**v21** "Then who are you?" they inquired. "Are you Elijah?"He said, "I am not.""Are you the Prophet?"He answered, "No."
+**v21** "Then who are you?" they inquired. "Are you Elijah?" He said, "I am not.""Are you the Prophet?" He answered, "No."
 
 **v22** So they said to him, "Who are you? We need an answer for those who sent us. What do you say about yourself?"
 
@@ -43464,7 +43464,7 @@ source: https://berean.bible/
 
 **v45** Philip found Nathanael and told him, "We have found the One Moses wrote about in the Law, the One the prophets foretold—Jesus of Nazareth, the son of Joseph."
 
-**v46** "Can anything good come from Nazareth?" Nathanael asked."Come and see," said Philip.
+**v46** "Can anything good come from Nazareth?" Nathanael asked." Come and see," said Philip.
 
 **v47** When Jesus saw Nathanael approaching, He said of him, "Here is a true Israelite, in whom there is no deceit."
 
@@ -43487,9 +43487,9 @@ source: https://berean.bible/
 **v5** His mother said to the servants, "Do whatever He tells you."
 
 **v6** Now six stone water jars had been set there for the Jewish rites of purification. Each could hold from twenty to thirty gallons. 
-**v7** Jesus told the servants, "Fill the jars with water."So they filled them to the brim.
+**v7** Jesus told the servants, "Fill the jars with water." So they filled them to the brim.
 
-**v8** "Now draw some out," He said, "and take it to the master of the banquet."They did so,
+**v8** "Now draw some out," He said, "and take it to the master of the banquet." They did so,
 **v9** and the master of the banquet tasted the water that had been turned into wine. He did not know where it was from, but the servants who had drawn the water knew. Then he called the bridegroom aside
 **v10** and said, "Everyone serves the fine wine first, and then the cheap wine after the guests are drunk. But you have saved the fine wine until now!"
 
@@ -43655,7 +43655,7 @@ source: https://berean.bible/
 
 **v49** "Sir," the official said, "come down before my child dies."
 
-**v50** "Go," said Jesus. "Your son will live."The man took Jesus at His word and departed.
+**v50** "Go," said Jesus. "Your son will live." The man took Jesus at His word and departed.
 **v51** And while he was still on the way, his servants met him with the news that his boy was alive.
 
 **v52** So he inquired as to the hour when his son had recovered, and they told him, "The fever left him yesterday at the seventh hour. "
@@ -43873,7 +43873,7 @@ source: https://berean.bible/
 
 **v11** So the Jews were looking for Him at the feast and asking, "Where is He?"
 
-**v12** Many in the crowds were whispering about Him. Some said, "He is a good man."But others replied, "No, He deceives the people."
+**v12** Many in the crowds were whispering about Him. Some said, "He is a good man." But others replied, "No, He deceives the people."
 
 **v13** Yet no one would speak publicly about Him for fear of the Jews.
 
@@ -43918,7 +43918,7 @@ source: https://berean.bible/
 
 **v40** On hearing these words, some of the people said, "This is truly the Prophet."
 
-**v41** Others declared, "This is the Christ."But still others asked, "How can the Christ come from Galilee?
+**v41** Others declared, "This is the Christ." But still others asked, "How can the Christ come from Galilee?
 **v42** Doesn't the Scripture say that the Christ will come from the line of David and from Bethlehem, the village where David lived? "
 
 **v43** So there was division in the crowd because of Jesus.
@@ -43958,7 +43958,7 @@ source: https://berean.bible/
 **v9** When they heard this, they began to go away one by one, beginning with the older ones, until only Jesus was left, with the woman standing there.
 **v10** Then Jesus straightened up and asked her, "Woman, where are your accusers? Has no one condemned you?"
 
-**v11** "No one, Lord," she answered."Then neither do I condemn you," Jesus declared. "Now go and sin no more."
+**v11** "No one, Lord," she answered." Then neither do I condemn you," Jesus declared. "Now go and sin no more."
 #### Jesus the Light of the World
 
 **v12** Once again, Jesus spoke to the people and said, "I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life."
@@ -43971,7 +43971,7 @@ source: https://berean.bible/
 **v17** Even in your own Law it is written that the testimony of two men is valid. 
 **v18** I am One who testifies about Myself, and the Father, who sent Me, also testifies about Me."
 
-**v19** "Where is Your Father?" they asked Him."You do not know Me or My Father," Jesus answered. "If you knew Me, you would know My Father as well."
+**v19** "Where is Your Father?" they asked Him." You do not know Me or My Father," Jesus answered. "If you knew Me, you would know My Father as well."
 
 **v20** He spoke these words while teaching in the temple courts, near the treasury. Yet no one seized Him, because His hour had not yet come.
 
@@ -43982,7 +43982,7 @@ source: https://berean.bible/
 **v23** Then He told them, "You are from below; I am from above. You are of this world; I am not of this world.
 **v24** That is why I told you that you would die in your sins. For unless you believe that I am He, you will die in your sins."
 
-**v25** "Who are You?" they asked."Just what I have been telling you from the beginning," Jesus replied.
+**v25** "Who are You?" they asked." Just what I have been telling you from the beginning," Jesus replied.
 **v26** "I have much to say about you and much to judge. But the One who sent Me is truthful, and what I have heard from Him, I tell the world."
 
 **v27** They did not understand that He was telling them about the Father.
@@ -44003,7 +44003,7 @@ source: https://berean.bible/
 **v37** I know you are Abraham's descendants, but you are trying to kill Me because My word has no place within you.
 **v38** I speak of what I have seen in the presence of the Father, and you do what you have heard from your father."
 
-**v39** "Abraham is our father," they replied."If you were children of Abraham," said Jesus, "you would do the works of Abraham.
+**v39** "Abraham is our father," they replied." If you were children of Abraham," said Jesus, "you would do the works of Abraham.
 **v40** But now you are trying to kill Me, a man who has told you the truth that I heard from God. Abraham never did such a thing.
 **v41** You are doing the works of your father.""We are not illegitimate children," they declared. "Our only Father is God Himself."
 
@@ -44051,20 +44051,20 @@ source: https://berean.bible/
 
 **v8** At this, his neighbors and those who had formerly seen him begging began to ask, "Isn't this the man who used to sit and beg?"
 
-**v9** Some claimed that he was, but others said, "No, he just looks like him."But the man kept saying, "I am the one."
+**v9** Some claimed that he was, but others said, "No, he just looks like him." But the man kept saying, "I am the one."
 
 **v10** "How then were your eyes opened?" they asked.
 
 **v11** He answered, "The man they call Jesus made some mud and anointed my eyes, and He told me to go to Siloam and wash. So I went and washed and received my sight."
 
-**v12** "Where is He?" they asked."I do not know," he answered.
+**v12** "Where is He?" they asked." I do not know," he answered.
 #### The Pharisees Investigate the Healing
 
 **v13** They brought to the Pharisees the man who had been blind.
 **v14** Now the day on which Jesus had made the mud and opened his eyes was a Sabbath.
 **v15** So the Pharisees also asked him how he had received his sight.The man answered, "He put mud on my eyes, and I washed, and now I can see."
 
-**v16** Because of this, some of the Pharisees said, "This man is not from God, for He does not keep the Sabbath."But others said, "How can a sinful man perform such signs?"And there was division among them.
+**v16** Because of this, some of the Pharisees said, "This man is not from God, for He does not keep the Sabbath." But others said, "How can a sinful man perform such signs?" And there was division among them.
 **v17** So once again they asked the man who had been blind, "What do you say about Him, since it was your eyes He opened?""He is a prophet," the man replied.
 
 **v18** The Jews still did not believe that the man had been blind and had received his sight until they summoned his parents
@@ -44226,7 +44226,7 @@ source: https://berean.bible/
 **v32** When Mary came to Jesus and saw Him, she fell at His feet and said, "Lord, if You had been here, my brother would not have died."
 
 **v33** When Jesus saw her weeping, and the Jews who had come with her also weeping, He was deeply moved in spirit and troubled.
-**v34** "Where have you put him?" He asked."Come and see, Lord," they answered.
+**v34** "Where have you put him?" He asked." Come and see, Lord," they answered.
 
 **v35** Jesus wept.
 
@@ -44236,7 +44236,7 @@ source: https://berean.bible/
 #### Jesus Raises Lazarus
 
 **v38** Jesus, once again deeply moved, came to the tomb. It was a cave with a stone laid across the entrance.
-**v39** "Take away the stone," Jesus said."Lord, by now he stinks," said Martha, the sister of the dead man. "It has already been four days."
+**v39** "Take away the stone," Jesus said." Lord, by now he stinks," said Martha, the sister of the dead man. "It has already been four days."
 
 **v40** Jesus replied, "Did I not tell you that if you believed, you would see the glory of God?"
 
@@ -44312,7 +44312,7 @@ source: https://berean.bible/
 **v26** If anyone serves Me, he must follow Me; and where I am, My servant will be as well. If anyone serves Me, the Father will honor him.
 
 **v27** Now My soul is troubled, and what shall I say? 'Father, save Me from this hour'? No, it is for this purpose that I have come to this hour.
-**v28** Father, glorify Your name!"Then a voice came from heaven: "I have glorified it, and I will glorify it again."
+**v28** Father, glorify Your name!" Then a voice came from heaven: "I have glorified it, and I will glorify it again."
 
 **v29** The crowd standing there heard it and said that it had thundered. Others said that an angel had spoken to Him.
 
@@ -44324,7 +44324,7 @@ source: https://berean.bible/
 **v34** The crowd replied, "We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?"
 
 **v35** Then Jesus told them, "For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you. The one who walks in the darkness does not know where he is going.
-**v36** While you have the Light, believe in the Light, so that you may become sons of light."After Jesus had spoken these things, He went away and was hidden from them.
+**v36** While you have the Light, believe in the Light, so that you may become sons of light." After Jesus had spoken these things, He went away and was hidden from them.
 #### Belief and Unbelief
 
 **v37** Although Jesus had performed so many signs in their presence, they still did not believe in Him.
@@ -44600,7 +44600,7 @@ source: https://berean.bible/
 
 **v4** Jesus, knowing all that was coming upon Him, stepped forward and asked them, "Whom are you seeking?"
 
-**v5** "Jesus of Nazareth," they answered.Jesus said, "I am He."And Judas His betrayer was standing there with them.
+**v5** "Jesus of Nazareth," they answered.Jesus said, "I am He." And Judas His betrayer was standing there with them.
 **v6** When Jesus said, "I am He," they drew back and fell to the ground.
 
 **v7** So He asked them again, "Whom are you seeking?""Jesus of Nazareth," they answered.
@@ -44637,7 +44637,7 @@ source: https://berean.bible/
 **v24** Then Annas sent Him, still bound, to Caiaphas the high priest.
 #### Peter's Second and Third Denials
 
-**v25** Simon Peter was still standing and warming himself. So they asked him, "Aren't you also one of His disciples?"He denied it and said, "I am not."
+**v25** Simon Peter was still standing and warming himself. So they asked him, "Aren't you also one of His disciples?" He denied it and said, "I am not."
 
 **v26** One of the high priest's servants, a relative of the man whose ear Peter had cut off, asked, "Didn't I see you with Him in the garden?"
 
@@ -44650,7 +44650,7 @@ source: https://berean.bible/
 
 **v30** "If He were not a criminal," they replied, "we would not have handed Him over to you."
 
-**v31** "You take Him and judge Him by your own law," Pilate told them."We are not permitted to execute anyone," the Jews replied.
+**v31** "You take Him and judge Him by your own law," Pilate told them." We are not permitted to execute anyone," the Jews replied.
 **v32** This was to fulfill the word that Jesus had spoken to indicate the kind of death He was going to die. 
 
 **v33** Pilate went back into the Praetorium, summoned Jesus, and asked Him, "Are You the King of the Jews?"
@@ -44661,7 +44661,7 @@ source: https://berean.bible/
 
 **v36** Jesus answered, "My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm."
 
-**v37** "Then You are a king!" Pilate said."You say that I am a king," Jesus answered. "For this reason I was born and have come into the world, to testify to the truth. Everyone who belongs to the truth listens to My voice."
+**v37** "Then You are a king!" Pilate said." You say that I am a king," Jesus answered. "For this reason I was born and have come into the world, to testify to the truth. Everyone who belongs to the truth listens to My voice."
 
 **v38** "What is truth?" Pilate asked.And having said this, he went out again to the Jews and told them, "I find no basis for a charge against Him.
 **v39** But it is your custom that I release to you one prisoner at the Passover. So then, do you want me to release to you the King of the Jews?"
@@ -44694,7 +44694,7 @@ source: https://berean.bible/
 **v13** When Pilate heard these words, he brought Jesus out and sat on the judgment seat at a place called the Stone Pavement, which in Hebrew is Gabbatha.
 **v14** It was the day of Preparation for the Passover, about the sixth hour. And Pilate said to the Jews, "Here is your King!"
 
-**v15** At this, they shouted, "Away with Him! Away with Him! Crucify Him!""Shall I crucify your King?" Pilate asked."We have no king but Caesar," replied the chief priests.
+**v15** At this, they shouted, "Away with Him! Away with Him! Crucify Him!""Shall I crucify your King?" Pilate asked." We have no king but Caesar," replied the chief priests.
 #### The Crucifixion
 
 **v16** Then Pilate handed Jesus over to be crucified, and the soldiers took Him away.
@@ -44760,13 +44760,13 @@ source: https://berean.bible/
 **v11** But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb,
 **v12** and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet.
 
-**v13** "Woman, why are you weeping?" they asked."Because they have taken my Lord away," she said, "and I do not know where they have put Him."
+**v13** "Woman, why are you weeping?" they asked." Because they have taken my Lord away," she said, "and I do not know where they have put Him."
 
 **v14** When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus.
 
-**v15** "Woman, why are you weeping?" Jesus asked. "Whom are you seeking?"Thinking He was the gardener, she said, "Sir, if you have carried Him off, tell me where you have put Him, and I will get Him."
+**v15** "Woman, why are you weeping?" Jesus asked. "Whom are you seeking?" Thinking He was the gardener, she said, "Sir, if you have carried Him off, tell me where you have put Him, and I will get Him."
 
-**v16** Jesus said to her, "Mary."She turned and said to Him in Hebrew, "Rabboni!" (which means "Teacher").
+**v16** Jesus said to her, "Mary." She turned and said to Him in Hebrew, "Rabboni!" (which means "Teacher").
 
 **v17** "Do not cling to Me," Jesus said, "for I have not yet ascended to the Father. But go and tell My brothers, 'I am ascending to My Father and your Father, to My God and your God.'"
 
@@ -44782,7 +44782,7 @@ source: https://berean.bible/
 #### Jesus Appears to Thomas
 
 **v24** Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came.
-**v25** So the other disciples told him, "We have seen the Lord!"But he replied, "Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe."
+**v25** So the other disciples told him, "We have seen the Lord!" But he replied, "Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe."
 
 **v26** Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, "Peace be with you."
 
@@ -44822,11 +44822,11 @@ source: https://berean.bible/
 **v14** This was now the third time that Jesus appeared to the disciples after He was raised from the dead.
 #### Jesus and Peter
 
-**v15** When they had finished eating, Jesus asked Simon Peter, "Simon son of John, do you love Me more than these?""Yes, Lord," he answered, "You know I love You."Jesus replied, "Feed My lambs."
+**v15** When they had finished eating, Jesus asked Simon Peter, "Simon son of John, do you love Me more than these?""Yes, Lord," he answered, "You know I love You." Jesus replied, "Feed My lambs."
 
-**v16** Jesus asked a second time, "Simon son of John, do you love Me?""Yes, Lord," he answered, "You know I love You."Jesus told him, "Shepherd My sheep."
+**v16** Jesus asked a second time, "Simon son of John, do you love Me?""Yes, Lord," he answered, "You know I love You." Jesus told him, "Shepherd My sheep."
 
-**v17** Jesus asked a third time, "Simon son of John, do you love Me?"Peter was deeply hurt that Jesus had asked him a third time, "Do you love Me?""Lord, You know all things," he replied. "You know I love You."Jesus said to him, "Feed My sheep.
+**v17** Jesus asked a third time, "Simon son of John, do you love Me?" Peter was deeply hurt that Jesus had asked him a third time, "Do you love Me?""Lord, You know all things," he replied. "You know I love You." Jesus said to him, "Feed My sheep.
 
 **v18** Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted; but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go."
 **v19** Jesus said this to indicate the kind of death by which Peter would glorify God.And after He had said this, He told him, "Follow Me."
@@ -44934,7 +44934,7 @@ source: https://berean.bible/
 **v32** God has raised this Jesus to life, to which we are all witnesses.
 
 **v33** Exalted, then, to the right hand of God, He has received from the Father the promised Holy Spirit and has poured out what you now see and hear.
-**v34** For David did not ascend into heaven, but he himself says:'The Lord said to my Lord,"Sit at My right hand
+**v34** For David did not ascend into heaven, but he himself says:'The Lord said to my Lord," Sit at My right hand
 **v35** until I make Your enemiesa footstool for Your feet."'
 
 **v36** Therefore let all Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Christ!"
@@ -45317,7 +45317,7 @@ source: https://berean.bible/
 **v3** As Saul drew near to Damascus on his journey, suddenly a light from heaven flashed around him.
 **v4** He fell to the ground and heard a voice say to him, "Saul, Saul, why do you persecute Me?"
 
-**v5** "Who are You, Lord?" Saul asked."I am Jesus, whom you are persecuting," He replied. 
+**v5** "Who are You, Lord?" Saul asked." I am Jesus, whom you are persecuting," He replied. 
 **v6** "Now get up and go into the city, and you will be told what you must do."
 
 **v7** The men traveling with Saul stood there speechless. They heard the voice but did not see anyone.
@@ -45389,7 +45389,7 @@ source: https://berean.bible/
 **v2** He and all his household were devout and God-fearing. He gave generously to the people and prayed to God regularly.
 **v3** One day at about the ninth hour, he had a clear vision of an angel of God who came to him and said, "Cornelius!"
 
-**v4** Cornelius stared at him in fear and asked, "What is it, Lord?"The angel answered, "Your prayers and gifts to the poor have ascended as a memorial offering before God.
+**v4** Cornelius stared at him in fear and asked, "What is it, Lord?" The angel answered, "Your prayers and gifts to the poor have ascended as a memorial offering before God.
 **v5** Now send men to Joppa to call for a man named Simon who is called Peter.
 **v6** He is staying with Simon the tanner, whose house is by the sea. "
 
@@ -45907,7 +45907,7 @@ source: https://berean.bible/
 **v1** While Apollos was at Corinth, Paul passed through the interior and came to Ephesus. There he found some disciples
 **v2** and asked them, "Did you receive the Holy Spirit when you became believers?""No," they answered, "we have not even heard that there is a Holy Spirit."
 
-**v3** "Into what, then, were you baptized?" Paul asked."The baptism of John," they replied.
+**v3** "Into what, then, were you baptized?" Paul asked." The baptism of John," they replied.
 
 **v4** Paul explained: "John's baptism was a baptism of repentance. He told the people to believe in the One coming after him, that is, in Jesus."
 
@@ -46137,7 +46137,7 @@ source: https://berean.bible/
 
 **v27** The commander went to Paul and asked, "Tell me, are you a Roman citizen?""Yes," he answered.
 
-**v28** "I paid a high price for my citizenship," said the commander."But I was born a citizen," Paul replied.
+**v28** "I paid a high price for my citizenship," said the commander." But I was born a citizen," Paul replied.
 
 **v29** At once those who were about to interrogate Paul stepped back, and the commander himself was alarmed when he realized that he had put a Roman citizen in chains.
 
@@ -46294,7 +46294,7 @@ source: https://berean.bible/
 ### Chapter 26
 
 #### Paul's Testimony to Agrippa
-**v1** Agrippa said to Paul, "You have permission to speak for yourself."Then Paul stretched out his hand and began his defense:
+**v1** Agrippa said to Paul, "You have permission to speak for yourself." Then Paul stretched out his hand and began his defense:
 **v2** "King Agrippa, I consider myself fortunate to stand before you today to defend myself against all the accusations of the Jews,
 **v3** especially since you are acquainted with all the Jewish customs and controversies. I beg you, therefore, to listen to me patiently.
 
@@ -46447,7 +46447,7 @@ source: https://berean.bible/
 **v24** Some of them were convinced by what he said, but others refused to believe.
 **v25** They disagreed among themselves and began to leave after Paul had made this final statement: "The Holy Spirit was right when He spoke to your fathers through Isaiah the prophet:
 
-**v26** 'Go to this people and say,"You will be ever hearing but never understanding;you will be ever seeing but never perceiving."
+**v26** 'Go to this people and say," You will be ever hearing but never understanding;you will be ever seeing but never perceiving."
 **v27** For this people's heart has grown callous;they hardly hear with their ears,and they have closed their eyes.Otherwise they might see with their eyes,hear with their ears,understand with their hearts,and turn, and I would heal them.'
 
 **v28** Be advised, therefore, that God's salvation has been sent to the Gentiles, and they will listen!"
@@ -46832,7 +46832,7 @@ source: https://berean.bible/
 **v24** including us, whom He has called not only from the Jews, but also from the Gentiles?
 **v25** As He says in Hosea:"I will call them 'My People' who are not My people,and I will call her 'My Beloved' who is not My beloved,"
 
-**v26** and,"It will happen that in the very place where it was said to them,'You are not My people,'they will be called'sons of the living God.'"
+**v26** and," It will happen that in the very place where it was said to them,'You are not My people,'they will be called'sons of the living God.'"
 
 **v27** Isaiah cries out concerning Israel:"Though the number of the Israelites is like the sand of the sea,only the remnant will be saved.
 **v28** For the Lord will carry out His sentence on the earththoroughly and decisively."
@@ -46969,7 +46969,7 @@ source: https://berean.bible/
 
 **v19** Do not avenge yourselves, beloved, but leave room for God's wrath. For it is written: "Vengeance is Mine; I will repay, says the Lord."
 
-**v20** On the contrary,"If your enemy is hungry, feed him;if he is thirsty, give him a drink.For in so doing,you will heap burning coals on his head."
+**v20** On the contrary," If your enemy is hungry, feed him;if he is thirsty, give him a drink.For in so doing,you will heap burning coals on his head."
 
 **v21** Do not be overcome by evil, but overcome evil with good.
 
@@ -47728,7 +47728,7 @@ source: https://berean.bible/
 **v29** If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?
 **v30** And why do we endanger ourselves every hour?
 **v31** I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord.
-**v32** If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised,"Let us eat and drink,for tomorrow we die."
+**v32** If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised," Let us eat and drink,for tomorrow we die."
 
 **v33** Do not be deceived: "Bad company corrupts good character."
 **v34** Sober up as you ought, and stop sinning; for some of you are ignorant of God. I say this to your shame.
@@ -50040,7 +50040,7 @@ source: https://berean.bible/
 
 **v35** So do not throw away your confidence; it holds a great reward.
 **v36** You need to persevere, so that after you have done the will of God, you will receive what He has promised.
-**v37** For,"In just a little while,He who is coming will come and will not delay.
+**v37** For," In just a little while,He who is coming will come and will not delay.
 **v38** But My righteous one will live by faith; and if he shrinks back,I will take no pleasure in him."
 
 **v39** But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls.
@@ -50425,7 +50425,7 @@ source: https://berean.bible/
 
 **v22** Since you have purified your souls by obedience to the truth so that you have a genuine love for your brothers, love one another deeply, from a pure heart. 
 **v23** For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.
-**v24** For,"All flesh is like grass,and all its glory like the flowers of the field;the grass withers and the flowers fall,
+**v24** For," All flesh is like grass,and all its glory like the flowers of the field;the grass withers and the flowers fall,
 **v25** but the word of the Lord stands forever." And this is the word that was proclaimed to you.
 
 ### Chapter 2
@@ -50439,9 +50439,9 @@ source: https://berean.bible/
 **v5** you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ.
 **v6** For it stands in Scripture:"See, I lay in Zion a stone,a chosen and precious cornerstone;and the one who believes in Himwill never be put to shame."
 
-**v7** To you who believe, then, this stone is precious. But to those who do not believe,"The stone the builders rejectedhas become the cornerstone,"
+**v7** To you who believe, then, this stone is precious. But to those who do not believe," The stone the builders rejectedhas become the cornerstone,"
 
-**v8** and,"A stone of stumblingand a rock of offense." They stumble because they disobey the word—and to this they were appointed.
+**v8** and," A stone of stumblingand a rock of offense." They stumble because they disobey the word—and to this they were appointed.
 
 **v9** But you are a chosen people, a royal priesthood, a holy nation, a people for God's own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light.
 **v10** Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy. 
@@ -50466,7 +50466,7 @@ source: https://berean.bible/
 
 **v22** "He committed no sin,and no deceit was found in His mouth."
 **v23** When they heaped abuse on Him,He did not retaliate;when He suffered, He made no threats,but entrusted Himself to Him who judges justly.
-**v24** He Himself bore our sins in His body on the tree,so that we might die to sinand live to righteousness."By His stripes you are healed."
+**v24** He Himself bore our sins in His body on the tree,so that we might die to sinand live to righteousness." By His stripes you are healed."
 
 **v25** For "you were like sheep going astray," but now you have returned to the Shepherd and Overseer of your souls.
 
@@ -50486,7 +50486,7 @@ source: https://berean.bible/
 
 **v8** Finally, all of you, be like-minded and sympathetic, love as brothers, be tenderhearted and humble.
 **v9** Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing.
-**v10** For,"Whoever would love lifeand see good daysmust keep his tongue from eviland his lips from deceitful speech.
+**v10** For," Whoever would love lifeand see good daysmust keep his tongue from eviland his lips from deceitful speech.
 **v11** He must turn from evil and do good;he must seek peace and pursue it.
 **v12** For the eyes of the Lord are on the righteous,and His ears are inclined to their prayer.But the face of the Lord is againstthose who do evil."
 
@@ -50530,7 +50530,7 @@ source: https://berean.bible/
 **v15** Indeed, none of you should suffer as a murderer or thief or wrongdoer, or even as a meddler.
 **v16** But if you suffer as a Christian, do not be ashamed, but glorify God that you bear that name. 
 **v17** For it is time for judgment to begin with the family of God; and if it begins with us, what will the outcome be for those who disobey the gospel of God?
-**v18** And,"If it is hard for the righteous to be saved,what will become of the ungodly and the sinner?"
+**v18** And," If it is hard for the righteous to be saved,what will become of the ungodly and the sinner?"
 
 **v19** So then, those who suffer according to God's will should entrust their souls to their faithful Creator and continue to do good.
 
@@ -50543,7 +50543,7 @@ source: https://berean.bible/
 **v4** And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.
 #### Cast Your Cares on Him
 
-**v5** Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because,"God opposes the proud,but gives grace to the humble."
+**v5** Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because," God opposes the proud,but gives grace to the humble."
 
 **v6** Humble yourselves, therefore, under God's mighty hand, so that in due time He may exalt you.
 **v7** Cast all your anxiety on Him, because He cares for you.
@@ -51126,7 +51126,7 @@ source: https://berean.bible/
 **v4** Then another horse went forth. It was bright red, and its rider was granted permission to take away peace from the earth and to make men slay one another. And he was given a great sword.
 #### The Third Seal: Famine
 
-**v5** And when the Lamb opened the third seal, I heard the third living creature say, "Come!"Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
+**v5** And when the Lamb opened the third seal, I heard the third living creature say, "Come!" Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
 **v6** And I heard what sounded like a voice from among the four living creatures, saying, "A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine."
 #### The Fourth Seal: Death
 
@@ -51175,7 +51175,7 @@ source: https://berean.bible/
 
 **v13** Then one of the elders addressed me: "These in white robes," he asked, "who are they, and where have they come from?"
 
-**v14** "Sir," I answered, "you know."So he replied, "These are the ones who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb.
+**v14** "Sir," I answered, "you know." So he replied, "These are the ones who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb.
 **v15** For this reason,they are before the throne of Godand serve Him day and night in His temple;and the One seated on the thronewill spread His tabernacle over them.
 **v16** 'Never again will they hunger,and never will they thirst;nor will the sun beat down upon them,nor any scorching heat.'
 **v17** For the Lamb in the center of the thronewill be their shepherd. 'He will lead them to springs of living water,' and 'God will wipe away every tear from their eyes.'"
@@ -51501,7 +51501,7 @@ source: https://berean.bible/
 
 **v15** The merchants who sold these things and gained their wealth from her will stand at a distance, in fear of her torment. They will weep and mourn,
 **v16** saying:"Woe, woe to the great city,clothed in fine linen and purple and scarlet,adorned with gold and precious stones and pearls!
-**v17** For in a single hoursuch fabulous wealth has been destroyed!"Every shipmaster, passenger, and sailor, and all who make their living from the sea, will stand at a distance
+**v17** For in a single hoursuch fabulous wealth has been destroyed!" Every shipmaster, passenger, and sailor, and all who make their living from the sea, will stand at a distance
 **v18** and cry out at the sight of the smoke rising from the fire that consumes her. "What city was ever like this great city?" they will exclaim.
 
 **v19** Then they will throw dust on their heads as they weep and mourn and cry out:"Woe, woe to the great city,where all who had ships on the seawere enriched by her wealth!For in a single hourshe has been destroyed."
@@ -51530,7 +51530,7 @@ source: https://berean.bible/
 
 **v6** And I heard a sound like the roar of a great multitude, like the rushing of many waters, and like a mighty rumbling of thunder, crying out:"Hallelujah!For the Lord our God the Almighty reigns.
 **v7** Let us rejoice and be gladand give Him the glory.For the marriage of the Lamb has come,and His bride has made herself ready.
-**v8** She was given clothing of fine linen,bright and pure."For the fine linen she wears is the righteous acts of the saints.
+**v8** She was given clothing of fine linen,bright and pure." For the fine linen she wears is the righteous acts of the saints.
 
 **v9** Then the angel told me to write, "Blessed are those who are invited to the marriage supper of the Lamb." And he said to me, "These are the true words of God."
 
