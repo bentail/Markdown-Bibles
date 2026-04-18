@@ -15,8 +15,8 @@ A complete copy of the **Berean Standard Bible** — a free, open-source English
 
 | File | Description | Use Case |
 |------|-------------|----------|
-| `bsb.md` | Complete Bible with footnotes and cross-references | Study, research, detailed reading |
-| `bsb-nofootnotes.md` | Clean Bible text only (no footnotes) | Reading, devotional, text-to-speech |
+| `bsb.md` | Clean Bible text only (no footnotes) | Reading, devotional, text-to-speech |
+| `bsb_with_footnotes.md` | Complete Bible with footnotes and cross-references | Study, research, detailed reading |
 
 Both versions include:
 - All 66 books
@@ -31,18 +31,18 @@ Both versions include:
 
 ## How to Use
 
-### For Study & Research
-Use `bsb.md` with footnotes for:
-- "What does BSB say about faith?"
-- "Read Genesis 1:1-5 from BSB"
-- "Explain the footnote on John 3:16"
-
 ### For Reading & Devotional
-Use `bsb-nofootnotes.md` for:
+Use `bsb.md` (no footnotes) for:
 - Clean reading without interruptions
 - Text-to-speech (no footnote markers read aloud)
 - Quick verse lookup
 - Copy-paste clean text
+
+### For Study & Research
+Use `bsb_with_footnotes.md` for:
+- "What does BSB say about faith?"
+- "Read Genesis 1:1-5 from BSB"
+- "Explain the footnote on John 3:16"
 
 ## Attribution
 
