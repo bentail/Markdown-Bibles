@@ -36,9 +36,13 @@ Planned translations:
 ### العربية (Arabic)
 **Folder:** [Arabic/](Arabic/)
 
-Planned translations:
-- NAV — New Arabic Version (الترجمة العربية المبسطة)
-- AV — Arabic Van Dyck (فان دايك)
+| Translation | License | Folder |
+|-------------|---------|--------|
+| 📖 SAB — Kitab Al Shareef (السفر المقدس) | Public domain | [SAB/](Arabic/SAB/) |
+| 📖 NAV — Kitab Al-Hayat (كتاب الحياة) | Copyright Biblica (personal use) | [NAV/](Arabic/NAV/) |
+
+**SAB** (Smith & Van Dyke): Classical Arabic, traditional translation from 1865.
+**NAV** (New Arabic Version): Modern simplified Arabic, easy to understand for contemporary readers.
 
 ---
 
@@ -60,6 +64,8 @@ Place any translation folder in your agent workspace:
 ~/.openclaw/workspace/bibles/English/kjv/kjv.md
 ~/.openclaw/workspace/bibles/English/nkjv/nkjv.md
 ~/.openclaw/workspace/bibles/English/macarthur-esv/macarthur-esv-study-bible.md
+~/.openclaw/workspace/bibles/العربية/SAB/kitab-al-shareef.md
+~/.openclaw/workspace/bibles/العربية/NAV/kitab-al-hayat.md
 ```
 
 Then ask your assistant questions like:
@@ -69,6 +75,8 @@ Then ask your assistant questions like:
 - "Compare how different translations render Romans 3:23"
 - "Read John 3:16 in KJV"
 - "Show me the NKJV version of Psalm 23"
+- "Read Genesis 1 in Arabic (NAV)"
+- "Find John 3:16 in Kitab Al Shareef"
 
 ## Adding More Translations
 
