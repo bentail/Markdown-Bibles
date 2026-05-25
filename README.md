@@ -25,6 +25,22 @@ A modern, easy-to-read translation ideal for devotional study and devotions.
 
 A word-for-word translation known for literary excellence and theological precision. Ideal for detailed Bible study and expository preaching.
 
+### 📖 KJV — King James Version
+- **License:** Public domain (US and most countries)
+- **Source:** https://github.com/scrollmapper/bible_databases
+- **Folder:** [kjv/](kjv/)
+- **Size:** ~4.2 MB (66 books, 31,102 verses)
+
+The classic 1611 translation, foundational to English-speaking Christianity for 400+ years. Known for its majestic prose and literary influence.
+
+### 📖 NKJV — New King James Version
+- **License:** Copyright Thomas Nelson. Used by permission. For personal use only.
+- **Source:** https://www.bible.com/versions/114-NKJV
+- **Folder:** [nkjv/](nkjv/)
+- **Size:** ~4.3 MB (66 books, 31,102 verses)
+
+A modern update of the KJV that preserves the traditional literary beauty while replacing archaic words with contemporary equivalents.
+
 ### 📖 MacArthur Study Bible (ESV)
 - **License:** Scripture: Copyright 2001 by Crossway. Used by permission. For personal use only. Study notes: Copyright by John MacArthur. Used by permission.
 - **Source:** ESV text from https://www.esv.org; Study notes from The MacArthur Study Bible
@@ -50,6 +66,9 @@ Place any translation folder in your agent workspace:
 ~/.openclaw/workspace/bibles/bsb/bsb.md
 ~/.openclaw/workspace/bibles/nlt/nlt.md
 ~/.openclaw/workspace/bibles/esv/esv.md
+~/.openclaw/workspace/bibles/kjv/kjv.md
+~/.openclaw/workspace/bibles/nkjv/nkjv.md
+~/.openclaw/workspace/bibles/macarthur-esv/macarthur-esv-study-bible.md
 ```
 
 Then ask your assistant questions like:
@@ -57,6 +76,8 @@ Then ask your assistant questions like:
 - "Read Genesis 1:1-5 from NLT"
 - "Find all verses about grace in ESV"
 - "Compare how different translations render Romans 3:23"
+- "Read John 3:16 in KJV"
+- "Show me the NKJV version of Psalm 23"
 
 ## Adding More Translations
 
