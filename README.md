@@ -25,6 +25,14 @@ A modern, easy-to-read translation ideal for devotional study and devotions.
 
 A word-for-word translation known for literary excellence and theological precision. Ideal for detailed Bible study and expository preaching.
 
+### 📖 MacArthur Study Bible (ESV)
+- **License:** Scripture: Copyright 2001 by Crossway. Used by permission. For personal use only. Study notes: Copyright by John MacArthur. Used by permission.
+- **Source:** ESV text from https://www.esv.org; Study notes from The MacArthur Study Bible
+- **Folder:** [macarthur-esv/](macarthur-esv/)
+- **Size:** ~10.3 MB (66 books, 31,000+ verses, 17,000+ study notes)
+
+The complete English Standard Version text with **John MacArthur's verse-by-verse study notes and commentary**. Includes book introductions, theological overviews, interpretive challenges, outlines, footnotes, and detailed explanations — ideal for in-depth Bible study and sermon preparation.
+
 ---
 
 ## Why Markdown?
