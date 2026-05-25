@@ -26,12 +26,17 @@ Planned translations:
 - CSB 中文标准译本 (Chinese Standard Bible)
 
 ### Español (Spanish)
-**Folder:** [Spanish/](Spanish/)
+**Folder:** [Español/](Español/)
 
-Planned translations:
-- RVR1960 — Reina-Valera 1960
-- NVI — Nueva Versión Internacional
-- DHH — Dios Habla Hoy
+| Translation | License | Folder |
+|-------------|---------|--------|
+| 📖 RVR1960 — Reina-Valera 1960 | Public domain (revisada 1960) | [RVR1960/](Español/RVR1960/) |
+| 📖 NVI — Nueva Versión Internacional | Copyright Biblica (personal use) | [NVI/](Español/NVI/) |
+| 📖 NTV — Nueva Traducción Viviente | Copyright Tyndale (personal use) | [NTV/](Español/NTV/) |
+
+**RVR1960:** The classic Spanish Bible, trusted for generations.
+**NVI:** Modern, accurate, widely used in Latin America.
+**NTV:** Very dynamic-equivalence, easy to read for all ages.
 
 ### العربية (Arabic)
 **Folder:** [Arabic/](Arabic/)
@@ -66,6 +71,9 @@ Place any translation folder in your agent workspace:
 ~/.openclaw/workspace/bibles/English/macarthur-esv/macarthur-esv-study-bible.md
 ~/.openclaw/workspace/bibles/العربية/SAB/kitab-al-shareef.md
 ~/.openclaw/workspace/bibles/العربية/NAV/kitab-al-hayat.md
+~/.openclaw/workspace/bibles/Español/RVR1960/rvr1960.md
+~/.openclaw/workspace/bibles/Español/NVI/nvi.md
+~/.openclaw/workspace/bibles/Español/NTV/ntv.md
 ```
 
 Then ask your assistant questions like:
@@ -77,6 +85,9 @@ Then ask your assistant questions like:
 - "Show me the NKJV version of Psalm 23"
 - "Read Genesis 1 in Arabic (NAV)"
 - "Find John 3:16 in Kitab Al Shareef"
+- "Lee Salmo 23 en RVR1960"
+- "Busca Juan 3:16 en NVI"
+- "Compare Romanos 8:28 entre RVR1960 y NTV"
 
 ## Adding More Translations
 
