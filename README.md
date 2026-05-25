@@ -2,52 +2,43 @@
 
 A collection of complete Bible translations in **Markdown format** — freely available for OpenClaw, Hermes, and other AI agent platforms.
 
-## Available Translations
+---
 
-### 📖 BSB — Berean Standard Bible
-- **License:** CC BY-SA 4.0
-- **Source:** https://berean.bible/
-- **Folder:** [bsb/](bsb/)
+## 🌐 Languages
 
-A free, open-source English translation. Known for accuracy and readability.
+### English
+**Folder:** [English/](English/)
 
-### 📖 NLT — New Living Translation
-- **License:** Copyright Tyndale House Publishers. For personal use only. Used with permission.
-- **Source:** https://www.bible.com/versions/116-nlt-new-living-translation
-- **Folder:** [nlt/](nlt/)
+| Translation | License | Folder |
+|-------------|---------|--------|
+| 📖 BSB — Berean Standard Bible | CC BY-SA 4.0 | [bsb/](English/bsb/) |
+| 📖 NLT — New Living Translation | Copyright Tyndale (personal use) | [nlt/](English/nlt/) |
+| 📖 ESV — English Standard Version | Copyright Crossway (personal use) | [esv/](English/esv/) |
+| 📖 KJV — King James Version | Public domain | [kjv/](English/kjv/) |
+| 📖 NKJV — New King James Version | Copyright Thomas Nelson (personal use) | [nkjv/](English/nkjv/) |
+| 📖 MacArthur Study Bible (ESV) | Scripture: Crossway; Notes: MacArthur | [macarthur-esv/](English/macarthur-esv/) |
 
-A modern, easy-to-read translation ideal for devotional study and devotions.
+### 中文 (Chinese)
+**Folder:** [Chinese/](Chinese/)
 
-### 📖 ESV — English Standard Version
-- **License:** Copyright 2001 by Crossway. Used by permission. For personal use only.
-- **Source:** https://www.esv.org
-- **Folder:** [esv/](esv/)
+Planned translations:
+- CUV 和合本 (Chinese Union Version)
+- CSB 中文标准译本 (Chinese Standard Bible)
 
-A word-for-word translation known for literary excellence and theological precision. Ideal for detailed Bible study and expository preaching.
+### Español (Spanish)
+**Folder:** [Spanish/](Spanish/)
 
-### 📖 KJV — King James Version
-- **License:** Public domain (US and most countries)
-- **Source:** https://github.com/scrollmapper/bible_databases
-- **Folder:** [kjv/](kjv/)
-- **Size:** ~4.2 MB (66 books, 31,102 verses)
+Planned translations:
+- RVR1960 — Reina-Valera 1960
+- NVI — Nueva Versión Internacional
+- DHH — Dios Habla Hoy
 
-The classic 1611 translation, foundational to English-speaking Christianity for 400+ years. Known for its majestic prose and literary influence.
+### العربية (Arabic)
+**Folder:** [Arabic/](Arabic/)
 
-### 📖 NKJV — New King James Version
-- **License:** Copyright Thomas Nelson. Used by permission. For personal use only.
-- **Source:** https://www.bible.com/versions/114-NKJV
-- **Folder:** [nkjv/](nkjv/)
-- **Size:** ~4.3 MB (66 books, 31,102 verses)
-
-A modern update of the KJV that preserves the traditional literary beauty while replacing archaic words with contemporary equivalents.
-
-### 📖 MacArthur Study Bible (ESV)
-- **License:** Scripture: Copyright 2001 by Crossway. Used by permission. For personal use only. Study notes: Copyright by John MacArthur. Used by permission.
-- **Source:** ESV text from https://www.esv.org; Study notes from The MacArthur Study Bible
-- **Folder:** [macarthur-esv/](macarthur-esv/)
-- **Size:** ~10.3 MB (66 books, 31,000+ verses, 17,000+ study notes)
-
-The complete English Standard Version text with **John MacArthur's verse-by-verse study notes and commentary**. Includes book introductions, theological overviews, interpretive challenges, outlines, footnotes, and detailed explanations — ideal for in-depth Bible study and sermon preparation.
+Planned translations:
+- NAV — New Arabic Version (الترجمة العربية المبسطة)
+- AV — Arabic Van Dyck (فان دايك)
 
 ---
 
@@ -63,12 +54,12 @@ The complete English Standard Version text with **John MacArthur's verse-by-vers
 Place any translation folder in your agent workspace:
 
 ```
-~/.openclaw/workspace/bibles/bsb/bsb.md
-~/.openclaw/workspace/bibles/nlt/nlt.md
-~/.openclaw/workspace/bibles/esv/esv.md
-~/.openclaw/workspace/bibles/kjv/kjv.md
-~/.openclaw/workspace/bibles/nkjv/nkjv.md
-~/.openclaw/workspace/bibles/macarthur-esv/macarthur-esv-study-bible.md
+~/.openclaw/workspace/bibles/English/bsb/bsb.md
+~/.openclaw/workspace/bibles/English/nlt/nlt.md
+~/.openclaw/workspace/bibles/English/esv/esv.md
+~/.openclaw/workspace/bibles/English/kjv/kjv.md
+~/.openclaw/workspace/bibles/English/nkjv/nkjv.md
+~/.openclaw/workspace/bibles/English/macarthur-esv/macarthur-esv-study-bible.md
 ```
 
 Then ask your assistant questions like:
