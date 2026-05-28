@@ -2,52 +2,21 @@
 
 A collection of complete Bible translations in **Markdown format** — freely available for OpenClaw, Hermes, and other AI agent platforms.
 
----
+## Available Translations
 
-## 🌐 Languages
+### 📖 BSB — Berean Standard Bible
+- **License:** CC BY-SA 4.0
+- **Source:** https://berean.bible/
+- **Folder:** [bsb/](bsb/)
 
-### English
-**Folder:** [English/](English/)
+A free, open-source English translation. Known for accuracy and readability.
 
-| Translation | License | Folder |
-|-------------|---------|--------|
-| 📖 BSB — Berean Standard Bible | CC BY-SA 4.0 | [bsb/](English/bsb/) |
-| 📖 NLT — New Living Translation | Copyright Tyndale (personal use) | [nlt/](English/nlt/) |
-| 📖 ESV — English Standard Version | Copyright Crossway (personal use) | [esv/](English/esv/) |
-| 📖 KJV — King James Version | Public domain | [kjv/](English/kjv/) |
-| 📖 NKJV — New King James Version | Copyright Thomas Nelson (personal use) | [nkjv/](English/nkjv/) |
-| 📖 MacArthur Study Bible (ESV) | Scripture: Crossway; Notes: MacArthur | [macarthur-esv/](English/macarthur-esv/) |
+### 📖 RCUV — 和合本修訂版 (Revised Chinese Union Version)
+- **License:** Copyright © 2006, 2010 Hong Kong Bible Society. Used by permission.
+- **Source:** https://www.bible.com/bible/140/MRK.3.RCUVSS
+- **Folder:** [Chinese/RCUV/](Chinese/RCUV/)
 
-### 中文 (Chinese)
-**Folder:** [Chinese/](Chinese/)
-
-Planned translations:
-- CUV 和合本 (Chinese Union Version)
-- CSB 中文标准译本 (Chinese Standard Bible)
-
-### Español (Spanish)
-**Folder:** [Español/](Español/)
-
-| Translation | License | Folder |
-|-------------|---------|--------|
-| 📖 RVR1960 — Reina-Valera 1960 | Public domain (revisada 1960) | [RVR1960/](Español/RVR1960/) |
-| 📖 NVI — Nueva Versión Internacional | Copyright Biblica (personal use) | [NVI/](Español/NVI/) |
-| 📖 NTV — Nueva Traducción Viviente | Copyright Tyndale (personal use) | [NTV/](Español/NTV/) |
-
-**RVR1960:** The classic Spanish Bible, trusted for generations.
-**NVI:** Modern, accurate, widely used in Latin America.
-**NTV:** Very dynamic-equivalence, easy to read for all ages.
-
-### العربية (Arabic)
-**Folder:** [Arabic/](Arabic/)
-
-| Translation | License | Folder |
-|-------------|---------|--------|
-| 📖 SAB — Kitab Al Shareef (السفر المقدس) | Public domain | [SAB/](Arabic/SAB/) |
-| 📖 NAV — Kitab Al-Hayat (كتاب الحياة) | Copyright Biblica (personal use) | [NAV/](Arabic/NAV/) |
-
-**SAB** (Smith & Van Dyke): Classical Arabic, traditional translation from 1865.
-**NAV** (New Arabic Version): Modern simplified Arabic, easy to understand for contemporary readers.
+The most widely used Chinese Bible translation among Protestant churches. Simplified Chinese edition (2010).
 
 ---
 
@@ -60,40 +29,22 @@ Planned translations:
 
 ## How to Use
 
-Place any translation folder in your agent workspace:
+Place any translation folder in your agent's workspace:
 
 ```
-~/.openclaw/workspace/bibles/English/bsb/bsb.md
-~/.openclaw/workspace/bibles/English/nlt/nlt.md
-~/.openclaw/workspace/bibles/English/esv/esv.md
-~/.openclaw/workspace/bibles/English/kjv/kjv.md
-~/.openclaw/workspace/bibles/English/nkjv/nkjv.md
-~/.openclaw/workspace/bibles/English/macarthur-esv/macarthur-esv-study-bible.md
-~/.openclaw/workspace/bibles/العربية/SAB/kitab-al-shareef.md
-~/.openclaw/workspace/bibles/العربية/NAV/kitab-al-hayat.md
-~/.openclaw/workspace/bibles/Español/RVR1960/rvr1960.md
-~/.openclaw/workspace/bibles/Español/NVI/nvi.md
-~/.openclaw/workspace/bibles/Español/NTV/ntv.md
+~/.openclaw/workspace/bibles/bsb/bsb.md
 ```
 
 Then ask your assistant questions like:
 - "What does BSB say about faith?"
-- "Read Genesis 1:1-5 from NLT"
-- "Find all verses about grace in ESV"
-- "Compare how different translations render Romans 3:23"
-- "Read John 3:16 in KJV"
-- "Show me the NKJV version of Psalm 23"
-- "Read Genesis 1 in Arabic (NAV)"
-- "Find John 3:16 in Kitab Al Shareef"
-- "Lee Salmo 23 en RVR1960"
-- "Busca Juan 3:16 en NVI"
-- "Compare Romanos 8:28 entre RVR1960 y NTV"
+- "Read Genesis 1:1-5 from BSB"
+- "Find all verses about grace"
 
 ## Adding More Translations
 
-More Bible translations will be added as subfolders over time. All translations use open or public domain licenses unless otherwise noted.
+More Bible translations (KJV, WEB, etc.) will be added as subfolders over time. All translations use open or public domain licenses.
 
 ## Related
 
 - [OpenClaw](https://github.com/openclaw/openclaw) — Agent platform this was created for
-- [Hermes](https://github.com/NousResearch/hermes-agent) — Compatible with this format
+- [Hermes](https://github.com/niclasolofsson/hermes) — Compatible with this format
