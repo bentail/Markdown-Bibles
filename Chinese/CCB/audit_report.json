@@ -1,0 +1,13 @@
+{
+  "language": "Chinese",
+  "translation": "CCB",
+  "status": "PASS",
+  "issues": [],
+  "warnings": [],
+  "stats": {
+    "book_count": 66,
+    "expected_books": 66,
+    "total_chapters": 1189,
+    "total_verses": 31103
+  }
+}

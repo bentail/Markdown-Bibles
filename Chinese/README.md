@@ -1,39 +1,30 @@
 # Chinese Bible Translations
 
-Available Chinese Bible translations in this repository:
+## Available Translations
 
-## 和合本修訂版 (RCUV) - Revised Chinese Union Version
+### 和合本修訂版 (RCUV) - Revised Chinese Union Version
+- **File**: `RCUV/rcuv.md`
+- **Status**: ✅ Complete
+- **Source**: Hong Kong Bible Society
 
-**Folder**: `RCUV/`
-**File**: `rcuv.md`
-**Status**: ✅ Complete and verified
+### 圣经新译本 (CNV) - Chinese New Version
+- **File**: `CNV/cnv.md`
+- **Status**: ✅ Complete
+- **Source**: Worldwide Bible Society
 
-The most widely used Chinese Bible translation among Protestant churches. This is the Simplified Chinese edition published in 2010 by the Hong Kong Bible Society.
+### 和合本 (CUV) - Chinese Union Version
+- **File**: `CUV/cuv.md`
+- **Status**: ✅ Complete
+- **Source**: United Bible Societies
 
-### Features
-- Complete Bible (66 books, 1,189 chapters, 31,033 verses)
-- Simplified Chinese characters
-- UTF-8 encoding
-- Proper Markdown formatting
-
-### Copyright
-Scripture Text of Revised Chinese Union Version © 2006, 2010 Hong Kong Bible Society. Used by permission.
-
----
-
-## Planned Translations
-
-- CUV 和合本 (Traditional Chinese) - Original 1919 version
-- CSB 中文标准译本 (Chinese Standard Bible)
+### 当代译本 (CCB) - Chinese Contemporary Bible
+- **File**: `CCB/ccb.md`
+- **Status**: ✅ Complete
+- **Source**: Biblica
 
 ## Usage
 
-Place in your agent's workspace:
-```
-~/.openclaw/workspace/bibles/Chinese/RCUV/rcuv.md
-```
-
-Then ask questions like:
-- "创世记第一章讲什么？"
-- "约翰福音3:16怎么说？"
-- "查找关于爱的经文"
+All translations use Simplified Chinese characters and follow the same Markdown format:
+- `# Book Name` for book headers
+- `## Chapter N` for chapter headers
+- `**vN**` for verse markers
