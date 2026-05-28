@@ -2,11 +2,14 @@
 
 ## Available Translations
 
-### 현대인의 성경 (KLB) - Korean Living Bible
+### KLB (Korean Living Bible)
 - **File**: `KLB/klb.md`
 - **Status**: ✅ Complete
-- **Source**: Biblica
+
+### SNKRV (Standard New Korean Revised Version)
+- **File**: `SNKRV/snkrv.md`
+- **Status**: ✅ Complete
 
 ## Usage
 
-Korean translations use the standard Markdown format with Korean book names.
+Korean translations use standard Korean book names.

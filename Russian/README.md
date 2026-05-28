@@ -2,10 +2,17 @@
 
 ## Available Translations
 
-### НРТ (NRT) - New Russian Translation
+### NRT (New Russian Translation)
 - **File**: `NRT/nrt.md`
 - **Status**: ✅ Complete
-- **Source**: Institute for Bible Translation
+
+### CARS (Corrected Armenian-Russian Synodal)
+- **File**: `CARS/cars.md`
+- **Status**: ✅ Complete
+
+### SYNO (Synodal Translation)
+- **File**: `SYNO/syno.md`
+- **Status**: ✅ Complete
 
 ## Usage
 
