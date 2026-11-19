@@ -123,9 +123,12 @@ All translations use consistent Markdown formatting:
 ### Accepted source-backed rebuilds — November 19, 2026
 
 - **[Dari TDV](Dari/TDV/README.md):** 66 books / 1,189 chapters rebuilt and compared against all cached publisher source chapters with a separate parser; full/book consistency and 20 regression tests passed. The publisher serves a documented mixture of `tdv08` and `tdv` chapter variants.
-- **[French LSG 1910](French/LSG/README.md):** 66 books / 1,189 chapters rebuilt; all source verse units and headings compared across USFX, HTML and Markdown, with a separate parent-side HTML comparison of every chapter; 12 regression tests passed.
+- **[French LSG 1910](French/LSG/README.md):** 66 books / 1,189 chapters rebuilt; all source verse units and headings compared across USFX, HTML and Markdown, with a separate parent-side HTML comparison of every chapter; 12 regression tests passed. Supplementary Qwen4-Max review complete (1,189/1,189 chapters, $0).
+- **[Farsi PCB](Farsi/PCB/README.md):** Persian Contemporary Bible (Bible.com v1619), 66 books / 1,189 chapters rebuilt from cached raw; 913 combined ranges rendered once, glued in-body labels stripped, truncated text restored, scrambled book order fixed; 22 tests + independent all-chapter comparison passed. *Caveat:* cached raw is verse-text-only — section headings absent from source, footnotes preserved inline.
+- **[Farsi TPV](Farsi/TPV/README.md):** Today's Persian Version, edition resolved to Bible.com v181 (2023 Revision) via 6 independent HTML witnesses; 66 books / 1,189 chapters rebuilt from authoritative raw, replacing a corrupted older-revision rendition; 26 checks + independent all-chapter comparison passed. *Caveat:* apparatus (headings/footnotes) absent from raw; EZR 10:23 absent in the source edition itself.
+- **[Spanish NTV](Spanish/NTV/README.md):** **Critical language fix** — the previous file was a Sesotho Bible, not Spanish. Correct Nueva Traducción Viviente restored verbatim from the verified Spanish backup (langdetect `es` 1,189/1,189); 66 books / 1,189 chapters / 31,040 verses; 31 independent + hardening checks passed. *Known gap:* 48 verses (NUM 1:20–43 + NUM 2 camp lists) are absent from the backup witness and require an authorized Tyndale source to complete; 16 other omissions are legitimate NTV versification.
 
-These are high-confidence source-fidelity checks, not guarantees of infallibility or independent scholarly collations. Supplemental model-assisted reviews continue separately.
+These are high-confidence source-fidelity checks, not guarantees of infallibility or independent scholarly collations. Per-translation residual gaps are documented in each README/audit report.
 
 ### Other files
 

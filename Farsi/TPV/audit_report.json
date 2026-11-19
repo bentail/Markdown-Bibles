@@ -1,0 +1,26 @@
+{
+  "language": "Farsi",
+  "translation": "TPV",
+  "status": "PASS",
+  "issues": [],
+  "warnings": [],
+  "stats": {
+    "book_count": 66,
+    "expected_books": 66,
+    "total_chapters": 1189,
+    "total_verses": 30298
+  },
+  "source": {
+    "edition": "Bible.com version 181 — 2023 Revision",
+    "rights": "copyrighted; existing corpus text, deterministic local repair"
+  },
+  "verification": {
+    "scope": "deterministic cached-source rebuild; independent separate-parser all-chapter comparison + regression tests; not independent scholarly collation",
+    "regression_tests_passed": 26,
+    "full_book_consistency": true,
+    "combined_range_entries": 393,
+    "originals_preserved": true,
+    "edition_witness_chapters_matched": "6/6",
+    "source_versification_gap": "EZR 10:23 absent in v181"
+  }
+}

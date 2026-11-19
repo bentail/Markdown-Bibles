@@ -1,0 +1,29 @@
+{
+  "language": "Spanish",
+  "translation": "NTV",
+  "status": "RESTORED_CORRECT_LANGUAGE_WITH_DOCUMENTED_GAP",
+  "issues": [],
+  "warnings": [
+    "**KNOWN GAP — 48 verses missing:** the backup witness omits **NUM 1:20–43 (census) and the NUM 2 camp lists**. No local correct-language source can fill them (the raw is Sesotho; substituting another translation is forbidden). Completing these requires an **authorized Tyndale NTV source/permission** (bulk/AI restricted; no bulk fetch performed). Separately, 16 critical-text omissions (e.g. MAT 17:21, MRK 7:16, JHN 5:4, ACT 8:37) are **legitimate NTV versification**, preserved intentionally."
+  ],
+  "stats": {
+    "book_count": 66,
+    "expected_books": 66,
+    "total_chapters": 1189,
+    "total_verses": 31040
+  },
+  "source": {
+    "edition": "Tyndale / Bible.com v127",
+    "rights": "copyrighted (Tyndale); existing corpus text, deterministic local repair"
+  },
+  "verification": {
+    "scope": "deterministic cached-source rebuild; independent separate-parser all-chapter comparison + regression tests; not independent scholarly collation",
+    "regression_tests_passed": 31,
+    "full_book_consistency": true,
+    "combined_range_entries": null,
+    "originals_preserved": true,
+    "language": "es (langdetect 1189/1189)",
+    "known_missing_verses": "NUM 1:20-43 + NUM 2 camp lists (48 verses) — requires authorized Tyndale source",
+    "legitimate_versification_omissions": 16
+  }
+}

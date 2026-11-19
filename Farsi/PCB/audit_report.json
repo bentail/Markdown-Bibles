@@ -1,0 +1,26 @@
+{
+  "language": "Farsi",
+  "translation": "PCB",
+  "status": "PASS",
+  "issues": [],
+  "warnings": [],
+  "stats": {
+    "book_count": 66,
+    "expected_books": 66,
+    "total_chapters": 1189,
+    "total_verses": 29469
+  },
+  "source": {
+    "edition": "Bible.com version 1619 (Biblica)",
+    "rights": "copyrighted (Biblica); existing corpus text, deterministic local repair"
+  },
+  "verification": {
+    "scope": "deterministic cached-source rebuild; independent separate-parser all-chapter comparison + regression tests; not independent scholarly collation",
+    "regression_tests_passed": 22,
+    "full_book_consistency": true,
+    "combined_range_entries": 913,
+    "originals_preserved": true,
+    "cached_html_witness_chapters": 3,
+    "cached_html_verse_rows": 111
+  }
+}
