@@ -17,8 +17,8 @@
     "regression_tests_passed": 12,
     "usfx_html_markdown_all_chapters": "PASS",
     "independent_parent_html_all_chapters": "PASS",
-    "qwen_supplementary_chapter_reviews": 1158,
-    "qwen_remaining": "31 Proverbs chapters (provider content-filter blocker; optional extra QA)"
+    "qwen_supplementary_chapter_reviews": 1189,
+    "qwen_remaining": "none — all 1,189 chapters reviewed at $0; final 31 Proverbs chapters cleared via per-chapter partitioning"
   },
   "source": {
     "edition": "Louis Segond 1910",

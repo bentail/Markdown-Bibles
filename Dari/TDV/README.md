@@ -1,7 +1,6 @@
 # Dari — Today's Dari Version (TDV)
 
 - Full Bible: [tdv.md](tdv.md)
-- Individual books: [books/](books/)
 - Verification: [audit_report.json](audit_report.json)
 - Publisher source: <https://afghanbibles.org/eng/dari-bible/>
 
