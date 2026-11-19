@@ -9,5 +9,23 @@
     "expected_books": 66,
     "total_chapters": 1189,
     "total_verses": 31170
+  },
+  "verification": {
+    "scope": "source-fidelity rebuild; deterministic all-chapter comparison + regression tests; not independent scholarly collation",
+    "combined_range_entries": 0,
+    "full_book_consistency": true,
+    "regression_tests_passed": 12,
+    "usfx_html_markdown_all_chapters": "PASS",
+    "independent_parent_html_all_chapters": "PASS",
+    "qwen_supplementary_chapter_reviews": 1158,
+    "qwen_remaining": "31 Proverbs chapters (provider content-filter blocker; optional extra QA)"
+  },
+  "source": {
+    "edition": "Louis Segond 1910",
+    "rights": "public domain",
+    "archives": [
+      "https://ebible.org/Scriptures/fraLSG_usfx.zip",
+      "https://ebible.org/Scriptures/fraLSG_html.zip"
+    ]
   }
 }

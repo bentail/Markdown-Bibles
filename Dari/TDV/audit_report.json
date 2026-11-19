@@ -1,0 +1,34 @@
+{
+  "language": "Dari",
+  "translation": "TDV",
+  "status": "PASS",
+  "issues": [],
+  "warnings": [],
+  "stats": {
+    "book_count": 66,
+    "expected_books": 66,
+    "total_chapters": 1189,
+    "total_verses": 30009,
+    "verse_entries": 30009,
+    "verse_numbers_covered": 31104,
+    "combined_range_entries": 598,
+    "headings": 5784
+  },
+  "verification": {
+    "scope": "source-fidelity rebuild; deterministic all-chapter comparison + regression tests; not independent scholarly collation",
+    "combined_range_entries": 598,
+    "full_book_consistency": true,
+    "regression_tests_passed": 20,
+    "independent_all_chapter_source_comparison": "PASS",
+    "commonmark_render_all_chapters": "PASS",
+    "qwen_supplementary_chapter_reviews": 24
+  },
+  "source": {
+    "publisher": "https://afghanbibles.org/eng/dari-bible/",
+    "served_chapter_variants": {
+      "tdv08": 682,
+      "tdv": 507
+    },
+    "note": "publisher-served mixed-tag compilation; not a uniform historical edition"
+  }
+}

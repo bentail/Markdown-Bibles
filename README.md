@@ -1,13 +1,12 @@
 # Markdown Bibles
 
-A collection of **30 complete Bible translations** in **Markdown format** — freely available for OpenClaw, Hermes, and other AI agent platforms.
+A collection of Bible translations in **Markdown format** for study tools, OpenClaw, Hermes, and other AI agent platforms. Translation rights and verification status vary; see the notes below.
 
 ## 📊 Quick Stats
 
-- **30 translations** across **12 languages**
-- **12 languages**: English, Chinese, Spanish, Russian, French, Korean, Japanese, Farsi, Dari, Tajik, Arabic, Kurdish
-- All translations are **complete** (66 books, 1,189 chapters)
-- Verified with automated audit reports
+- The language/translation listings below describe the collection, not a completed accuracy certification.
+- Canon and chapter numbering are edition-specific; not every translation is a 66-book Bible.
+- Earlier automated completion labels have been superseded by source-backed repair work. See **Verification** below.
 
 ## Available Translations by Language
 
@@ -121,11 +120,18 @@ All translations use consistent Markdown formatting:
 
 ## Verification
 
-All translations have been verified with automated audit scripts checking:
-- ✅ 66 books (39 OT + 27 NT)
-- ✅ 1,189 chapters
-- ✅ Complete verse coverage
-- ✅ Proper handling of combined verses (e.g., genealogies)
+### Accepted source-backed rebuilds — November 19, 2026
+
+- **[Dari TDV](Dari/TDV/README.md):** 66 books / 1,189 chapters rebuilt and compared against all cached publisher source chapters with a separate parser; full/book consistency and 20 regression tests passed. The publisher serves a documented mixture of `tdv08` and `tdv` chapter variants.
+- **[French LSG 1910](French/LSG/README.md):** 66 books / 1,189 chapters rebuilt; all source verse units and headings compared across USFX, HTML and Markdown, with a separate parent-side HTML comparison of every chapter; 12 regression tests passed.
+
+These are high-confidence source-fidelity checks, not guarantees of infallibility or independent scholarly collations. Supplemental model-assisted reviews continue separately.
+
+### Other files
+
+**Do not treat the remaining collection as verified.** Recent spot checks found wrong-language assignments, truncated verses, footnote contamination and other extraction defects. ESV, the other French translations and Russian repairs are still in progress; incomplete staged candidates have not replaced their published files. Historical audit files outside the accepted rebuilds may be stale.
+
+Combined verse ranges, Psalm superscriptions and edition-specific canon/numbering must be evaluated against the actual source, not a universal verse-count template.
 
 ## Adding More Translations
 
