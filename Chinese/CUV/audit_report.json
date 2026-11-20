@@ -8,6 +8,24 @@
     "book_count": 66,
     "expected_books": 66,
     "total_chapters": 1189,
-    "total_verses": 31100
+    "total_verses": 31039,
+    "numeric_verse_ids": 31103
+  },
+  "source": {
+    "edition": "Chinese Union Version — Traditional, old-punctuation 神-edition family (public domain)",
+    "witness": "Aizhu CUV Traditional, archived 2016-02-06 (live source blocked)",
+    "apparatus": "public-domain eBible section headings; copyrighted WeDevote headings NOT borrowed"
+  },
+  "verification": {
+    "scope": "source-fidelity rebuild; independent separate-parser all-chapter comparison + regression tests",
+    "regression_tests_passed": 27,
+    "all_chapters_compared": 1189,
+    "unexplained_differences": 0,
+    "full_book_consistency": true,
+    "combined_ranges": 64,
+    "psalm_superscriptions": 116,
+    "section_headings_added": 12,
+    "originals_preserved": 71,
+    "script_resolution": "Traditional FULL retained; 66 books regenerated to match (no automatic script conversion)"
   }
 }

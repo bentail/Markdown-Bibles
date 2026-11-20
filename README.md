@@ -128,6 +128,8 @@ All translations use consistent Markdown formatting:
 - **[Farsi TPV](Farsi/TPV/README.md):** Today's Persian Version, edition resolved to Bible.com v181 (2023 Revision) via 6 independent HTML witnesses; 66 books / 1,189 chapters rebuilt from authoritative raw, replacing a corrupted older-revision rendition; 26 checks + independent all-chapter comparison passed. *Caveat:* apparatus (headings/footnotes) absent from raw; EZR 10:23 absent in the source edition itself.
 - **[Spanish NTV](Spanish/NTV/README.md):** **Critical language fix** — the previous file was a Sesotho Bible, not Spanish. Correct Nueva Traducción Viviente restored verbatim from the verified Spanish backup (langdetect `es` 1,189/1,189); 66 books / 1,189 chapters / 31,040 verses; 31 independent + hardening checks passed. *Known gap:* 48 verses (NUM 1:20–43 + NUM 2 camp lists) are absent from the backup witness and require an authorized Tyndale source to complete; 16 other omissions are legitimate NTV versification.
 
+- **[Chinese CUV](Chinese/CUV/README.md):** Chinese Union Version, Traditional old-punctuation 神-edition family (public domain); resolved the Traditional-FULL vs Simplified-book divergence by regenerating all 66 books to match the Traditional FULL; 116 Psalm superscriptions separated, 12 public-domain section headings added, Luke 12:19 bracket artifact removed, 64 combined ranges preserved. All 1,189 chapters compared against the archived Traditional witness with **zero unexplained differences**; 27 tests pass.
+
 These are high-confidence source-fidelity checks, not guarantees of infallibility or independent scholarly collations. Per-translation residual gaps are documented in each README/audit report.
 
 ### Other files
