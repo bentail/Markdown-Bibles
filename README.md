@@ -130,6 +130,8 @@ All translations use consistent Markdown formatting:
 
 - **[Chinese CUV](Chinese/CUV/README.md):** Chinese Union Version, Traditional old-punctuation 神-edition family (public domain); resolved the Traditional-FULL vs Simplified-book divergence by regenerating all 66 books to match the Traditional FULL; 116 Psalm superscriptions separated, 12 public-domain section headings added, Luke 12:19 bracket artifact removed, 64 combined ranges preserved. All 1,189 chapters compared against the archived Traditional witness with **zero unexplained differences**; 27 tests pass.
 
+- **[English BSB](English/bsb/README.md):** Berean Standard Bible, **public domain (CC0**, dedicated April 30, 2023). Current official text verified against `bereanbible.com/bsb.txt`: 4,463 spacing repairs, 116 Psalm superscriptions restored, 16 pre-existing content discrepancies reconciled; all 1,189 chapters / 31,086 verses match with zero unresolved differences; 30 tests pass. Corrected the folder's outdated CC BY-SA / Lockman Foundation license notice to the official public-domain dedication. (`bsb_with_footnotes.md` legacy variant pending the same pass.)
+
 These are high-confidence source-fidelity checks, not guarantees of infallibility or independent scholarly collations. Per-translation residual gaps are documented in each README/audit report.
 
 ### Other files

@@ -1,56 +1,21 @@
-# Berean Standard Bible (BSB)
+# English — Berean Standard Bible (BSB)
 
-A complete copy of the **Berean Standard Bible** — a free, open-source English translation of the Holy Bible.
+- Full Bible (no footnotes): [bsb.md](bsb.md)
+- Footnotes variant: [bsb_with_footnotes.md](bsb_with_footnotes.md) *(legacy; pending the same spacing/superscription pass)*
+- Verification: [audit_report.json](audit_report.json)
+- License: [Public Domain / CC0](LICENSE)
 
-## Translation Info
+## Edition and rights
 
-- **Translation:** Berean Standard Bible (BSB)
-- **Publisher:** BSB Publishing / Lockman Foundation
-- **License:** [CC BY-SA 4.0](../LICENSE) *(same directory)*
-- **Website:** https://berean.bible/
+The Berean Standard Bible is **public domain (CC0 1.0 Universal)**, officially dedicated April 30, 2023 by the Berean Bible Translation Committee with Bible Hub, Discovery Bible, and OpenBible.com (https://berean.bible/terms.htm). All uses freely permitted; attribution appreciated but not required. The prior CC BY-SA 4.0 / Lockman Foundation notice in this folder was incorrect and has been corrected.
 
-## Files
+## Reconstruction and verification
 
-### Main Bible Files
+`bsb.md` is the current official BSB text (verified against `bereanbible.com/bsb.txt`), repaired and independently validated:
 
-| File | Description | Use Case |
-|------|-------------|----------|
-| `bsb.md` | Clean Bible text only (no footnotes) | Reading, devotional, text-to-speech |
-| `bsb_with_footnotes.md` | Complete Bible with footnotes and cross-references | Study, research, detailed reading |
+- **4,463 spacing repairs** (3,354 merged-word boundaries, 783 missing separators, 326 extraneous gaps) across 3,351 verses — fixing words joined at poetic line-breaks and dialogue quote boundaries.
+- **116 Psalm superscriptions restored** (e.g. "A Psalm of Asaph."), corroborated against the current source.
+- **16 pre-existing content discrepancies reconciled** against the official text: 10 wording corrections, 3 Hebrew/English versification artifacts quarantined losslessly (2 Chr 1:18, 13:23; Micah 4:14 — correct English verses already present), and Malachi 4:4–6 restored.
+- **All 1,189 chapters / 31,086 verses match the current official BSB text, zero unresolved differences.** 30 regression tests pass; independent separate-parser verification, CommonMark rendering, canonical FULL/per-book equality, and byte-exact reversible ledgers verified.
 
-Both versions include:
-- All 66 books
-- ~31,000 verses
-- Chapter and section headers
-- Straight quotes (ASCII) for compatibility
-
-### Other Files
-
-- `LICENSE` — Full license text (CC BY-SA 4.0)
-- `README.md` — This file
-
-## How to Use
-
-### For Reading & Devotional
-Use `bsb.md` (no footnotes) for:
-- Clean reading without interruptions
-- Text-to-speech (no footnote markers read aloud)
-- Quick verse lookup
-- Copy-paste clean text
-
-### For Study & Research
-Use `bsb_with_footnotes.md` for:
-- "What does BSB say about faith?"
-- "Read Genesis 1:1-5 from BSB"
-- "Explain the footnote on John 3:16"
-
-## Attribution
-
-> The Berean Standard Bible (BSB) is a free, open-source English translation of the Holy Bible.
-> Copyright © 2022 by Lockman Foundation. Used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-> https://berean.bible/
-
-## Source
-
-- https://berean.bible/
-- https://berean.bible/licensing.htm
+This is source-fidelity validation against the official public-domain text, not a claim of infallibility. `bsb_with_footnotes.md` is the legacy footnotes variant and has not yet received the same spacing/superscription pass.

@@ -1,0 +1,32 @@
+{
+  "language": "English",
+  "translation": "BSB",
+  "status": "PASS",
+  "issues": [],
+  "warnings": [],
+  "stats": {
+    "book_count": 66,
+    "expected_books": 66,
+    "total_chapters": 1189,
+    "total_verses": 31086
+  },
+  "source": {
+    "edition": "Berean Standard Bible — current official text (Corrected Edition, No Footnotes)",
+    "rights": "Public Domain (CC0 1.0 Universal); dedicated April 30, 2023",
+    "authority": "https://bereanbible.com/bsb.txt + https://berean.bible/terms.htm",
+    "publisher": "Bible Hub / Berean Bible Translation Committee"
+  },
+  "verification": {
+    "scope": "source-fidelity repair; independent separate-parser all-chapter comparison vs official bsb.txt + BibleHub cross-checks",
+    "regression_tests_passed": 30,
+    "all_chapters_compared": 1189,
+    "chapters_matching_current_source": 1189,
+    "unresolved_differences": 0,
+    "spacing_repairs": 4463,
+    "psalm_superscriptions_restored": 116,
+    "content_discrepancies_reconciled": 16,
+    "full_book_consistency": true,
+    "byte_exact_reversible": true,
+    "metadata_correction": "Frontmatter/LICENSE updated from outdated CC BY-SA 4.0 (misattributed to Lockman Foundation) to official public-domain dedication; verse text byte-identical to verified staged artifact"
+  }
+}
