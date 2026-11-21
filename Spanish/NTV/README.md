@@ -1,20 +1,26 @@
 # Spanish — Nueva Traducción Viviente (NTV)
 
-- Full Bible: [ntv.md](ntv.md)
-- Verification: [audit_report.json](audit_report.json)
-- Edition: Tyndale / Bible.com v127
-- Rights: copyrighted (Tyndale); existing corpus text, deterministic local repair
+## WITHDRAWN — incomplete; do not use historical copies as a complete Bible
 
-## Reconstruction and verification
+The NTV Markdown text has been removed from the current published branch at the owner's request. The restored Spanish witness has **48 known missing verses in Numbers 1–2**, so it does not meet the publication requirement of zero known or unresolved errors. A warning alone does not make an incomplete Scripture file acceptable for release.
 
-**CRITICAL LANGUAGE FIX.** The previous `NTV_FULL.md`, all per-book files, `NTV_raw.json` and the published GitHub `ntv.md` were a **Sesotho (Southern Sotho) Bible — not Spanish NTV** (one bad fetch propagated to every artifact; the old audit falsely stamped PASS). Correct Spanish NTV was restored verbatim from `NTV_FULL.md.backup` (the correct May-27 witness): langdetect `es` 1189/1189, token recall 1.0 against fresh Bible.com NTV (v127).
+- **No NTV Bible-text download is provided in the current tree.**
+- Status: [audit_report.json](audit_report.json).
+- Local source files, repair candidates and backups are retained privately for correction.
+- Earlier Git commits still contain the withdrawn versions; Git history has not been rewritten. Those versions must not be treated as complete or verified Scripture.
 
-**Fixes applied.** Rebuilt 66 books / 1,189 chapters / 31,040 verses verbatim from the correct Spanish backup (no text altered or substituted); added 66 book headings; FULL == per-book byte equality.
+## Reason for withdrawal
 
-**Verification.** 17 independent separate-parser checks + 14 hardening checks pass: verse bodies byte-equal to the witness, raw verse-line byte multiset equality (31,040 == 31,040, 0 added/dropped), per-chapter sequence byte equality, CommonMark render, langdetect es 1189/1189, idempotent; originals re-hashed unchanged.
+An earlier wrong-language publication was replaced with a correct-language Spanish NTV backup. Subsequent checks established that the backup itself omits NUM 1:20–43 and parts of the NUM 2 camp lists. Rendering and backup-fidelity tests passed, but those tests did **not** establish a complete Bible.
 
-## Residual gaps (honest)
+The 16 separately documented critical-text omissions are source-specific NTV versification, not the reason for this withdrawal. They must not be filled from another translation.
 
-**KNOWN GAP — 48 verses missing:** the backup witness omits **NUM 1:20–43 (census) and the NUM 2 camp lists**. No local correct-language source can fill them (the raw is Sesotho; substituting another translation is forbidden). Completing these requires an **authorized Tyndale NTV source/permission** (bulk/AI restricted; no bulk fetch performed). Separately, 16 critical-text omissions (e.g. MAT 17:21, MRK 7:16, JHN 5:4, ACT 8:37) are **legitimate NTV versification**, preserved intentionally.
+## Requirements before republication
 
-These checks establish source-fidelity of the verse text, not infallibility or an independent scholarly collation. Originals were preserved with backups before replacement.
+1. Establish the exact target NTV edition and an authorized, complete source for it.
+2. Repair all actual source/extraction gaps without inventing text or substituting another translation.
+3. Independently compare all books, chapters, verse identifiers, verse text and authorial superscriptions; resolve note/verse boundaries and every known discrepancy.
+4. Run regression, rendering, full/per-book consistency and reversibility checks; obtain parent acceptance and satisfy applicable publication requirements.
+5. Publish only the accepted complete artifact, then verify its remote hash.
+
+Until these requirements pass, NTV remains withdrawn.

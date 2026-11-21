@@ -10,9 +10,9 @@
 - **File**: `NVI/nvi.md`
 - **Status**: ✅ Complete
 
-### NTV (Nueva Traducción Viviente)
-- **File**: `NTV/ntv.md`
-- **Status**: ✅ Complete
+### NTV (Nueva Traducción Viviente) — WITHDRAWN
+- **Notice**: [NTV withdrawal and repair requirements](NTV/README.md)
+- **Status**: Not available for download; known incomplete (48 missing verses in Numbers 1–2). Awaiting complete repair and independent verification.
 
 ## Usage
 

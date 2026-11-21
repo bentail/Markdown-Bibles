@@ -28,12 +28,12 @@ A collection of Bible translations in **Markdown format** for study tools, OpenC
 | **CNV** — 圣经新译本 (Chinese New Version) | [CNV/cnv.md](Chinese/CNV/cnv.md) | Copyright |
 | **CCB** — 当代译本 (Chinese Contemporary Bible) | [CCB/ccb.md](Chinese/CCB/ccb.md) | Copyright |
 
-### 🇪🇸 Spanish (3 translations)
+### 🇪🇸 Spanish (2 available; NTV withdrawn)
 | Translation | File | License |
 |-------------|------|---------|
 | **RVR1960** — Reina Valera 1960 | [RVR1960/rvr1960.md](Spanish/RVR1960/rvr1960.md) | Public Domain |
 | **NVI** — Nueva Versión Internacional | [NVI/nvi.md](Spanish/NVI/nvi.md) | Copyright |
-| **NTV** — Nueva Traducción Viviente | [NTV/ntv.md](Spanish/NTV/ntv.md) | Copyright |
+| **NTV** — Nueva Traducción Viviente (**WITHDRAWN**) | [Withdrawal notice](Spanish/NTV/README.md) | Copyright |
 
 ### 🇷🇺 Russian (3 translations)
 | Translation | File | License |
@@ -126,13 +126,16 @@ All translations use consistent Markdown formatting:
 - **[French LSG 1910](French/LSG/README.md):** 66 books / 1,189 chapters rebuilt; all source verse units and headings compared across USFX, HTML and Markdown, with a separate parent-side HTML comparison of every chapter; 12 regression tests passed. Supplementary Qwen4-Max review complete (1,189/1,189 chapters, $0).
 - **[Farsi PCB](Farsi/PCB/README.md):** Persian Contemporary Bible (Bible.com v1619), 66 books / 1,189 chapters rebuilt from cached raw; 913 combined ranges rendered once, glued in-body labels stripped, truncated text restored, scrambled book order fixed; 22 tests + independent all-chapter comparison passed. *Caveat:* cached raw is verse-text-only — section headings absent from source, footnotes preserved inline.
 - **[Farsi TPV](Farsi/TPV/README.md):** Today's Persian Version, edition resolved to Bible.com v181 (2023 Revision) via 6 independent HTML witnesses; 66 books / 1,189 chapters rebuilt from authoritative raw, replacing a corrupted older-revision rendition; 26 checks + independent all-chapter comparison passed. *Caveat:* apparatus (headings/footnotes) absent from raw; EZR 10:23 absent in the source edition itself.
-- **[Spanish NTV](Spanish/NTV/README.md):** **Critical language fix** — the previous file was a Sesotho Bible, not Spanish. Correct Nueva Traducción Viviente restored verbatim from the verified Spanish backup (langdetect `es` 1,189/1,189); 66 books / 1,189 chapters / 31,040 verses; 31 independent + hardening checks passed. *Known gap:* 48 verses (NUM 1:20–43 + NUM 2 camp lists) are absent from the backup witness and require an authorized Tyndale source to complete; 16 other omissions are legitimate NTV versification.
 
 - **[Chinese CUV](Chinese/CUV/README.md):** Chinese Union Version, Traditional old-punctuation 神-edition family (public domain); resolved the Traditional-FULL vs Simplified-book divergence by regenerating all 66 books to match the Traditional FULL; 116 Psalm superscriptions separated, 12 public-domain section headings added, Luke 12:19 bracket artifact removed, 64 combined ranges preserved. All 1,189 chapters compared against the archived Traditional witness with **zero unexplained differences**; 27 tests pass.
 
 - **[English BSB](English/bsb/README.md):** Berean Standard Bible, **public domain (CC0**, dedicated April 30, 2023). Current official text verified against `bereanbible.com/bsb.txt`: 4,463 spacing repairs, 116 Psalm superscriptions restored, 16 pre-existing content discrepancies reconciled; all 1,189 chapters / 31,086 verses match with zero unresolved differences; 30 tests pass. Corrected the folder's outdated CC BY-SA / Lockman Foundation license notice to the official public-domain dedication. (`bsb_with_footnotes.md` legacy variant pending the same pass.)
 
 These are high-confidence source-fidelity checks, not guarantees of infallibility or independent scholarly collations. Per-translation residual gaps are documented in each README/audit report.
+
+### Withdrawn pending complete correction
+
+**[Spanish NTV](Spanish/NTV/README.md) is withdrawn.** Its incomplete text has been removed from the current published branch because 48 known verses are missing in Numbers 1–2. It is not a completed or accepted Bible. Local repair copies and backups are retained; historical Git commits remain accessible and must not be treated as complete Scripture. Republication requires complete exact-edition verification with zero unresolved discrepancies.
 
 ### Other files
 

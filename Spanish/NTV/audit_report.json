@@ -1,8 +1,18 @@
 {
   "language": "Spanish",
   "translation": "NTV",
-  "status": "RESTORED_CORRECT_LANGUAGE_WITH_DOCUMENTED_GAP",
-  "issues": [],
+  "status": "WITHDRAWN_INCOMPLETE_DO_NOT_PUBLISH",
+  "publication_ready": false,
+  "published_text_available": false,
+  "withdrawal": {
+    "authorized_by": "repository owner",
+    "reason": "48 known missing verses in Numbers 1–2; zero-known-error publication requirement not satisfied",
+    "current_tree_text_removed": true,
+    "history_rewritten": false,
+    "local_sources_and_backups_preserved": true,
+    "republication_requires": "Complete exact-edition source verification, zero unresolved discrepancies, parent acceptance and remote hash confirmation"
+  },
+  "issues": ["Known incomplete source: 48 missing verses in Numbers 1–2"],
   "warnings": [
     "**KNOWN GAP — 48 verses missing:** the backup witness omits **NUM 1:20–43 (census) and the NUM 2 camp lists**. No local correct-language source can fill them (the raw is Sesotho; substituting another translation is forbidden). Completing these requires an **authorized Tyndale NTV source/permission** (bulk/AI restricted; no bulk fetch performed). Separately, 16 critical-text omissions (e.g. MAT 17:21, MRK 7:16, JHN 5:4, ACT 8:37) are **legitimate NTV versification**, preserved intentionally."
   ],
